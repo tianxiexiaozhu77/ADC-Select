@@ -1,0 +1,26 @@
+Q: You can buy 4 apples or 1 watermelon for the same price. You bought 36 fruits evenly split between oranges, apples and watermelons, and the price of 1 orange is $0.50. How much does 1 apple cost if your total bill was $66?
+A: Let's think step by step. 
+First, we know there are 36 fruits evenly split between oranges, apples, and watermelons, which means there are 12 of each fruit type. Given that the price of one orange is $0.50, the total cost for the oranges is 12 x $0.50 = $6. Next, we know the total bill is $66. Subtracting the cost of the oranges from the total bill, we get $66 - $6 = $60 remaining for the apples and watermelons. We are also told that 4 apples cost the same as 1 watermelon. Let's assume the price of one apple is x dollars. Thus, the price for 12 apples is 12x dollars, and since 4 apples cost as much as 1 watermelon, the price of one watermelon is 4x dollars. Therefore, the cost for 12 watermelons is 12 watermelons x (4x dollars each / 4) = 12x dollars. Combining the cost of apples and watermelons, we have 12x (apples) + 12x (watermelons) = 24x dollars. We know this total is $60. Solving for x, 24x = $60, which gives x = $60 / 24 = $2.50. Therefore, the price of one apple is $2.50.
+Therefore, the answer is (2.5).
+
+
+Q: Bella has two times as many marbles as frisbees. She also has 20 more frisbees than deck cards. If she buys 2/5 times more of each item, what would be the total number of the items she will have if she currently has 60 marbles?
+A: Let's think step by step. 
+First, we know Bella has 60 marbles. Since she has two times as many marbles as frisbees, we calculate the number of frisbees as 60 / 2 = 30 frisbees. Next, since Bella has 20 more frisbees than deck cards, the number of deck cards is 30 - 20 = 10 deck cards. Now, if she buys 2/5 times more of each item, the increase for each item is: Marbles: 60 * 2/5 = 24, Frisbees: 30 * 2/5 = 12, Deck cards: 10 * 2/5 = 4. Adding these to the original amounts gives: New total marbles = 60 + 24 = 84, New total frisbees = 30 + 12 = 42, New total deck cards = 10 + 4 = 14. Therefore, the total number of all items after the purchase is 84 marbles + 42 frisbees + 14 deck cards = 140.
+Therefore, the answer is (140).
+
+
+Q: Susy goes to a large school with 800 students, while Sarah goes to a smaller school with only 300 students.  At the start of the school year, Susy had 100 social media followers.  She gained 40 new followers in the first week of the school year, half that in the second week, and half of that in the third week.  Sarah only had 50 social media followers at the start of the year, but she gained 90 new followers the first week, a third of that in the second week, and a third of that in the third week.  After three weeks, how many social media followers did the girl with the most total followers have?
+A: Let's think step by step. 
+First, let's calculate the total number of followers Susy has after three weeks. Susy started with 100 followers and gained 40 in the first week, 20 (which is half of 40) in the second week, and 10 (which is half of 20) in the third week. Adding these, Susy's total followers are 100 + 40 + 20 + 10 = 170.
+
+Next, let's calculate the total number of followers Sarah has after three weeks. Sarah started with 50 followers and gained 90 in the first week, 30 (which is a third of 90) in the second week, and 10 (which is a third of 30) in the third week. Adding these, Sarah's total followers are 50 + 90 + 30 + 10 = 180.
+
+Comparing the total followers of Susy and Sarah, Sarah has more followers with a total of 180 compared to Susy's 170.
+Therefore, the answer is (180).
+
+
+Q: Mark's basketball team scores 25 2 pointers, 8 3 pointers and 10 free throws.  Their opponents score double the 2 pointers but half the 3 pointers and free throws.  What's the total number of points scored by both teams added together?
+A: Let's think step by step. 
+First, calculate the total points for Mark's team: 25 2-pointers equates to 25 x 2 = 50 points, 8 3-pointers equates to 8 x 3 = 24 points, and 10 free throws equate to 10 x 1 = 10 points. So, Mark's team scores a total of 50 + 24 + 10 = 84 points. Next, calculate the total points for the opponents' team: They score double the 2-pointers of Mark's team, so 50 x 2 = 100 points, half the 3-pointers, so 24 / 2 = 12 points, and half the free throws, so 10 / 2 = 5 points. Therefore, the opponents' team scores a total of 100 + 12 + 5 = 117 points. Finally, add the scores of both teams together to get the total number of points scored in the game: 84 (Mark's team) + 117 (opponents) = 201 points.
+Therefore, the answer is (201).

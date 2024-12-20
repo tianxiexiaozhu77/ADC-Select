@@ -1,0 +1,56 @@
+Q: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one week ago from today in MM/DD/YYYY?
+Options:  (A) 11/23/2019  (B) 06/24/2019  (C) 03/24/2019  (D) 11/24/2019  (E) 02/29/2020
+A: Let's think step by step. 
+Today is Jane's 3-year work anniversary, which means she started her job in 2016. Her second day at work was on Dec 2, 2016. To find the date one week ago from today, we need to subtract 1 week from today's date. Today's date is 11/24/2019, so one week ago would be 11/17/2019.
+Therefore, among A through F, the answer is (D)
+
+
+Q: On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date one year ago from today in MM/DD/YYYY?
+Options:  (A) 06/18/2030  (B) 09/18/2016  (C) 06/18/2016  (D) 07/18/2015  (E) 06/22/2016  (F) 06/25/2016
+A: Let's think step by step. 
+Jane bought 40 eggs on May 9th, 2017. She ate one egg per day, so she ran out of eggs today. This means she ran out of eggs on May 9th, 2017 + 40 days = June 18th, 2017. To find the date one year ago from today, we need to subtract one year from June 18th, 2017, which gives us June 18th, 2016.
+Therefore, among A through F, the answer is (C)
+
+
+Q: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one year ago from today in MM/DD/YYYY?
+Options:  (A) 09/20/2019  (B) 10/01/2019  (C) 10/24/2019  (D) 09/12/1970  (E) 09/12/2019
+A: Let's think step by step. 
+To find the date one year ago from today, we need to subtract 1 year from the current date. Since today is September 20, 2020, subtracting 1 year gives us September 20, 2019.
+Therefore, among A through F, the answer is (E)
+
+
+Q: Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date one year ago from today in MM/DD/YYYY?
+Options:  (A) 01/01/1898  (B) 01/01/1994  (C) 08/01/1929  (D) 01/08/1929  (E) 01/01/1891  (F) 01/01/1929
+A: Let's think step by step. 
+To find the date one year ago from today, we need to subtract 1 year from the current date. Since today is 12/31/1929, one year ago would be 12/31/1928. Therefore, the answer is option (F) 01/01/1929.
+Therefore, among A through F, the answer is (F)
+
+
+Q: Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date one year ago from today in MM/DD/YYYY?
+Options:  (A) 08/16/2009  (B) 02/16/2009  (C) 02/16/2004  (D) 03/13/2009  (E) 01/26/2009  (F) 02/15/2009
+A: Let's think step by step. 
+Jane visits the bookstore on the 16th of each month starting from October 2009. Since it is her 5th visit today, we can count back 4 months to find the date of her 4th visit. Counting back 4 months from the current month (October) brings us to June. Therefore, the date of her 4th visit was on June 16, 2010. To find the date one year ago from today, we subtract a year from June 16, 2010, which gives us June 16, 2009. Therefore, the answer is 06/16/2009.
+Therefore, among A through F, the answer is (B)
+
+
+Q: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date one week ago from today in MM/DD/YYYY?
+Options:  (A) 12/26/2007  (B) 12/26/1951  (C) 05/26/2007  (D) 12/05/2007  (E) 09/26/2008  (F) 12/26/2099
+A: Let's think step by step. 
+To find the date one week ago from today, we need to subtract 7 days from today's date. Since today is the golden wedding anniversary of Jane and John, which is January 2, 2008, subtracting 7 days would give us December 26, 2007.
+Therefore, among A through F, the answer is (A)
+
+
+Q: Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date one week ago from today in MM/DD/YYYY?
+Options:  (A) 03/05/1972  (B) 01/02/1973  (C) 04/05/1973  (D) 03/08/1983  (E) 02/26/1973  (F) 03/02/1973
+A: Let's think step by step. 
+To find the date one week ago from today, we need to subtract 7 days from the current date. Given that today is 3/5/1973, subtracting 7 days gives us 2/26/1973.
+Therefore, among A through F, the answer is (E)
+
+
+Q: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one year ago from today in MM/DD/YYYY?
+Options:  (A) 02/28/2015  (B) 03/10/2015  (C) 03/08/2015  (D) 04/28/2015  (E) 02/21/2015  (F) 03/28/2015
+A: Let's think step by step. 
+Jane was born on the last day of February in 2000, so her birthday would be on February 29th. Since today is her 16th birthday, we need to go back 1 year from today. In a non-leap year, February only has 28 days, so one year ago from today would be February 28th, 2015.
+Therefore, among A through F, the answer is (A)
+
+

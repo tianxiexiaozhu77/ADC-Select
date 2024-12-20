@@ -1,0 +1,56 @@
+Q: Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one week ago from today in MM/DD/YYYY?
+Options:  (A) 11/23/2019  (B) 06/24/2019  (C) 03/24/2019  (D) 11/24/2019  (E) 02/29/2020
+A: Let's think step by step. 
+One week ago from today is 11/24/2019. Today is 11/31/2019, so subtracting 7 days gives us 11/24/2019.
+Therefore, among A through F, the answer is (D)
+
+
+Q: On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date one year ago from today in MM/DD/YYYY?
+Options:  (A) 06/18/2030  (B) 09/18/2016  (C) 06/18/2016  (D) 07/18/2015  (E) 06/22/2016  (F) 06/25/2016
+A: Let's think step by step. 
+Jane bought 40 eggs on May 9th, 2017. She ate one per day, so she would have run out of eggs on June 18th, 2017. Therefore, the date one year ago from today would be June 18th, 2016.
+Therefore, among A through F, the answer is (C)
+
+
+Q: Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one year ago from today in MM/DD/YYYY?
+Options:  (A) 09/20/2019  (B) 10/01/2019  (C) 10/24/2019  (D) 09/12/1970  (E) 09/12/2019
+A: Let's think step by step. 
+One year ago from today is 09/12/2019. Therefore, the answer is E.
+Therefore, among A through F, the answer is (E)
+
+
+Q: Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date one year ago from today in MM/DD/YYYY?
+Options:  (A) 01/01/1898  (B) 01/01/1994  (C) 08/01/1929  (D) 01/08/1929  (E) 01/01/1891  (F) 01/01/1929
+A: Let's think step by step. 
+One year ago from today is 12/31/1928. Therefore, the answer is 01/01/1929.
+Therefore, among A through F, the answer is (F)
+
+
+Q: Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date one year ago from today in MM/DD/YYYY?
+Options:  (A) 08/16/2009  (B) 02/16/2009  (C) 02/16/2004  (D) 03/13/2009  (E) 01/26/2009  (F) 02/15/2009
+A: Let's think step by step. 
+The last visit to the bookstore was on September 16th, 2010. So, one year ago from today would be September 16th, 2009.
+Therefore, among A through F, the answer is (B)
+
+
+Q: Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date one week ago from today in MM/DD/YYYY?
+Options:  (A) 12/26/2007  (B) 12/26/1951  (C) 05/26/2007  (D) 12/05/2007  (E) 09/26/2008  (F) 12/26/2099
+A: Let's think step by step. 
+One week ago from today is 12/26/2007. The correct option is A.
+Therefore, among A through F, the answer is (A)
+
+
+Q: Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one year ago from today in MM/DD/YYYY?
+Options:  (A) 02/28/2015  (B) 03/10/2015  (C) 03/08/2015  (D) 04/28/2015  (E) 02/21/2015  (F) 03/28/2015
+A: Let's think step by step. 
+One year ago from today would be February 29, 2015, but since 2015 was not a leap year, the last day of February would be February 28, 2015.
+Therefore, among A through F, the answer is (A)
+
+
+Q: May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date one week ago from today in MM/DD/YYYY?
+Options:  (A) 04/29/2002  (B) 04/24/2002  (C) 04/19/2002  (D) 04/28/2002  (E) 02/13/2002  (F) 05/20/2002
+A: Let's think step by step. 
+One week ago from today is 04/29/2002, which corresponds to option A.
+Therefore, among A through F, the answer is (A)
+
+

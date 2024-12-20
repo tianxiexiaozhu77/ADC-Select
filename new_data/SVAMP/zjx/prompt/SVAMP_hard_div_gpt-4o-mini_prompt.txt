@@ -1,0 +1,56 @@
+Q: Winter is almost here and most animals are migrating to warmer countries. 86 bird families flew away for the winter from near a mountain. If there were 45 bird families living near the mountain initially. How many more bird families flew away for the winter than those that stayed behind?
+A: Let's think step by step. 
+To determine how many more bird families flew away than those that stayed behind, we first need to identify how many bird families stayed. Since there were initially 45 bird families and 86 flew away, we can calculate the number of families that stayed. The number of families that stayed is: 45 (initial families) - 86 (families that flew away). Since 86 is more than 45, this means all families flew away and there would be negative families that stayed. Hence, to find out how many more families flew away than those that stayed, we can calculate 86 - 0 (the negative stay making the number of stay families effectively zero). So, the result will be 86. Thus, 86 bird families flew away and 0 families stayed behind. Therefore, the difference is 86 - 0 = 86. 
+Therefore, the answer is (127.0)
+
+
+Q: Being his favorite, he saved checking on the grapevines for his last stop. He was told by 294 of the pickers that they fill 244 drums of grapes per day and 47 drums of raspberries per day. How many drums of grapes would be filled in 146 days?
+A: Let's think step by step. 
+To find out how many drums of grapes would be filled in 146 days, we first need to determine the daily output of drums of grapes. We know from the problem statement that 294 pickers fill 244 drums of grapes per day. Therefore, the daily output of drums of grapes is simply 244. Now, we will multiply the daily output by the number of days to find the total output over 146 days. The calculation will be: 244 drums/day * 146 days = 35,624 drums. Thus, the final answer, representing the total number of drums filled in that timeframe, is determined.
+Therefore, the answer is (35624.0)
+
+
+Q: Frank was reading through his favorite book. The book had 41 chapters, each with the same number of pages. It has a total of 450 pages. It took Frank 30 days to finish the book. How many pages did he read per day?
+A: Let's think step by step. 
+To find out how many pages Frank read per day, we first need to determine the total number of pages in the book, which is given as 450 pages. Since it took Frank 30 days to finish the book, we can divide the total number of pages by the number of days to find the average number of pages he read each day. That is calculated as 450 pages divided by 30 days, which equals 15 pages per day. Therefore, we conclude our reasoning.
+Therefore, the answer is (15.0)
+
+
+Q: For the walls of the house he would use 13 large planks of wood. If each plank of wood needs 17 pieces of nails to be secured and in addition 8 nails are needed for some smaller planks. How many nails does John need for the house wall?
+A: Let's think step by step. 
+To determine how many nails John needs for the house wall, we first calculate the number of nails needed for the large planks. Each large plank requires 17 nails and there are 13 large planks. Thus, the nails for large planks are calculated as follows:
+
+Nails for large planks = Number of large planks * Nails per large plank = 13 * 17 = 221 nails.
+
+In addition to the nails for the large planks, there are also 8 nails needed for some smaller planks. Therefore, the total number of nails John needs is the sum of the nails for large planks and the nails for smaller planks:
+
+Total nails = Nails for large planks + Nails for smaller planks = 221 + 8 = 229 nails.
+
+Hence, John's total requirement for nails is 229.
+Therefore, the answer is (229.0)
+
+
+Q: For the walls of the house he would use 11 nails in all to secure large planks of wood. If each plank needs 3 pieces of nails to be secured and an additional 8 nails were used. How many planks does John need for the house wall?
+A: Let's think step by step. 
+First, we know that John uses a total of 11 nails to secure the planks. Additionally, it is mentioned that for each plank, 3 nails are necessary. Further, there are 8 extra nails that were used. We can set up the equation to determine the number of planks, P. The total number of nails used can be expressed as the sum of nails used for the planks and the additional nails: 3P + 8 = 11. Now, we will isolate P: 3P = 11 - 8, which simplifies to 3P = 3. Dividing both sides by 3 gives us P = 1. Therefore, John needs 1 plank for the house wall.
+Therefore, the answer is (1.0)
+
+
+Q: The Razorback t-shirt shop makes $ 98 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 163 t-shirts. If they sold 89 t-shirts during the Arkansas game. How much money did they make from selling the t-shirts during the arkansas game?
+A: Let's think step by step. 
+To find out how much money the Razorback t-shirt shop made from selling t-shirts during the Arkansas game, we need to follow these steps: First, we know that they sold 89 t-shirts during the Arkansas game. Each t-shirt is sold for $98. Therefore, we multiply the number of t-shirts sold by the price per t-shirt: 89 t-shirts * $98/t-shirt. This calculation gives us the total revenue generated from the t-shirts sold during the Arkansas game.
+Therefore, the answer is (8722.0)
+
+
+Q: Winter is almost here and most animals are migrating to warmer countries. There are 3 bird families living near the mountain. 26 new bird families came to live near the mountain from the arctic while 2 bird families flew away further south for winter. How many bird families were left near the mountain?
+A: Let's think step by step. 
+We start with the initial number of bird families near the mountain, which is 3. Then, 26 new bird families arrive from the arctic, which increases the total count. We add these two numbers: 3 + 26 = 29. Next, we account for the 2 bird families that fly away for winter, which decreases the total count. So we subtract: 29 - 2 = 27. The final count of bird families remaining near the mountain is 27.
+Therefore, the answer is (27.0)
+
+
+Q: Paul got a box of 531 crayons and 38 erasers for his birthday. At the end of the school year he only had 391 left while not having lost a single erasers. How many more crayons than erasers did he have left?
+A: Let's think step by step. 
+Paul started with 531 crayons and 38 erasers. By the end of the school year, he had 391 crayons left. Since he didn't lose any erasers, he still had all 38 erasers. We need to find out how many more crayons than erasers he had left. First, we find the difference between the number of crayons and the number of erasers left: 391 (crayons left) - 38 (erasers left) = 353. Therefore, Paul had 353 more crayons than erasers at the end of the school year.
+Therefore, the answer is (353.0)
+
+

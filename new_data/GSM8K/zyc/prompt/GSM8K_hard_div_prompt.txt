@@ -1,0 +1,48 @@
+Q: Alec is running for Class President. He thinks that if he can get three-quarters of the class to vote for him then there is no chance anyone else can beat him. Half of the class have already said they will vote for him but out of the remaining students, only 5 have said they are thinking about voting for him. He surveys the students who are thinking about voting for someone else, and changes his flyers to reflect the issues these students are concerned about. This results in a fifth of these students saying they'll vote for him. If Alec's class has 60 students and everyone who said they will vote for him does so, how many more votes does Alec need to reach his goal number of votes?
+A: Let's think step by step. 
+To calculate Alec's goal number of votes, we need to know that 60 students / 4 = <<60/4=15>>15 students is equal to one-quarter of the class students.
+Alec's goal is therefore 15 students * 3 quarters = <<15*3=45>>45 votes.
+Half of the class said they will vote for him, so there are already 60 students / 2 = <<60/2=30>>30 votes.
+Another 5 students are thinking about voting for him which leaves a total so far of 30 + 5 = <<30+5=35>>35 votes.
+This means there are 60 students - 35 voting for Alec = <<60-35=25>>25 students not voting for Alec.
+A fifth of these decided to vote, so this is a further 25 students / 5 = <<25/5=5>>5 votes.
+Alec is therefore receiving a total of 35 + 5 = <<35+5=40>>40 votes.
+So he has missed his goal by 45 goal votes - 40 actual votes = <<45-40=5>>5 votes.
+Therefore, the answer is (5)
+
+
+Q: Hasan is packing up his apartment because he’s moving across the country for a new job. He needs to ship several boxes to his new home. The movers have asked that Hasan avoid putting more than a certain weight in pounds in any cardboard box. The moving company has helpfully provided Hasan with a digital scale that will alert him if a package is too heavy. Hasan is in the kitchen, and he fills a cardboard box with 38 dinner plates. When he checks the box, the scale reports his box is too heavy. Hasan knows each of his plates weighs 10 ounces. He removes a single plate from the box and checks the movers’ scale again. The scale reports his box is still too heavy. Hasan repeats the process again and again. When he has removed enough plates, the movers’ scale shows the box is now an acceptable weight for shipping. Hasan deduces that each shipping box can hold 20 pounds before the scale says the box is too heavy.  How many plates did Hasan need to remove from the shipping box?
+A: Let's think step by step. 
+Let x be the number of plates removed from the box.
+Hasan figured out the movers' weight limit was 20 pounds. Since a pound is equal to 16 ounces, each box can hold 20 * 16, or <<20*16=320>>320 ounces.
+Each plate weighs 10 ounces, so the weight of the plates in the box after Hasan removes enough plates to satisfy the movers' weight limit is (38 - x) * 10 ounces
+Since these two values are equal, we can write the equation (38 - x) * 10 = 320.
+Dividing both sides by 10 leaves 38-x = 32.
+Adding x to both sides gives 38 – x + x = 32 +x, or, 38 = 32 +x
+Subtracting 32 from both sides gives the value of x, which is the number of plates removed from the box, 38 -32 = 32 + x – 32, or, 6 = x
+Therefore, the answer is (6)
+
+
+Q: Sam works at the Widget Factory, assembling Widgets. He can assemble 1 widget every 10 minutes. Jack from the loading dock can help assemble widgets when he doesn't have anything else to do. When he helps, they put together 2 complete widgets every 15 minutes. Recently the factory hired Tony to help assemble widgets. Being new to the job, he doesn't work as fast as Sam or Jack. Yesterday Sam worked for 6 hours before he had to leave work early for a dentist appointment. Jack was able to help out for 4 hours before he had to go back to the loading dock to unload a new shipment of widget materials. Tony worked the entire 8-hour shift. At the end of the day, they had completed 68 widgets. How long does it take Tony to assemble a Widget, in minutes?
+A: Let's think step by step. 
+Sam completes a widget every 10 minutes.
+When Jack helps they finish 2 in 15 minutes. Sam has finished 1 widget and has begun working on another one, and Jack finishes the second one at 15 minutes. So it takes Jack 15 minutes to complete a widget.
+Sam worked for 6 hours yesterday, so he was able to complete 6 hours * 60 minutes per hour / 10 minutes per widget = <<6*60/10=36>>36 widgets.
+Jack worked for 4 hours, so he was able to complete 4 hours * 60 minutes per hour / 15 minutes per widget = <<4*60/15=16>>16 widgets.
+Sam, Jack, and Tony were able to complete 68 widgets together. So of those, Tony personally completed 68 widgets - 36 widgets - 16 widgets = <<68-36-16=16>>16 widgets.
+It took Tony 8 hours to complete those 16 widgets, so he takes 8 hours * 60 minutes per hour / 16 widgets = <<8*60/16=30>>30 minutes per widget.
+Therefore, the answer is (30)
+
+
+Q: On Saturday morning, Renata had $10 to spend. She first went and made a $4 donation in exchange for a ticket to the local charity draw. When the draw was done, she was declared the winner of the 5th prize of $90. Excited, she quickly dashed to play slots at one of the casinos in Atlantic City. Unfortunately, she lost $50 at the first slot machine, $10 at the second and $5 at the last one.  Dejected, she decided to take a long walk. She soon grew thirsty and entered the first gas station she saw. She picked a $1 bottle of water and while paying for it, she bought a $1 lottery ticket. To her utter delight, she won an instant prize of $65. How much money did Renata end up having?
+A: Let's think step by step. 
+After the charity ticket purchase on Saturday morning, Renata remained with 10 - 4 = <<10-4=6>>6 dollars.
+Adding the prize money give her 6+90 = <<6+90=96>>96 dollars
+At the casino, she lost 50 + 10 + 5 = <<50+10+5=65>>65 dollars
+Thus far, Renata remained with 96 - 65 = <<96-65=31>>31 dollars
+The amount she spent on the bottle of water and lottery ticket is 1 + 1 = <<1+1=2>>2 dollars
+This means that she remained with 31- 2 = <<31-2=29>>29 dollars
+Since she won 65 dollars, Renata’s ended up having 29 + 65 = <<29+65=94>>94 dollars.
+Therefore, the answer is (94)
+
+

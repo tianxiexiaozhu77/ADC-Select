@@ -1,0 +1,145 @@
+Q: Alec is running for Class President. He thinks that if he can get three-quarters of the class to vote for him then there is no chance anyone else can beat him. Half of the class have already said they will vote for him but out of the remaining students, only 5 have said they are thinking about voting for him. He surveys the students who are thinking about voting for someone else, and changes his flyers to reflect the issues these students are concerned about. This results in a fifth of these students saying they'll vote for him. If Alec's class has 60 students and everyone who said they will vote for him does so, how many more votes does Alec need to reach his goal number of votes?
+A: Let's think step by step. 
+To determine how many more votes Alec needs to reach his goal, we will follow these steps:
+
+1. Calculate the total number of votes Alec needs to get three-quarters of the class to vote for him.
+2. Determine how many votes Alec has already received.
+3. Calculate the number of votes Alec will receive from the students who are still thinking about voting for him after his survey.
+4. Sum the votes from steps 2 and 3 to find out how many votes Alec will have in total.
+5. Subtract the total number of votes Alec will have from the number of votes he needs to find out how many more votes he needs.
+
+**Step 1: Calculate the total number of votes Alec needs.**
+
+Alec needs three-quarters of the class to vote for him. The class has 60 students, so the number of votes he needs is:
+\[
+\frac{3}{4} \times 60 = 45
+\]
+
+**Step 2: Determine how many votes Alec has already received.**
+
+Half of the class have already said they will vote for him. So, the number of votes he has already received is:
+\[
+\frac{1}{2} \times 60 = 30
+\]
+
+**Step 3: Calculate the number of votes Alec will receive from the students who are still thinking about voting for him after his survey.**
+
+Out of the remaining students, only 5 have said they are thinking about voting for him. After his survey, a fifth of these students will say they will vote for him. So, the number of additional votes he will receive is:
+\[
+\frac{1}{5} \times 5 = 1
+\]
+
+**Step 4: Sum the votes from steps 2 and 3 to find out how many votes Alec will have in total.**
+
+The total number of votes Alec will have is:
+\[
+30 + 1 = 31
+\]
+
+**Step 5: Subtract the total number of votes Alec will have from the number of votes he needs to find out how many more votes he needs.**
+
+Alec needs 45 votes to win, and he will have 31 votes. So, the number of additional votes he needs is:
+\[
+45 - 31 = 14
+\]
+Therefore, Alec needs \(\boxed{14}\) more votes to reach his goal number of votes.
+
+
+Q: Hasan is packing up his apartment because he’s moving across the country for a new job. He needs to ship several boxes to his new home. The movers have asked that Hasan avoid putting more than a certain weight in pounds in any cardboard box. The moving company has helpfully provided Hasan with a digital scale that will alert him if a package is too heavy. Hasan is in the kitchen, and he fills a cardboard box with 38 dinner plates. When he checks the box, the scale reports his box is too heavy. Hasan knows each of his plates weighs 10 ounces. He removes a single plate from the box and checks the movers’ scale again. The scale reports his box is still too heavy. Hasan repeats the process again and again. When he has removed enough plates, the movers’ scale shows the box is now an acceptable weight for shipping. Hasan deduces that each shipping box can hold 20 pounds before the scale says the box is too heavy.  How many plates did Hasan need to remove from the shipping box?
+A: Let's think step by step. 
+To determine how many plates Hasan needed to remove from the shipping box, we need to follow these steps:
+
+1. **Convert the weight limit from pounds to ounces:**
+   Since there are 16 ounces in a pound, the weight limit in ounces is:
+   \[
+   20 \text{ pounds} \times 16 \text{ ounces/pound} = 320 \text{ ounces}
+   \]
+
+2. **Calculate the total weight of the 38 plates:**
+   Each plate weighs 10 ounces, so the total weight of the 38 plates is:
+   \[
+   38 \text{ plates} \times 10 \text{ ounces/plate} = 380 \text{ ounces}
+   \]
+
+3. **Determine how much weight Hasan needs to remove:**
+   The box is too heavy by:
+   \[
+   380 \text{ ounces} - 320 \text{ ounces} = 60 \text{ ounces}
+   \]
+
+4. **Calculate the number of plates Hasan needs to remove:**
+   Since each plate weighs 10 ounces, the number of plates Hasan needs to remove is:
+   \[
+   \frac{60 \text{ ounces}}{10 \text{ ounces/plate}} = 6 \text{ plates}
+   \]
+Therefore, Hasan needed to remove \(\boxed{6}\) plates from the shipping box.].
+
+
+Q: Sam works at the Widget Factory, assembling Widgets. He can assemble 1 widget every 10 minutes. Jack from the loading dock can help assemble widgets when he doesn't have anything else to do. When he helps, they put together 2 complete widgets every 15 minutes. Recently the factory hired Tony to help assemble widgets. Being new to the job, he doesn't work as fast as Sam or Jack. Yesterday Sam worked for 6 hours before he had to leave work early for a dentist appointment. Jack was able to help out for 4 hours before he had to go back to the loading dock to unload a new shipment of widget materials. Tony worked the entire 8-hour shift. At the end of the day, they had completed 68 widgets. How long does it take Tony to assemble a Widget, in minutes?
+A: Let's think step by step. 
+To determine how long it takes Tony to assemble a widget, we need to calculate the total number of widgets assembled by Sam, Jack, and Tony, and then use the information to find Tony's work rate.
+
+First, let's calculate the number of widgets Sam assembled. Sam works for 6 hours, and he can assemble 1 widget every 10 minutes. Since there are 60 minutes in an hour, Sam works for \(6 \times 60 = 360\) minutes. Therefore, the number of widgets Sam assembled is:
+\[
+\frac{360}{10} = 36 \text{ widgets}
+\]
+
+Next, let's calculate the number of widgets Jack assembled. Jack works for 4 hours, and he can help Sam and Tony assemble 2 widgets every 15 minutes. Since there are 60 minutes in an hour, Jack works for \(4 \times 60 = 240\) minutes. Therefore, the number of widgets Jack assembled is:
+\[
+\frac{240}{15} \times 2 = 16 \times 2 = 32 \text{ widgets}
+\]
+
+Now, let's determine the number of widgets Tony assembled. The total number of widgets assembled by all three is 68. Therefore, the number of widgets Tony assembled is:
+\[
+68 - 36 - 32 = 10 \text{ widgets}
+\]
+
+Tony worked the entire 8-hour shift, which is \(8 \times 60 = 480\) minutes. Since Tony assembled 10 widgets in 480 minutes, his work rate is:
+\[
+\frac{480}{10} = 48 \text{ minutes per widget}
+\]
+Thus, it takes Tony \(\boxed{48}\) minutes to assemble a widget.
+
+
+Q: On Saturday morning, Renata had $10 to spend. She first went and made a $4 donation in exchange for a ticket to the local charity draw. When the draw was done, she was declared the winner of the 5th prize of $90. Excited, she quickly dashed to play slots at one of the casinos in Atlantic City. Unfortunately, she lost $50 at the first slot machine, $10 at the second and $5 at the last one.  Dejected, she decided to take a long walk. She soon grew thirsty and entered the first gas station she saw. She picked a $1 bottle of water and while paying for it, she bought a $1 lottery ticket. To her utter delight, she won an instant prize of $65. How much money did Renata end up having?
+A: Let's think step by step. 
+Let's start by calculating Renata's initial amount of money and then track her transactions step by step.
+
+1. **Initial amount:**
+   Renata starts with $10.
+
+2. **Donation:**
+   She donates $4 to a local charity draw.
+   \[
+   10 - 4 = 6
+   \]
+   So, after the donation, she has $6.
+
+3. **Winning the 5th prize:**
+   She wins $90 in the charity draw.
+   \[
+   6 + 90 = 96
+   \]
+   So, after winning the prize, she has $96.
+
+4. **Losing money at the slot machines:**
+   She loses $50 at the first slot machine, $10 at the second, and $5 at the last one.
+   \[
+   96 - 50 - 10 - 5 = 31
+   \]
+   So, after losing money at the slot machines, she has $31.
+
+5. **Buying water and a lottery ticket:**
+   She buys a $1 bottle of water and a $1 lottery ticket.
+   \[
+   31 - 1 - 1 = 29
+   \]
+   So, after buying the water and the lottery ticket, she has $29.
+
+6. **Winning the instant prize:**
+   She wins an instant prize of $65.
+   \[
+   29 + 65 = 94
+   \]
+   So, after winning the instant prize, she has $94.
+Therefore, the amount of money Renata ends up having is \(\boxed{94}\).

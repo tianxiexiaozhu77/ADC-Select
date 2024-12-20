@@ -1,0 +1,96 @@
+Q:  Tiffany uploaded 7 pictures from her phone and 13 from her camera to facebook. If she sorted the pics into 5 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+Tiffany uploaded 7 pictures from her phone and 13 from her camera, making a total of 20 pictures. To sort them into 5 different albums with the same amount of pics in each album, we need to divide 20 by 5, which equals 4. Therefore, each album would have 4 pictures.
+Therefore, the answer is (4.0)
+
+
+Q:  Oliver is at the library helping put away books. There are 46 book to put away total but a librarian takes 10 of them and leaves Oliver with the rest. If he can fit 4 books on a shelf, how many shelves will he need? 
+A: Let's think step by step. 
+The librarian takes 10 books, leaving Oliver with 36 books to put away. Since he can fit 4 books on a shelf, he will need 36 / 4 = 9 shelves to put away all the books.
+Therefore, the answer is (9.0)
+
+
+Q:  Olivia uploaded 5 pictures from her phone and 35 from her camera to facebook. If she sorted the pics into 8 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, we add up the total number of pictures uploaded: 5 (from phone) + 35 (from camera) = 40. Then, we divide the total number of pictures by the number of albums: 40 / 8 = 5. Therefore, the answer is (5).
+Therefore, the answer is (5.0)
+
+
+Q:  Olivia uploaded 5 pictures from her phone and 35 from her camera to facebook. If she sorted the pics into 8 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, add the total number of pictures uploaded: 5 + 35 = 40. Then, divide the total number of pictures by the number of albums: 40 / 8 = 5. Therefore, the answer is (5).
+Therefore, the answer is (5.0)
+
+
+Q:  Vanessa and her friends were recycling paper for their class. For every 9 pounds they recycled they earned one point. If Vanessa recycled 20 pounds and her friends recycled 16 pounds, how many points did they earn? 
+A: Let's think step by step. 
+Vanessa recycled 20 pounds, earning 20 / 9 = 2.22 points. Her friends recycled 16 pounds, earning 16 / 9 = 1.78 points. Together, they earned 2.22 + 1.78 = 4 points.
+Therefore, the answer is (4.0)
+
+
+Q:  Katie uploaded 30 pictures from her phone and 51 from her camera to facebook. If she sorted the pics into 9 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, we need to calculate the total number of pictures uploaded by Katie - 30 + 51 = 81. Then, we need to divide the total number of pictures by the number of albums - 81 / 9 = 9. Therefore, the answer is (9).
+Therefore, the answer is (9.0)
+
+
+Q:  Robin uploaded 35 pictures from her phone and 5 from her camera to facebook. If she sorted the pics into 5 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, add up the total number of pictures: 35 (from phone) + 5 (from camera) = 40. Then, divide the total number of pictures by the number of albums: 40 / 5 = 8. Therefore, the answer is (8).
+Therefore, the answer is (8.0)
+
+
+Q:  Isabel uploaded 2 pictures from her phone and 4 from her camera to facebook. If she sorted the pics into 3 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, we add the total number of pictures uploaded: 2 + 4 = 6. Then we divide the total number of pictures by the number of albums: 6 / 3 = 2. Therefore, Isabel sorted 2 pictures into each album.
+Therefore, the answer is (2.0)
+
+
+Q:  Tiffany uploaded 7 pictures from her phone and 13 from her camera to facebook. If she sorted the pics into 5 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, add the total number of pictures uploaded: 7 + 13 = 20. Then divide this total by the number of albums: 20 / 5 = 4. Therefore, the answer is (4).
+Therefore, the answer is (4.0)
+
+
+Q:  Oliver is at the library helping put away books. There are 46 book to put away total but a librarian takes 10 of them and leaves Oliver with the rest. If he can fit 4 books on a shelf, how many shelves will he need? 
+A: Let's think step by step. 
+First, we subtract the 10 books taken by the librarian from the total of 46, leaving Oliver with 36 books. Then, we divide 36 by 4 to find out how many shelves he will need. 36 divided by 4 equals 9, so Oliver will need 9 shelves to put away the books.
+Therefore, the answer is (9.0)
+
+
+Q:  Olivia uploaded 5 pictures from her phone and 35 from her camera to facebook. If she sorted the pics into 8 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, add the total number of pictures Olivia uploaded: 5 (from phone) + 35 (from camera) = 40. Then, divide the total number of pictures by the number of albums: 40 / 8 = 5. Therefore, the answer is (5).
+Therefore, the answer is (5.0)
+
+
+Q:  Olivia uploaded 5 pictures from her phone and 35 from her camera to facebook. If she sorted the pics into 8 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, calculate the total number of pictures uploaded: 5 + 35 = 40. Then, divide the total number of pictures by the number of albums: 40 / 8 = 5. Therefore, the answer is (5).
+Therefore, the answer is (5.0)
+
+
+Q:  Vanessa and her friends were recycling paper for their class. For every 9 pounds they recycled they earned one point. If Vanessa recycled 20 pounds and her friends recycled 16 pounds, how many points did they earn? 
+A: Let's think step by step. 
+First, we find out how many points Vanessa earned by dividing her pounds recycled by 9: 20 / 9 = 2.2 points. Then we find out how many points her friends earned by dividing their pounds recycled by 9: 16 / 9 = 1.77 points. Adding Vanessa's and her friends' points together, they earned a total of 2.2 + 1.77 = 3.97 points. However, since points cannot be in fractions, they did not earn any points.
+Therefore, the answer is (4.0)
+
+
+Q:  Katie uploaded 30 pictures from her phone and 51 from her camera to facebook. If she sorted the pics into 9 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, add the total number of pictures uploaded: 30 + 51 = 81. Then divide the total number of pictures by the number of albums: 81 / 9 = 9. Therefore, the answer is (9).
+Therefore, the answer is (9.0)
+
+
+Q:  Robin uploaded 35 pictures from her phone and 5 from her camera to facebook. If she sorted the pics into 5 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, we add up the total number of pictures uploaded: 35 + 5 = 40. Then we divide the total number of pictures by the number of albums: 40 / 5 = 8. Therefore, the answer is 8.
+Therefore, the answer is (8.0)
+
+
+Q:  Isabel uploaded 2 pictures from her phone and 4 from her camera to facebook. If she sorted the pics into 3 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, Isabel uploaded a total of 6 pictures. Since she sorted the pics into 3 different albums with the same amount of pics in each album, the total number of pictures must be divisible by 3. Therefore, 6 divided by 3 equals 2. So, there were 2 pictures in each of the albums.
+Therefore, the answer is (2.0)
+
+

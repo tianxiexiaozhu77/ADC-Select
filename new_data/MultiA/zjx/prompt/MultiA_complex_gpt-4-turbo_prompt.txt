@@ -1,0 +1,46 @@
+Q:  Tiffany uploaded 7 pictures from her phone and 13 from her camera to facebook. If she sorted the pics into 5 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, we need to find the total number of pictures Tiffany uploaded. She uploaded 7 pictures from her phone and 13 from her camera, which totals 7 + 13 = 20 pictures. Next, we know she sorted these pictures into 5 different albums, and each album has the same amount of pictures. To find out how many pictures are in each album, we divide the total number of pictures by the number of albums: 20 pictures ÷ 5 albums = 4 pictures per album.
+Therefore, the answer is (4).
+
+
+Q:  Oliver is at the library helping put away books. There are 46 book to put away total but a librarian takes 10 of them and leaves Oliver with the rest. If he can fit 4 books on a shelf, how many shelves will he need? 
+A: Let's think step by step. 
+Oliver starts with 46 books. A librarian takes 10 books, leaving Oliver with 46 - 10 = 36 books. Each shelf can hold 4 books. To find out how many shelves are needed, divide the total number of books by the number of books each shelf can hold: 36 divided by 4 equals 9. Therefore, Oliver will need 9 shelves to store all the books.
+Therefore, the answer is (9).
+
+
+Q:  Olivia uploaded 5 pictures from her phone and 35 from her camera to facebook. If she sorted the pics into 8 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, calculate the total number of pictures Olivia uploaded by adding the pictures from her phone and camera. She uploaded 5 pictures from her phone and 35 from her camera, so 5 + 35 = 40 pictures in total. Next, since the pictures are sorted into 8 different albums with the same number of pictures in each album, divide the total number of pictures by the number of albums. Therefore, 40 pictures divided by 8 albums equals 5 pictures per album.
+Therefore, the answer is (5).
+
+
+Q:  Olivia uploaded 5 pictures from her phone and 35 from her camera to facebook. If she sorted the pics into 8 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, we calculate the total number of pictures Olivia uploaded by adding the pictures from her phone and her camera. This is 5 (from phone) + 35 (from camera) = 40 pictures in total. Next, we are told that these pictures are evenly distributed into 8 albums. To find out how many pictures are in each album, we divide the total number of pictures by the number of albums. So, 40 pictures ÷ 8 albums = 5 pictures per album.
+Therefore, the answer is (5).
+
+
+Q:  Vanessa and her friends were recycling paper for their class. For every 9 pounds they recycled they earned one point. If Vanessa recycled 20 pounds and her friends recycled 16 pounds, how many points did they earn? 
+A: Let's think step by step. 
+First, we add the total amount of paper recycled by Vanessa and her friends: 20 pounds from Vanessa plus 16 pounds from her friends equals 36 pounds. According to the rule, for every 9 pounds recycled, they earn one point. To find out how many points they earned, we divide the total pounds recycled by the point threshold, which is 36 divided by 9. This gives us 4, meaning they earned 4 points in total.
+Therefore, the answer is (4).
+
+
+Q:  Katie uploaded 30 pictures from her phone and 51 from her camera to facebook. If she sorted the pics into 9 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, calculate the total number of pictures Katie uploaded by adding the pictures from her phone and camera. She uploaded 30 pictures from her phone and 51 from her camera, giving a total of 30 + 51 = 81 pictures. Next, since Katie sorted these pictures into 9 different albums with the same amount of pictures in each album, divide the total number of pictures by the number of albums to find out how many pictures are in each album. Thus, 81 pictures divided by 9 albums equals 9 pictures per album.
+Therefore, the answer is (9).
+
+
+Q:  Robin uploaded 35 pictures from her phone and 5 from her camera to facebook. If she sorted the pics into 5 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, we find the total number of pictures Robin uploaded by adding those from her phone and camera. She uploaded 35 pictures from her phone and 5 from her camera, which totals to 35 + 5 = 40 pictures. Next, since the pictures are sorted into 5 different albums with the same number of pictures in each, we need to divide the total number of pictures by the number of albums to find out how many pictures are in each album. That calculation is 40 / 5 = 8 pictures per album.
+Therefore, the answer is (8).
+
+
+Q:  Isabel uploaded 2 pictures from her phone and 4 from her camera to facebook. If she sorted the pics into 3 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+First, calculate the total number of pictures Isabel uploaded: 2 pictures from her phone plus 4 pictures from her camera equals 6 pictures in total. Then, she sorted these 6 pictures into 3 different albums with the same number of pictures in each album. To find out how many pictures were in each album, divide the total number of pictures by the number of albums: 6 pictures divided by 3 albums equals 2 pictures per album.
+Therefore, the answer is (2).

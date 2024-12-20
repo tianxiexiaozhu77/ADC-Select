@@ -1,0 +1,167 @@
+Q:  Tiffany uploaded 7 pictures from her phone and 13 from her camera to facebook. If she sorted the pics into 5 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+To determine how many pictures Tiffany uploaded to Facebook and how many pictures were in each of the albums, we can follow these steps:
+
+1. Calculate the total number of pictures Tiffany uploaded.
+   Tiffany uploaded 7 pictures from her phone and 13 pictures from her camera. Therefore, the total number of pictures is:
+   \[
+   7 + 13 = 20
+   \]
+
+2. Determine how many pictures were in each album.
+   Tiffany sorted the pictures into 5 different albums with the same number of pictures in each album. To find out how many pictures were in each album, we divide the total number of pictures by the number of albums:
+   \[
+   \frac{20}{5} = 4
+   \]
+Therefore, the number of pictures in each album is \(\boxed{4}\).
+
+
+Q:  Oliver is at the library helping put away books. There are 46 book to put away total but a librarian takes 10 of them and leaves Oliver with the rest. If he can fit 4 books on a shelf, how many shelves will he need? 
+A: Let's think step by step. 
+To determine how many shelves Oliver will need, we can follow these steps:
+
+1. **Calculate the number of books Oliver has to put away:**
+   The total number of books is 46, and the librarian takes 10 of them. So, the number of books Oliver has to put away is:
+   \[
+   46 - 10 = 36
+   \]
+
+2. **Determine how many shelves are needed:**
+   Oliver can fit 4 books on each shelf. To find out how many shelves he needs, we divide the number of books by the number of books per shelf:
+   \[
+   \frac{36}{4} = 9
+   \]
+   Since 36 divided by 4 is exactly 9, Oliver will need 9 shelves to put away all the books.
+Therefore, the number of shelves Oliver will need is \(\boxed{9}\). output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9 output: 9.
+
+
+Q:  Olivia uploaded 5 pictures from her phone and 35 from her camera to facebook. If she sorted the pics into 8 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+To determine how many pictures Olivia uploaded to Facebook and how many pictures were in each album, we can follow these steps:
+
+1. Calculate the total number of pictures Olivia uploaded.
+   - Olivia uploaded 5 pictures from her phone and 35 pictures from her camera.
+   - The total number of pictures is \(5 + 35 = 40\).
+
+2. Determine how many pictures were in each album.
+   - Olivia sorted the 40 pictures into 8 different albums with the same number of pictures in each album.
+   - To find out how many pictures were in each album, we divide the total number of pictures by the number of albums.
+   - So, we calculate \(40 \div 8 = 5\).
+
+Therefore, the number of pictures in each album is \(\boxed{5}\).
+
+The final answer is \(\boxed{5}\).
+
+Let's verify the calculation:
+- Total number of pictures: \(5 + 35 = 40\).
+- Number of albums: 8.
+- Pictures per album: \(40 \div 8 = 5\).
+The calculation is correct, so the final answer is \(\boxed{5}\).
+
+
+Q:  Olivia uploaded 5 pictures from her phone and 35 from her camera to facebook. If she sorted the pics into 8 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+To determine how many pictures Olivia uploaded to Facebook and how many pictures were in each album, we can follow these steps:
+
+1. Calculate the total number of pictures Olivia uploaded.
+   - Olivia uploaded 5 pictures from her phone and 35 pictures from her camera.
+   - The total number of pictures is \(5 + 35 = 40\).
+
+2. Determine how many pictures were in each album.
+   - Olivia sorted the 40 pictures into 8 different albums with the same number of pictures in each album.
+   - To find out how many pictures were in each album, we divide the total number of pictures by the number of albums.
+   - So, we calculate \(40 \div 8 = 5\).
+
+Therefore, the number of pictures in each album is \(\boxed{5}\).
+
+The final answer is \(\boxed{5}\).
+
+Let's verify the calculation:
+- Total number of pictures: \(5 + 35 = 40\).
+- Number of albums: 8.
+- Pictures per album: \(40 \div 8 = 5\).
+The calculation is correct, so the final answer is \(\boxed{5}\).
+
+
+Q:  Vanessa and her friends were recycling paper for their class. For every 9 pounds they recycled they earned one point. If Vanessa recycled 20 pounds and her friends recycled 16 pounds, how many points did they earn? 
+A: Let's think step by step. 
+To determine how many points Vanessa and her friends earned for recycling paper, we need to follow these steps:
+
+1. Calculate the total amount of paper recycled by Vanessa and her friends.
+2. Determine how many points they earned based on the given rate (1 point for every 9 pounds of paper recycled).
+
+First, let's find the total amount of paper recycled:
+\[ \text{Total paper recycled} = \text{Vanessa's paper} + \text{Friends' paper} = 20 \text{ pounds} + 16 \text{ pounds} = 36 \text{ pounds} \]
+
+Next, we need to determine how many points they earned. Since they earn 1 point for every 9 pounds of paper recycled, we divide the total amount of paper recycled by 9:
+\[ \text{Points earned} = \frac{\text{Total paper recycled}}{9} = \frac{36}{9} = 4 \]
+
+Therefore, Vanessa and her friends earned \(\boxed{4}\) points.
+The final answer is \(\boxed{4}\).
+
+
+Q:  Katie uploaded 30 pictures from her phone and 51 from her camera to facebook. If she sorted the pics into 9 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+To determine how many pictures Katie uploaded to Facebook and how many pictures were in each of the 9 albums, we can follow these steps:
+
+1. **Calculate the total number of pictures uploaded:**
+   Katie uploaded 30 pictures from her phone and 51 pictures from her camera. Therefore, the total number of pictures is:
+   \[
+   30 + 51 = 81
+   \]
+
+2. **Determine how many pictures are in each album:**
+   Katie sorted the 81 pictures into 9 different albums with the same number of pictures in each album. To find out how many pictures are in each album, we divide the total number of pictures by the number of albums:
+   \[
+   \frac{81}{9} = 9
+   \]
+So, there are 9 pictures in each album. The final answer is:
+\[
+\boxed{9}
+\]ustered: 9ustered: 9ustered: 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9.
+
+
+Q:  Robin uploaded 35 pictures from her phone and 5 from her camera to facebook. If she sorted the pics into 5 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+To determine how many pictures were in each of the albums, we need to follow these steps:
+
+1. **Calculate the total number of pictures:**
+   Robin uploaded 35 pictures from her phone and 5 pictures from her camera. Therefore, the total number of pictures is:
+   \[
+   35 + 5 = 40
+   \]
+
+2. **Determine the number of albums:**
+   Robin sorted the pictures into 5 different albums.
+
+3. **Calculate the number of pictures per album:**
+   To find out how many pictures are in each album, we divide the total number of pictures by the number of albums:
+   \[
+   \frac{40}{5} = 8
+   \]
+
+Thus, each album contains \(\boxed{8}\) pictures.
+The final answer is \(\boxed{8}\).
+
+
+Q:  Isabel uploaded 2 pictures from her phone and 4 from her camera to facebook. If she sorted the pics into 3 different albums with the same amount of pics in each album, how many pictures were in each of the albums? 
+A: Let's think step by step. 
+To determine how many pictures Isabel uploaded to Facebook and how many pictures were in each of the albums, we can follow these steps:
+
+1. Calculate the total number of pictures Isabel uploaded.
+   - Isabel uploaded 2 pictures from her phone and 4 pictures from her camera.
+   - Therefore, the total number of pictures is:
+     \[
+     2 + 4 = 6
+     \]
+
+2. Determine how many pictures were in each album.
+   - Isabel sorted the pictures into 3 different albums with the same number of pictures in each album.
+   - To find out how many pictures were in each album, we divide the total number of pictures by the number of albums:
+     \[
+     \frac{6}{3} = 2
+     \]
+Thus, there were 2 pictures in each of the albums. The answer is:
+\[
+\boxed{2}
+\].

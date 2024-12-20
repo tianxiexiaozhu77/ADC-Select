@@ -1,0 +1,53 @@
+Q: It's spring break at Rosewood High so Rachel and her family decided to take a trip across Europe. Since Rachel has always been fascinated by the French people, they began their tour with a visit to France. During their stay there, Rachel went to the famous Eiffel Tower. If she climbed 567 flights of stairs going up and 325 going down, what is the total number of steps that she took?
+A: Let's think step by step. 
+To find the total number of steps Rachel took, we need to sum the number of flights of stairs she climbed going up and going down. She climbed 567 flights of stairs going up and 325 flights going down. So, we add these two numbers together: 567 + 325. Performing this addition gives us: 567 + 325 = 892. Therefore, the total number of steps Rachel took is 892.
+Therefore, the answer is (892 (steps))
+
+
+Q: On the first Saturday of spring, Jane woke up early to enjoy the whole day and help with chores at home. Jane had been saving large empty cans to serve as pots for sunflowers. If she has 54 sunflower seeds and there are 9 cans, how many seeds will be placed in each can if she places an equal number of seeds in each can?
+A: Let's think step by step. 
+To determine how many sunflower seeds Jane will place in each can, we start by taking the total number of seeds she has, which is 54. She has 9 cans to distribute these seeds into. We need to divide the total number of seeds by the number of cans to find out how many seeds will go into each can. We perform the division: 54 seeds ÷ 9 cans = 6 seeds per can. Therefore, each can will have an equal number of 6 seeds.
+Therefore, the answer is (6 (seeds))
+
+
+Q: Chloe agreed to wash all of the windows in Todd's giant art studio. There are 400 square panes of glass each measuring 2.5 feet on each side. Todd offered to pay 10 cents per square foot. Chloe said she would rather get paid 60 cents a pane. Todd agreed and was happy that he was actually going to save money. How much money will Todd save?
+A: Let's think step by step. 
+1. First, we calculate the area of one square pane of glass. Each pane measures 2.5 feet on each side. Therefore, the area of one pane is: 2.5 feet * 2.5 feet = 6.25 square feet.  
+2. There are 400 panes in total, so the total area of all the windows is: 400 panes * 6.25 square feet/pane = 2500 square feet.  
+3. Todd's original offer was to pay 10 cents per square foot. Therefore, the total payment based on this rate would be: 2500 square feet * 0.10 dollars/square foot = 250 dollars.  
+4. Chloe proposed instead to be paid 60 cents per pane. Therefore, the total payment based on her proposal would be: 400 panes * 0.60 dollars/pane = 240 dollars.  
+5. To find out how much money Todd will save, we subtract the total cost he would pay Chloe from the total cost he would have paid based on the original rate: 250 dollars - 240 dollars = 10 dollars.  
+Therefore, Todd saves 10 dollars.
+Therefore, the answer is (10 (cents))
+
+
+Q: It's Halloween in Chicago. Bob, Mary, John, Sue and Sam dressed as superheroes and went out to do some trick or treating. After passing through the houses on Main Street, the five friends counted how much candy they have. If Bob has 10 candies, Mary has 5, Sue has 20, John has 5 as well and Sam has also 10 candies. How many candies did they have together?
+A: Let's think step by step. 
+To find out how many candies the five friends have together, we need to add the number of candies each friend has. Bob has 10 candies, Mary has 5, Sue has 20, John has 5, and Sam has 10. We can do this step by step: 10 (Bob) + 5 (Mary) + 20 (Sue) + 5 (John) + 10 (Sam) = 50. Therefore, the total number of candies they have together is 50.
+Therefore, the answer is (50 (candies))
+
+
+Q: Penny's class is going to Animaland, the largest zoo on earth, for their science field trip. The zoo has a variety of wild animals in captivity. Their first destination was the aviary. The aviary has 3 species of eagles on show that day. They have 20 Bald Eagles, 15 Harpy Eagles, and 30 Crowned Eagles. How many eagles are on display that day?
+A: Let's think step by step. 
+To find the total number of eagles on display, we need to add the number of each species of eagle together. We have 20 Bald Eagles, 15 Harpy Eagles, and 30 Crowned Eagles. So we perform the following addition: 20 + 15 + 30. First, we add 20 and 15, which gives us 35. Next, we add 35 and 30, resulting in 65. Therefore, the total number of eagles on display that day is 65.
+Therefore, the answer is (65 (eagles))
+
+
+Q: Daniel and his brother Ben went to their grandfather's farm for a few weeks of vacation. During their stay at the farm, they were asked to take care of the animals. One day, his grandfather asked if he could count the total number of sheep that they have. If there are 3 herds of sheep and each herd has 20 sheep, how many sheep do they have in total?
+A: Let's think step by step. 
+To find the total number of sheep, we first need to determine how many sheep are in each herd and then multiply that by the number of herds. There are 3 herds of sheep, and each herd contains 20 sheep. So we will calculate the total as follows: Total sheep = Number of herds * Number of sheep in each herd. Therefore, Total sheep = 3 * 20 = 60.
+Therefore, the answer is (60 (sheep))
+
+
+Q: Lizzie lives in a very big and polluted city. Being an advocate for the environment, she organized a cleanup drive to help reduce the pollution. They started by cleaning the rivers that flow through and around the city. If her group was able to collect 387 pounds of garbage and another group gathered 39 pounds less than Lizzie's group, how much garbage were the two groups able to gather?
+A: Let's think step by step. 
+First, we need to determine how much garbage the other group gathered. Lizzie's group collected 387 pounds of garbage. The second group collected 39 pounds less than Lizzie's group. We can calculate the amount collected by the second group by subtracting 39 from 387. This gives us: 387 - 39 = 348 pounds. Now, we add the amounts collected by both groups to find the total: 387 + 348 = 735 pounds. Therefore, the total amount of garbage gathered by both groups is 735 pounds.
+Therefore, the answer is (735 (pounds))
+
+
+Q: It is Buddy's first day at a new school and he is feeling very nervous. His day begins with some bacon and egg prepared by his mother. After eating and preparing, Buddy headed out to catch the school bus from the nearest bus stop. Including Buddy, there were 39 students that got on the bus during the first stop. If 29 more students got on the bus at the second stop, how many students are riding the bus?
+A: Let's think step by step. 
+To find the total number of students riding the bus, we need to add the number of students from both stops. At the first stop, Buddy and 38 other students boarded the bus, making it a total of 39 students. At the second stop, an additional 29 students got on. Hence, the total number of students on the bus can be calculated as follows: 39 (from the first stop) + 29 (from the second stop) = 68. Therefore, the total number of students riding the bus is 68.
+Therefore, the answer is (68 (students))
+
+

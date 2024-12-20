@@ -1,0 +1,12 @@
+/opt/data/private/zjx/ICL/inform/auto-cot
+/opt/data/private/zjx/ICL/inform/new_data/error_data
+/opt/data/private/zjx/ICL/inform/log
+
+*.log
+log/zjx/result/
+
+log
+code/__pycache__
+1.txt
+.DS_Store
+auto-cot/

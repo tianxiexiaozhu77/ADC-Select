@@ -1,0 +1,1188 @@
+{"question": "Liam had 50 marbles in his collection. He lent some marbles to Jake. Now he has 22 marbles left. How many marbles did he lend to Jake?"}
+{"question": "Sofia owned 100 stickers. She gave a few stickers to Emma. After giving them away, she has 45 stickers remaining. How many stickers did she give to Emma?"}
+{"question": "David collected 80 action figures. He donated some of his figures to a charity. He has 33 figures left now. How many action figures did he donate?"}
+{"question": "Rita found 90 coins while cleaning. She gave some coins to Fred. Currently, she has 36 coins. How many coins did she give to Fred?"}
+{"question": "Mark had 60 toy cars in his room. He traded some of those cars with Oscar. Now, Mark has 28 cars left. How many toy cars did he trade away?"}
+{"question": "Nina spotted 75 colorful leaves in the park. She shared some leaves with Lucas. She is left with 30 leaves now. How many leaves did she share with Lucas?"}
+{"question": "Tim discovered 40 rare stamps in his scrapbook. He sold some stamps to an enthusiast. He currently holds 15 stamps. How many stamps did he sell?"}
+{"question": "Ella gathered 85 rocks during her hike. She gifted some rocks to her friend Mia. Now, Ella has 38 rocks. How many rocks did she gift to Mia?"}
+{"question": "There were 45 apples in the basket. Sarah added some apples to the basket today. There are now 78 apples in the basket. How many apples did she add to the basket?"}
+{"question": "There were 12 dogs in the kennel. Jake brought in more dogs to the kennel today. There are now 30 dogs in the kennel. How many dogs did he bring in today?"}
+{"question": "There were 60 chairs in the hall. Lisa set up more chairs in the hall today. There are now 95 chairs in the hall. How many chairs did she set up in the hall?"}
+{"question": "There were 19 books on the shelf. Mark placed more books on the shelf today. There are now 42 books on the shelf. How many books did he place on the shelf?"}
+{"question": "There were 33 toys in the toy box. Emily added more toys to the toy box today. There are now 59 toys in the toy box. How many toys did she add to the toy box?"}
+{"question": "There were 25 pencils in the drawer. Alex put more pencils in the drawer today. There are now 50 pencils in the drawer. How many pencils did he put in the drawer?"}
+{"question": "There were 70 tickets available for the concert. Jamie sold some tickets today. There are now 38 tickets left. How many tickets did he sell today?"}
+{"question": "There were 15 plants in the garden. Nina planted more plants in the garden today. There are now 38 plants in the garden. How many plants did she plant today?"}
+{"question": "There were 50 apples in the basket. Sarah added some apples to the basket today. There are now 80 apples in the basket. How many apples did she add to the basket?"}
+{"question": "There were 15 books on the shelf. Alex placed some books on the shelf today. There are now 30 books on the shelf. How many books did he place on the shelf?"}
+{"question": "There were 10 dogs at the park. Jamie brought more dogs to the park today. There are now 25 dogs at the park. How many dogs did he bring to the park?"}
+{"question": "There were 22 chairs in the room. Linda arranged more chairs in the room today. There are now 40 chairs in the room. How many chairs did she arrange in the room?"}
+{"question": "There were 35 marbles in the jar. Kevin added marbles to the jar today. There are now 60 marbles in the jar. How many marbles did he add to the jar?"}
+{"question": "There were 18 pencils in the box. Emma put more pencils in the box today. There are now 40 pencils in the box. How many pencils did she put in the box?"}
+{"question": "There were 45 pairs of shoes in the store. Mike brought in more pairs of shoes today. There are now 70 pairs of shoes in the store. How many pairs of shoes did he bring in?"}
+{"question": "There were 12 fish in the aquarium. Lisa added some fish to the aquarium today. There are now 30 fish in the aquarium. How many fish did she add to the aquarium?"}
+{"question": "John is preparing a smoothie. The recipe requires 5 bananas. He has already added 1 banana. How many bananas does he need to add?"}
+{"question": "Lisa is making a soup. The recipe calls for 4 liters of broth. She has already poured in 1.5 liters. How much broth does she need to add?"}
+{"question": "Tom is assembling a sandwich. The recipe asks for 6 slices of cheese. He has placed 2 slices on the bread. How many more slices does he need to add?"}
+{"question": "Sarah is creating a fruit salad. The recipe needs 10 strawberries. She has already cut 3 strawberries. How many strawberries does she have left to cut?"}
+{"question": "Mike is crafting a painting. The instructions suggest using 12 shades of color. He has already used 4 shades. How many shades does he need to use?"}
+{"question": "Anna is organizing a party. The plan is for 20 guests. She has already invited 8 guests. How many more guests does she need to invite?"}
+{"question": "Kevin is building a bookshelf. The design requires 15 wooden planks. He has already used 5 planks. How many planks does he need to get?"}
+{"question": "Jess is knitting a scarf. The pattern states that she needs 3 skeins of yarn. She has used 1 skein so far. How many skeins does she need to use next?"}
+{"question": "Michael's soccer team played 15 matches this season. They won most of their matches. They lost during 5 matches. How many matches did they win?"}
+{"question": "The school choir performed 10 concerts this year. They received applause at most of their performances. They were criticized during 3 concerts. How many concerts did they succeed in?"}
+{"question": "Jessica's volleyball team played 14 games this year. They triumphed in most of the matches. They were defeated in 6 matches. How many games did they win?"}
+{"question": "Tom's debate club participated in 8 tournaments this semester. They excelled in most of the debates. They lost 2 tournaments. How many debates did they win?"}
+{"question": "Emily's drama group staged 5 plays this year. They received praise for most of their performances. They were faced with criticism in 1 play. How many plays did they succeed in?"}
+{"question": "Liam's track team ran in 20 races this season. They placed first in most of the races. They finished last in 7 races. How many races did they win?"}
+{"question": "Sophia's art class exhibited 9 works this term. They were appreciated for most of their creations. They received negative feedback on 2 works. How many works were praised?"}
+{"question": "Daniel's swimming team participated in 11 meets this year. They shined in most of the events. They did not win in 3 meets. How many events did they win?"}
+{"question": "There are 15 apple trees currently in the orchard. Orchard workers will plant apple trees today. When the workers are finished there will be 40 apple trees in the orchard. How many apple trees did the workers plant today?"}
+{"question": "There are 10 cherry trees currently in the garden. Garden workers will plant cherry trees today. When the workers are finished there will be 30 cherry trees in the garden. How many cherry trees did the workers plant today?"}
+{"question": "There are 5 oak trees currently in the forest. Forest workers will plant oak trees today. When the workers are finished there will be 25 oak trees in the forest. How many oak trees did the workers plant today?"}
+{"question": "There are 12 palm trees currently in the beach. Beach workers will plant palm trees today. When the workers are finished there will be 35 palm trees in the beach. How many palm trees did the workers plant today?"}
+{"question": "There are 8 pine trees currently in the hill. Hill workers will plant pine trees today. When the workers are finished there will be 22 pine trees in the hill. How many pine trees did the workers plant today?"}
+{"question": "There are 9 birch trees currently in the area. Area workers will plant birch trees today. When the workers are finished there will be 27 birch trees in the area. How many birch trees did the workers plant today?"}
+{"question": "There are 13 maple trees currently in the park. Park workers will plant maple trees today. When the workers are finished there will be 33 maple trees in the park. How many maple trees did the workers plant today?"}
+{"question": "Sarah had 25 apples in her basket. She went to the farm and gathered more apples. Now, she has 70 apples. How many did she gather?"}
+{"question": "Tom had 18 oranges on his table. He visited the market and bought more oranges. There are now 52 oranges. How many did he buy?"}
+{"question": "Emily had 40 bananas in her kitchen. She went to the store and purchased some bananas. Now, she has 95 bananas. How many did she purchase?"}
+{"question": "Jack had 50 grapes in his refrigerator. He picked more grapes from the vineyard. He now has 120 grapes. How many did he pick?"}
+{"question": "Anna had 22 strawberries in her garden. She went to the patch and harvested more strawberries. There are now 60 strawberries. How many did she harvest?"}
+{"question": "Lucas had 15 cherries in his bowl. He went to the orchard and collected more cherries. Now, he has 45 cherries. How many did he collect?"}
+{"question": "There were 8 apples in the basket. John picked some apples from his orchard. There are now 20 apples in the basket. How many apples did he pick?"}
+{"question": "Initially, there were 10 books on the shelf. Sarah brought some books from her collection. Now there are 25 books on the shelf. How many books did she bring?"}
+{"question": "There were 5 cupcakes on the plate. Lisa baked some cupcakes for the party. Now there are 18 cupcakes on the plate. How many cupcakes did she bake?"}
+{"question": "Originally, there were 4 oranges in the bowl. Tom added some oranges from his grocery bag. There are now 12 oranges in the bowl. How many oranges did he add?"}
+{"question": "There were 9 toys in the box. Emily received some toys as gifts. Now there are 22 toys in the box. How many toys did she receive?"}
+{"question": "Initially, there were 15 cookies in the jar. Brian made some additional cookies. There are now 30 cookies in the jar. How many cookies did he make?"}
+{"question": "There were 3 fish in the aquarium. Alex introduced some fish from his pet shop. Now there are 12 fish in the aquarium. How many fish did he introduce?"}
+{"question": "Michael attended 5 basketball matches this month. He attended 7 matches last month. How many basketball matches did Michael attend in total?"}
+{"question": "Sarah visited 3 art galleries this week. She visited 6 galleries last week. How many art galleries did Sarah visit altogether?"}
+{"question": "David read 8 books last summer. He read 4 books this summer. How many books did David read in total?"}
+{"question": "Lisa watched 2 movies this weekend. She watched 5 movies last weekend. How many movies did Lisa watch in all?"}
+{"question": "Tom played 10 video games this year. He played 12 games last year. How many video games did Tom play altogether?"}
+{"question": "Emma baked 3 cakes this month. She baked 4 cakes last month. How many cakes did Emma bake in total?"}
+{"question": "James ran 6 kilometers today. He ran 9 kilometers yesterday. How many kilometers did James run in all?"}
+{"question": "Jake has 12 red apples and Mia has 10 red apples. How many red apples do they have in total?"}
+{"question": "Alice owns 15 blue marbles while Ben possesses 7 blue marbles. How many blue marbles do they collectively have?"}
+{"question": "Liam has 5 green pencils, and Emma has 3 green pencils. What is the total number of green pencils they share?"}
+{"question": "Nina has 20 white flowers, and Liam has 5 white flowers. How many white flowers do they have together?"}
+{"question": "Oliver has 18 purple ribbons, and Sophia has 9 purple ribbons. What is the total number of purple ribbons?"}
+{"question": "Chloe has 14 orange stickers, while Ethan has 6 orange stickers. How many orange stickers do they have combined?"}
+{"question": "Noah owns 25 black shoes, and Mia owns 10 black shoes. How many black shoes do they have altogether?"}
+{"question": "Ella has 30 pink candies and Zoe has 15 pink candies. What is the total number of pink candies they have?"}
+{"question": "There are 5 apple trees currently in the garden. Garden workers will plant 7 apple trees tomorrow. How many apple trees will the garden have when the workers are finished?"}
+{"question": "Emily had 5 quarters in her wallet. Her brother gave her 6 quarters. How many quarters does Emily have now?"}
+{"question": "John found 10 nickels in his drawer. His mom gave him 4 nickels. How many nickels does John have now?"}
+{"question": "Lisa had 8 pennies in her jar. Her friend gave her 3 pennies. How many pennies does Lisa have now?"}
+{"question": "Alex had 12 tokens in his backpack. His uncle gave him 5 tokens. How many tokens does Alex have now?"}
+{"question": "Mia had 15 stickers on her book. Her cousin gave her 7 stickers. How many stickers does Mia have now?"}
+{"question": "Max had 20 marbles in his collection. His neighbor gave him 10 marbles. How many marbles does Max have now?"}
+{"question": "Sophia had 11 candies in her bag. Her friend gave her 4 candies. How many candies does Sophia have now?"}
+{"question": "Jake had 7 stamps in his album. His aunt gave him 9 stamps. How many stamps does Jake have now?"}
+{"question": "Michael's cat had kittens. He gave 4 to his neighbors. He now has 6 kittens. How many kittens did he have to start with?"}
+{"question": "Jessica's rabbit had bunnies. She sold 3 to her coworkers. She currently has 2 bunnies left. How many bunnies did she have initially?"}
+{"question": "Mark's hen laid eggs. He gave away 10 to his family. He now has 8 eggs remaining. How many eggs did he have at first?"}
+{"question": "Sophia's fish had fry. She gave 5 to her friend. She currently has 3 fry. How many fry did she have in total?"}
+{"question": "David's goat had kids. He sold 2 to a local farm. He now has 4 kids left. How many kids did he start with?"}
+{"question": "Emma's parrot had chicks. She gifted 6 to her cousin. She now has 3 chicks. How many chicks did she have originally?"}
+{"question": "A cafe brewed 15 coffees in the morning and 10 in the afternoon today. How many coffees were brewed today?"}
+{"question": "A bakery made 20 croissants in the early morning and 12 in the evening today. How many croissants were made today?"}
+{"question": "A diner served 5 burgers for lunch and 7 for dinner today. How many burgers were served today?"}
+{"question": "A food truck sold 25 tacos at lunch and 15 at dinner today. How many tacos were sold today?"}
+{"question": "A food stall prepared 10 sandwiches for breakfast and 8 for lunch today. How many sandwiches were prepared today?"}
+{"question": "A bakery delivered 18 cakes in the morning and 22 in the afternoon today. How many cakes were delivered today?"}
+{"question": "A caf\u00e9 offered 30 pastries in the morning and 25 in the evening today. How many pastries were offered today?"}
+{"question": "A restaurant cooked 4 spaghetti dishes for lunch and 6 for dinner today. How many spaghetti dishes were cooked today?"}
+{"question": "There are 4 apples in the basket. Sara added 2 apples to the basket. How many apples are now in total?"}
+{"question": "There are 5 books on the shelf. Alex put 3 more books on the shelf. How many books are there now?"}
+{"question": "There are 8 marbles in the jar. Lucy placed 4 marbles into the jar. How many marbles are there now?"}
+{"question": "There are 10 cookies in the jar. Jake baked 6 more cookies and added them to the jar. How many cookies are there in total?"}
+{"question": "There are 3 chairs in the room. Emma brought in 2 additional chairs. How many chairs are there altogether?"}
+{"question": "Mark collected 10 stamps and Lisa collected 5 stamps from their hobby store. How many stamps did they collect together?"}
+{"question": "Tom found 12 nuts and Sarah found 9 nuts in the park. How many nuts did they find together?"}
+{"question": "Alice picked 7 apples and Brian picked 4 apples from the orchard. How many apples did they pick together?"}
+{"question": "Henry gathered 15 rocks and Clara gathered 10 rocks during their hike. How many rocks did they gather together?"}
+{"question": "Michael drew 8 pictures and Emily drew 6 pictures at the art class. How many pictures did they draw together?"}
+{"question": "Kevin planted 20 flowers and Rachel planted 15 flowers in their garden. How many flowers did they plant together?"}
+{"question": "Sophia baked 5 cakes and Jacob baked 3 cakes for the party. How many cakes did they bake together?"}
+{"question": "Alex baked 4 pies. Jamie baked 5 pies. How many pies did they bake in total?"}
+{"question": "Liam planted 7 flowers. Emma planted 2 flowers. How many flowers did they plant in total?"}
+{"question": "Noah read 10 books. Olivia read 3 books. How many books did they read in total?"}
+{"question": "Ella sold 12 paintings. Mia sold 6 paintings. How many paintings did they sell in total?"}
+{"question": "Jack played 15 games. Sophia played 5 games. How many games did they play in total?"}
+{"question": "Aiden collected 8 stamps. Ava collected 4 stamps. How many stamps did they collect in total?"}
+{"question": "Daniel raised 9 chickens. Lucy raised 6 chickens. How many chickens did they raise in total?"}
+{"question": "Lily made 13 cookies. Ethan made 7 cookies. How many cookies did they make in total?"}
+{"question": "Alex picked 12 apples, Maria picked 8 apples, and John picked 6 apples from the orchard. How many apples did they pick together?"}
+{"question": "Emily collected 10 rocks, Brian collected 4 rocks, and Sarah collected 8 rocks in the park. How many rocks did they collect together?"}
+{"question": "Liam gathered 15 pine cones, Ava gathered 3 pine cones, and Noah gathered 11 pine cones in the forest. How many pine cones did they gather together?"}
+{"question": "Oliver caught 6 fish, Mia caught 4 fish, and Jake caught 9 fish in the lake. How many fish did they catch together?"}
+{"question": "Sophia found 14 coins, Lucas found 2 coins, and Ella found 11 coins while cleaning the yard. How many coins did they find together?"}
+{"question": "William collected 8 stamps, Zoe collected 5 stamps, and Ethan collected 7 stamps for their album. How many stamps did they collect together?"}
+{"question": "Chloe gathered 20 flowers, Mason gathered 10 flowers, and Grace gathered 7 flowers from the garden. How many flowers did they gather together?"}
+{"question": "Samantha's dog had puppies. She gave 2 to Mark and 5 to Lucy. She now has 4 puppies. How many puppies did she have to start with?"}
+{"question": "Michael's rabbit had babies. He gave 4 to Angela and 3 to Tom. He now has 2 rabbits. How many rabbits did he have to start with?"}
+{"question": "Linda's bird had chicks. She gave 1 to Robert and 3 to Emily. She now has 5 chicks. How many chicks did she have to start with?"}
+{"question": "Jake's hamster had pups. He gave 2 to Sarah and 1 to Daniel. He now has 6 pups. How many pups did he have to start with?"}
+{"question": "Sophia's turtle laid eggs. She gave 3 to Kevin and 2 to Brian. She now has 4 eggs. How many eggs did she have to start with?"}
+{"question": "Carlos's goat had kids. He gave 1 to Juliana and 3 to Oscar. He now has 5 kids. How many kids did he have to start with?"}
+{"question": "Nina's fish had fries. She gave 2 to Paul and 4 to Mia. She now has 3 fries. How many fries did she have to start with?"}
+{"question": "Michael has 10 red marbles, David has 6 red marbles, and Rachel has 4 red marbles. How many red marbles do they have in total?"}
+{"question": "Anna has 12 green apples, Mark has 8 green apples, and Lucy has 3 green apples. How many green apples do they have in total?"}
+{"question": "Tom has 15 yellow stickers, Sam has 5 yellow stickers, and Lucy has 7 yellow stickers. How many yellow stickers do they have in total?"}
+{"question": "Brian has 11 orange toys, Kevin has 9 orange toys, and Emily has 2 orange toys. How many orange toys do they have in total?"}
+{"question": "Julia has 14 pink flowers, Alice has 6 pink flowers, and Emma has 1 pink flower. How many pink flowers do they have in total?"}
+{"question": "Andrew has 5 black hats, Jack has 3 black hats, and Lily has 2 black hats. How many black hats do they have in total?"}
+{"question": "Catherine has 7 white chairs, George has 4 white chairs, and Michelle has 5 white chairs. How many white chairs do they have in total?"}
+{"question": "Oliver had 5 nickels in his collection. His uncle gave him 10 nickels and his aunt gave him 3 nickels. How many nickels does Oliver have now?"}
+{"question": "Sophia started with 12 quarters in her piggy bank. Her brother gifted her 6 quarters and her sister contributed 4 quarters. How many quarters does Sophia have now?"}
+{"question": "Liam owned 9 pennies in his jar. His grandmother gave him 15 pennies, and his cousin gave him 2 pennies. How many pennies does Liam have now?"}
+{"question": "Emma had 14 half-dollars in her safe. Her friend gifted her 7 half-dollars and her neighbor gave her 5 half-dollars. How many half-dollars does Emma have now?"}
+{"question": "Noah possessed 8 fifty-cent pieces in his wallet. His father gave him 6 fifty-cent pieces, and his mother gave him 4 fifty-cent pieces. How many fifty-cent pieces does Noah have now?"}
+{"question": "Ava held 10 one-dollar coins in her purse. Her friend provided her with 9 one-dollar coins, and her sister added 3 one-dollar coins. How many one-dollar coins does Ava have now?"}
+{"question": "Lucas harvested 7 apples, Maria harvested 5 apples, and John harvested 8 apples from the apple orchard. How many apples were harvested in total?"}
+{"question": "Anna collected 10 oranges, Kevin collected 3 oranges, and Emily collected 6 oranges from the orange grove. How many oranges were collected in total?"}
+{"question": "Tom gathered 4 bananas, Sarah gathered 12 bananas, and Mike gathered 5 bananas from the banana field. How many bananas were gathered in total?"}
+{"question": "Rachel picked 3 cherries, Steve picked 14 cherries, and Helen picked 2 cherries from the cherry tree. How many cherries were picked in total?"}
+{"question": "Chris found 6 strawberries, Jenna found 11 strawberries, and Alan found 4 strawberries in the garden. How many strawberries were found in total?"}
+{"question": "John baked 3 loaves of bread, Lisa baked 4 loaves of bread, and Tom baked 6 loaves of bread. How many loaves of bread did they bake in total?"}
+{"question": "Emma read 7 books, Noah read 2 books, and Olivia read 5 books. How many books did they read altogether?"}
+{"question": "Mike collected 8 stamps, Anna collected 3 stamps, and Jake collected 6 stamps. How many stamps did they collect in total?"}
+{"question": "Liam painted 10 pictures, Emma painted 4 pictures, and Sophia painted 7 pictures. How many pictures did they paint altogether?"}
+{"question": "David wrote 5 articles, Lucy wrote 6 articles, and Alex wrote 4 articles. How many articles did they write in total?"}
+{"question": "Chris made 2 cakes, Patricia made 3 cakes, and Rob made 5 cakes. How many cakes did they make together?"}
+{"question": "Katie has 9 apples, Jack has 6 apples, and Maya has 4 apples. How many apples do they have in all?"}
+{"question": "Nina sewed 11 dresses, John sewed 5 dresses, and Clara sewed 9 dresses. How many dresses did they sew together?"}
+{"question": "Alice possesses 30 green and 12 yellow balloons. Bob has 20 green balloons. What is the total number of green balloons they have together?"}
+{"question": "Sarah owns 50 red and 25 white stickers. David has 15 red stickers. How many red stickers do they have in total?"}
+{"question": "Alex collected 23 coins while Jamie collected 34 coins in the park. How many coins did they collect together?"}
+{"question": "Liam picked 15 apples and Emma picked 29 apples from the orchard. How many apples did they pick together?"}
+{"question": "Oliver brought home 12 marbles and Ava brought home 22 marbles from the fair. How many marbles did they have together?"}
+{"question": "Ella found 30 leaves and Noah found 18 leaves in the garden. How many leaves did they find together?"}
+{"question": "Sophie gathered 25 flowers and Jake gathered 17 flowers in the field. How many flowers did they gather together?"}
+{"question": "Mia discovered 20 rocks and Ethan discovered 40 rocks by the river. How many rocks did they discover together?"}
+{"question": "Lucas found 10 toy cars and Lily found 35 toy cars in the store. How many toy cars did they find together?"}
+{"question": "There are 7 pencils and 20 erasers on the table. Alex added 5 pencils to the table. How many pencils are now there in total?"}
+{"question": "There are 15 books and 8 notebooks on the shelf. Sarah placed 6 books on the shelf. How many books are now there altogether?"}
+{"question": "There are 12 marbles and 18 toy cars in the box. Mike put 9 marbles in the box. How many marbles are now in total?"}
+{"question": "There are 10 bags of chips and 25 sodas in the pantry. John brought 4 bags of chips into the pantry. How many bags of chips are now there overall?"}
+{"question": "There are 6 cupcakes and 11 cookies on the counter. Emma baked 3 cupcakes for the counter. How many cupcakes are there now in total?"}
+{"question": "There are 5 plants and 12 flowers in the garden. Rachel planted 2 more plants in the garden. How many plants are now there all together?"}
+{"question": "There are 20 stickers and 16 stamps in the drawer. James added 4 stickers to the drawer. How many stickers are now present?"}
+{"question": "There are 14 toys and 9 puzzles in the room. Lily donated 3 toys to the room. How many toys are now in total?"}
+{"question": "Sarah originally had 30 dimes in her jar. Her brother gifted her 15 dimes. How many dimes does she have now?"}
+{"question": "Tom had 60 nickels in his collection. His aunt gave him 20 nickels. How many nickels does he have now?"}
+{"question": "Emily had 75 pennies in her wallet. Her friend added 40 pennies to it. How many pennies does she have now?"}
+{"question": "Sarah collected 12 stamps and John collected 25 stamps in their albums. When they organized them, they found that 10 were damaged. How many stamps did they collect together?"}
+{"question": "Emily picked 20 apples and Jake picked 40 apples from the orchard. When they sorted them, they noticed that 15 were bruised. How many apples did they gather in total?"}
+{"question": "Lily found 18 marbles and Mark found 32 marbles in the park. When they counted them, they realized that 5 were broken. How many marbles did they find collectively?"}
+{"question": "Chris discovered 23 coins and Alex discovered 11 coins in the old chest. When they examined them, they revealed that 4 were counterfeit. How many coins did they find together?"}
+{"question": "Natalie brought home 14 books and George brought home 26 books from the library. When they checked them, they discovered that 6 were torn. How many books did they have in total?"}
+{"question": "John has 22 blue and 10 yellow marbles. Emily has 18 blue marbles. How many blue marbles do they have in total?"}
+{"question": "Laura has 40 pink and 25 purple ribbons. Michael has 30 pink ribbons. How many pink ribbons do they have in total?"}
+{"question": "Tom has 15 orange and 20 black balls. Alice has 12 orange balls. How many orange balls do they have in total?"}
+{"question": "David has 27 white and 8 grey feathers. Lily has 15 white feathers. How many white feathers do they have in total?"}
+{"question": "Rachel has 10 gold and 5 silver coins. Mark has 20 gold coins. How many gold coins do they have in total?"}
+{"question": "Sarah attended 24 concerts this year, but missed 20. She went to 8 concerts last year."}
+{"question": "John participated in 40 workshops this year, but missed 30. He attended 12 workshops last year."}
+{"question": "Lisa visited 50 museums this year, but missed 25. She explored 15 museums last year."}
+{"question": "Michael joined 15 book clubs this year, but missed 10. He was part of 5 book clubs last year."}
+{"question": "Emma logged 28 yoga classes this year, but missed 22. She attended 10 yoga classes last year."}
+{"question": "David viewed 10 films this year, but missed 5. He watched 7 films last year."}
+{"question": "Anna played 18 tennis matches this year, but missed 8. She played in 6 matches last year."}
+{"question": "There are 15 markers and 25 sketch pens on the shelf. Sarah added 10 markers to the shelf. How many markers are now there in total?"}
+{"question": "Mark harvested 30 tomatoes and 25 cucumbers. Lisa harvested 50 tomatoes. How many tomatoes did they harvest in total?"}
+{"question": "Sophie raised 18 chickens and 15 ducks. John raised 22 chickens. How many chickens did they raise in total?"}
+{"question": "Emily planted 60 flowers and 40 shrubs. Tom planted 50 flowers. How many flowers did they plant in total?"}
+{"question": "Kevin produced 34 apples and 28 oranges. Sarah produced 45 apples. How many apples did they produce in total?"}
+{"question": "Rachel collected 20 eggs and 15 milk bottles. Mark collected 25 eggs. How many eggs did they collect in total?"}
+{"question": "Jeff grew 75 carrots and 30 beets. Anna grew 60 carrots. How many carrots did they grow in total?"}
+{"question": "Laura nurtured 45 plants and 35 herbs. Mike nurtured 55 plants. How many plants did they nurture in total?"}
+{"question": "Tommy baked 36 cookies and 24 brownies. Clara baked 42 cookies. How many cookies did they bake in total?"}
+{"question": "There are 27 apple trees currently in the orchard. Farmers will plant 35 apple trees today. How many apple trees will the orchard have when the farmers are finished?"}
+{"question": "There are 25 apples in the basket. Sarah added 15 apples to the basket. How many apples are there now in total?"}
+{"question": "There are 50 books on the shelf. John donated 10 books to the shelf. How many books are there now in total?"}
+{"question": "There are 70 marbles in the jar. Emily contributed 20 marbles to the jar. How many marbles are there now in total?"}
+{"question": "Tom has 25 red marbles, and Alice has 30 red marbles. How many red marbles do they have in total?"}
+{"question": "Mike owns 50 toy cars while Sarah owns 45 toy cars. How many toy cars do they have together?"}
+{"question": "John has 35 green apples, and Emily has 38 green apples. What is their total number of green apples?"}
+{"question": "David has 60 stickers, and Rachel has 55 stickers. How many stickers do they have combined?"}
+{"question": "Kevin possesses 20 comic books, and Laura possesses 22 comic books. How many comic books do they have together?"}
+{"question": "Brandon has 12 guitars and Melissa has 15 guitars. What is the total number of guitars they own?"}
+{"question": "Chris has 18 video games while Sam has 20 video games. How many video games do they have in total?"}
+{"question": "Alice harvested 25 pumpkins. Bob harvested 32 pumpkins. How many pumpkins did they harvest altogether?"}
+{"question": "Sarah planted 15 tomato plants. Jonathan planted 20 tomato plants. How many tomato plants did they plant in total?"}
+{"question": "Emma baked 50 cookies. Liam baked 60 cookies. How many cookies did they bake combined?"}
+{"question": "Mia read 10 books this month. Ethan read 15 books this month. How many books did they read together?"}
+{"question": "Olivia saved $120. Noah saved $150. How much money did they save in total?"}
+{"question": "Sophia ran 5 miles. Jackson ran 7 miles. How many miles did they run in total?"}
+{"question": "Isabella made 22 crafts. Mason made 30 crafts. How many crafts did they make together?"}
+{"question": "Chloe painted 18 landscapes. Aiden painted 25 landscapes. How many landscapes did they paint in total?"}
+{"question": "Alex attended 12 basketball games this year. He attended 24 games last year. How many basketball games did Alex attend in total?"}
+{"question": "Jordan participated in 10 baseball matches this season. He participated in 20 matches last season. How many baseball matches did Jordan participate in altogether?"}
+{"question": "Taylor watched 18 hockey games this year. Taylor watched 32 games last year. How many hockey games did Taylor watch in total?"}
+{"question": "Chris went to 15 concerts this year. Chris went to 27 concerts last year. How many concerts did Chris go to in all?"}
+{"question": "Tom picked 23 apples and Sarah picked 37 apples from the orchard. How many apples did they pick together?"}
+{"question": "David collected 15 stamps and Lisa collected 29 stamps for her album. How many stamps did they collect altogether?"}
+{"question": "Alice baked 10 cookies and Bob baked 24 cookies for the party. How many cookies did they bake in total?"}
+{"question": "Kevin caught 5 fish and Nancy caught 19 fish during their fishing trip. How many fish did they catch together?"}
+{"question": "Daniel read 12 books and Emma read 32 books this year. How many books did they read altogether?"}
+{"question": "Mike drew 28 pictures and John drew 14 pictures for the art show. How many pictures did they draw in total?"}
+{"question": "Sophia gathered 45 rocks and Ethan gathered 22 rocks from the river. How many rocks did they gather together?"}
+{"question": "Sarah baked 12 pies, Tom baked 24 pies, and Lucy baked 18 pies. How many pies did they bake in total?"}
+{"question": "Alice painted 34 portraits, Bob painted 22 portraits, and Charlie painted 15 portraits. How many portraits did they paint in total?"}
+{"question": "Michelle collected 45 stamps, David collected 30 stamps, and Emily collected 25 stamps. How many stamps did they collect in total?"}
+{"question": "Ryan planted 36 flowers, Emma planted 28 flowers, and Noah planted 15 flowers. How many flowers did they plant in total?"}
+{"question": "Liam read 12 books, Sophia read 15 books, and Benjamin read 8 books. How many books did they read in total?"}
+{"question": "Jessica wrote 50 poems, Daniel wrote 30 poems, and Oliver wrote 20 poems. How many poems did they write in total?"}
+{"question": "Tom has 45 red apples, Jerry has 32 red apples, and Mike has 50 red apples. How many red apples do they have in total?"}
+{"question": "Emma has 15 green marbles, Liam has 25 green marbles, and Noah has 40 green marbles. What is the total number of green marbles they possess?"}
+{"question": "Sophia has 22 purple flowers, James has 18 purple flowers, and Oliver has 16 purple flowers. How many purple flowers do they have combined?"}
+{"question": "Ava has 12 yellow stars, Mia has 24 yellow stars, and Lucas has 30 yellow stars. What is the total number of yellow stars they have together?"}
+{"question": "Ethan has 50 orange toys, Isabella has 27 orange toys, and Mason has 34 orange toys. How many orange toys do they have all together?"}
+{"question": "Tom had 35 baseball cards. Lisa gave him 15 new baseball cards. Tom traded for 10 baseball cards. How many baseball cards does Tom have now?"}
+{"question": "Rachel had 50 stickers. Ben gifted her 30 new stickers. Rachel found 5 more stickers. How many stickers does Rachel have now?"}
+{"question": "Jason had 60 marbles. Amy gave him 25 new marbles. Jason lost 10 marbles. How many marbles does Jason have now?"}
+{"question": "Emily had 40 toy cars. Mark sold her 20 new toy cars. Emily gave away 5 toy cars. How many toy cars does Emily have now?"}
+{"question": "David had 15 action figures. Sarah gifted him 18 new action figures. David bought 7 more action figures. How many action figures does David have now?"}
+{"question": "Ella visited 5 art galleries this week. She visited 12 galleries last week, and plans to visit 10 galleries next week. How many galleries will she visit in total?"}
+{"question": "Mark attended 8 workshops this month. He attended 14 workshops last month, and intends to attend 20 workshops next month. How many workshops will he attend altogether?"}
+{"question": "Sophie went to 9 concerts this month. She went to 15 concerts last month, and aims to go to 18 concerts next month. How many concerts will she end up attending in total?"}
+{"question": "There are 32 books on the shelf and 14 books on the table. Mia added 12 books to the table. How many books are now there in total?"}
+{"question": "Maria collected 78 stamps from different countries, she gave Paul some of her stamps. Now she has 33 stamps left. How many stamps did she give to Paul?"}
+{"question": "Tom had 45 marbles in his collection, he traded some marbles with James. After the trade, he has 18 marbles. How many marbles did he trade to James?"}
+{"question": "Lisa gathered 92 beads for her craft, she shared a few with Sarah. She now has 39 beads. How many beads did she share with Sarah?"}
+{"question": "Kevin caught 64 fish during the fishing trip, he donated some fish to a local shelter. Currently, he has 29 fish remaining. How many fish did he donate?"}
+{"question": "Rachel picked 50 apples from her orchard, she gave some apples to her neighbor. After sharing, she has 20 apples. How many apples did she give to her neighbor?"}
+{"question": "James acquired 100 comic books, he lent some to his friend Eric. Now he possesses 45 comic books. How many comic books did he lend to Eric?"}
+{"question": "Samantha received 80 dollars for her graduation. She went to a bookstore and bought a novel, a notebook, and a pen. She had 30 dollars left, how much did she spend on the school supplies?"}
+{"question": "Jake got 50 dollars as a gift for his promotion. He went to a tech store and bought a wireless mouse, a keyboard, and a headset. He had 10 dollars remaining, how much did he spend on the tech gear?"}
+{"question": "Lily received 100 dollars from her grandparents. She visited a craft store and bought paint, brushes, and canvas. She was left with 40 dollars, how much did she spend on the art supplies?"}
+{"question": "Oliver received 120 dollars for his birthday. He went to a toy shop and bought a puzzle, action figures, and board games. He had 50 dollars extra, how much did he spend on the toys?"}
+{"question": "Amelia got 90 dollars for her graduation. She went to a clothing store and bought a dress, shoes, and accessories. After shopping, she had 25 dollars left, how much did she spend on the clothes?"}
+{"question": "Ethan received 75 dollars for his birthday. He went to a music store to buy a guitar, strings, and a tuner. He had 20 dollars remaining, how much did he spend on the musical items?"}
+{"question": "Noah received 150 dollars for his achievement. He went to a gaming store and bought a console, a game, and a controller. He had 70 dollars over, how much did he spend on the gaming gear?"}
+{"question": "Mia received 60 dollars for her allowance. She visited a pet store and bought a bowl, food, and toys for her dog. She was left with 15 dollars, how much did she spend on the pet supplies?"}
+{"question": "There were 5 tulips in the pot. Michael picked some tulips from his backyard. There are now 18 tulips in the pot. How many tulips did he pick?"}
+{"question": "Last month, Sara had 50 euros. She sold some old clothes and now has 70 euros. How much money did she make selling clothes?"}
+{"question": "Yesterday, John had 30 pounds. He mowed lawns for extra cash and now has 55 pounds. How much money did he earn mowing lawns?"}
+{"question": "A week ago, Emily had 100 dollars. She babysat over the weekend and now has 130 dollars. How much money did she earn babysitting?"}
+{"question": "Last Tuesday, Mark had 45 dollars. He did some freelance work and now has 75 dollars. How much money did he make from freelance work?"}
+{"question": "Two weeks ago, Anna had 80 dollars. She participated in a craft fair and now has 95 dollars. How much money did she make at the craft fair?"}
+{"question": "Last Friday, Liam had 20 dollars. He sold cupcakes and now has 40 dollars. How much money did he make from selling cupcakes?"}
+{"question": "Last quarter, Beth had 60 dollars. She worked overtime at her job and now has 90 dollars. How much money did she earn working overtime?"}
+{"question": "Earlier this week, David had 10 dollars. He found some lost cash and now has 35 dollars. How much money did he find?"}
+{"question": "There were 50 apples in the basket. Sarah added some apples to the basket today. There are now 75 apples in the basket. How many apples did she add to the basket?"}
+{"question": "There were 120 books on the shelf. Mark placed more books on the shelf today. There are now 150 books on the shelf. How many books did he place on the shelf?"}
+{"question": "There were 200 marbles in the jar. Lily put additional marbles in the jar today. There are now 250 marbles in the jar. How many marbles did she put in the jar?"}
+{"question": "There were 35 toy cars in the garage. Tom parked more toy cars in the garage today. There are now 53 toy cars in the garage. How many toy cars did he park in the garage?"}
+{"question": "There were 85 stamps in the collection. Emma received more stamps for the collection today. There are now 110 stamps in the collection. How many stamps did she receive for the collection?"}
+{"question": "There were 60 cookies in the jar. Rachel baked cookies and added them to the jar today. There are now 78 cookies in the jar. How many cookies did she add to the jar?"}
+{"question": "There were 30 fish in the tank. Kevin put more fish in the tank today. There are now 45 fish in the tank. How many fish did he put in the tank?"}
+{"question": "There were 140 chairs in the hall. The committee brought in additional chairs today. There are now 180 chairs in the hall. How many chairs did they bring in?"}
+{"question": "Alice baked 5 cookies. Bob baked 8 cookies. How many cookies did they bake in total?"}
+{"question": "Tom read 4 books. Jerry read 6 books. How many books did they read in total?"}
+{"question": "Lisa painted 9 pictures. Mark painted 5 pictures. How many pictures did they paint in total?"}
+{"question": "There are 5 apples in the basket. Sarah added 2 apples to the basket. How many apples are now there in total?"}
+{"question": "There are 10 books on the shelf. John put 4 books on the shelf. How many books are now there in total?"}
+{"question": "There are 7 marbles in the jar. Emily dropped 3 marbles into the jar. How many marbles are now there in total?"}
+{"question": "Sara collected 10 stones but 3 were chipped. How many intact stones did Sara collect?"}
+{"question": "Mike gathered 15 leaves but 5 were damaged. How many whole leaves did Mike gather?"}
+{"question": "Anna picked 6 apples but 2 were rotten. How many fresh apples did Anna pick?"}
+{"question": "James found 12 coins but 4 were counterfeit. How many genuine coins did James find?"}
+{"question": "Lucy discovered 20 flowers but 8 were wilted. How many healthy flowers did Lucy discover?"}
+{"question": "David caught 9 fish but 3 were too small. How many suitable fish did David catch?"}
+{"question": "Emily made 5 cakes but 1 was burnt. How many good cakes did Emily make?"}
+{"question": "Robert harvested 14 carrots but 6 were damaged. How many usable carrots did Robert harvest?"}
+{"question": "John collected 5 oranges and Sarah collected 8 oranges from the orange grove. How many oranges were collected in total?"}
+{"question": "Tom harvested 4 apples and Lisa harvested 6 apples from the apple tree. How many apples were harvested in total?"}
+{"question": "Emily found 3 cherries and Mark found 12 cherries in the cherry orchard. How many cherries were found in total?"}
+{"question": "Nina grabbed 10 strawberries and Alex grabbed 15 strawberries from the strawberry patch. How many strawberries were grabbed in total?"}
+{"question": "Chris picked 6 bananas and Jamie picked 7 bananas from the banana plant. How many bananas were picked in total?"}
+{"question": "Sarah had 10 blue marbles but misplaced 3 of them. How many blue marbles does Sarah have now?"}
+{"question": "Michael possesses 5 red apples but ate 1 of them. How many red apples does Michael have now?"}
+{"question": "Emily started with 12 stickers but gave away 4 of them. How many stickers does Emily have left?"}
+{"question": "Tom owned 15 toy cars but lost 5 of them. How many toy cars does Tom have now?"}
+{"question": "Lily has 7 green books but lent 2 of them. How many green books does Lily have remaining?"}
+{"question": "Mark's dog had 10 puppies. He sold 3 to his neighbors. How many puppies does he have now?"}
+{"question": "Lisa's bird had 5 chicks. She released 1 into the wild. How many chicks does she have now?"}
+{"question": "Tom's rabbit had 6 kits. He gave 2 to his cousin. How many kits does he have now?"}
+{"question": "Anna's fish had 4 fry. She bought 1 more. How many fry does she have now?"}
+{"question": "Steve's horse had 7 foals. He adopted out 2. How many foals does he have now?"}
+{"question": "There are 18 books on the shelf. John added 22 books to the shelf. How many books are now there in total?"}
+{"question": "Lily collected 50 marbles from the park, and she gifted 22 of the marbles to her friend. How many marbles does she have left?"}
+{"question": "Tom picked 40 apples from the orchard and gave 15 apples to his neighbor. How many apples does he still have?"}
+{"question": "Emily harvested 60 flowers from her garden and shared 25 flowers with her sister. How many flowers does she retain?"}
+{"question": "Jake caught 27 fish in the lake and donated 10 of the fish to his local food bank. How many fish does he have now?"}
+{"question": "Mia found 45 coins in the sand and spent 20 coins on a toy. How many coins does she have remaining?"}
+{"question": "Oliver gathered 80 stickers and traded 30 stickers with his classmates. How many stickers does he currently own?"}
+{"question": "Ava scored 90 points in the game, but she lost 35 points due to a penalty. What is her current score?"}
+{"question": "Alice had 50 marbles. Bob took 10 of Alice's marbles. How many marbles does Alice have left?"}
+{"question": "John owns 75 stamps. Mark purchased 20 of John's stamps. How many stamps does John have now?"}
+{"question": "Sara collected 120 coins. Tom acquired 30 of Sara's coins. How many coins does Sara own now?"}
+{"question": "Emily has 200 stickers. Jake bought 50 of Emily's stickers. How many stickers does Emily have remaining?"}
+{"question": "Dave possesses 150 video games. Chris got 25 of Dave's video games. How many video games does Dave retain now?"}
+{"question": "Karen had 60 tickets. Steve received 15 of Karen's tickets. How many tickets does Karen have now?"}
+{"question": "Laura owns 90 books. Tina borrowed 25 of Laura's books. How many books does Laura currently possess?"}
+{"question": "Jessica baked 40 cookies. Tom baked 15 cookies. How many cookies did they bake in total?"}
+{"question": "Laura painted 29 canvases. Michael painted 22 canvases. How many canvases did they paint in total?"}
+{"question": "There are 45 apples in the basket. Maria added 10 apples to the basket. How many apples are there in total now?"}
+{"question": "There are 30 books on the shelf. David placed 15 new books on the shelf. What is the total number of books now?"}
+{"question": "There are 80 marbles in the jar. Sarah put 25 marbles in the jar. How many marbles are there altogether?"}
+{"question": "There are 60 candies in the bowl. John added 20 more candies to the bowl. How many candies are there now?"}
+{"question": "There are 12 chairs in the room. Lisa brought in 5 additional chairs. What is the total number of chairs now?"}
+{"question": "There are 50 stickers in the album. Tom inserted 30 more stickers into the album. How many stickers are there in total?"}
+{"question": "There are 36 cupcakes on the table. Emily baked 18 more cupcakes. What is the total number of cupcakes now?"}
+{"question": "There are 25 toy cars in the box. Alex found 10 more toy cars and placed them in the box. How many toy cars are there in all?"}
+{"question": "Sara collected 45 coins from the fountain, she donated 30 of the coins. How many coins does she have left?"}
+{"question": "Tom had 120 marbles in his collection, he traded 47 marbles with his friends. How many marbles does he still possess?"}
+{"question": "Emily picked 200 apples from the orchard, she sold 150 of them at the market. How many apples does she have remaining?"}
+{"question": "David found 95 rocks in the river, he gave 40 rocks to his brother. How many rocks does he hold now?"}
+{"question": "Linda baked 60 cookies for the bake sale, she gave away 45 of the cookies. How many cookies does she retain?"}
+{"question": "Michael harvested 70 flowers from the garden, he gave 50 flowers to his neighbor. How many flowers does he still have?"}
+{"question": "Jessica discovered 88 books in an old library, she donated 36 books to a charity. How many books does she have left?"}
+{"question": "Tom had 950 dimes in his wallet. He spent 275 of his dimes. How many dimes does he have remaining?"}
+{"question": "Alice baked 200 cookies. John baked 150 cookies. How many cookies did they bake in total?"}
+{"question": "Sara planted 76 flowers. Tom planted 45 flowers. How many flowers did they plant together?"}
+{"question": "Liam collected 89 stamps. Olivia collected 67 stamps. How many stamps did they collect altogether?"}
+{"question": "Ethan read 45 books. Mia read 32 books. How many books did they read combined?"}
+{"question": "Noah rode 25 laps. Emma rode 30 laps. How many laps did they ride in total?"}
+{"question": "Oliver drew 90 sketches. Ava drew 55 sketches. How many sketches did they draw in all?"}
+{"question": "James wrote 120 poems. Sophia wrote 80 poems. How many poems did they write together?"}
+{"question": "Liam has 512 baseball cards. Sarah purchased 175 of Liam's baseball cards. How many baseball cards does Liam have left now?"}
+{"question": "Emily owns 350 video games. Tom acquired 120 of Emily's video games. How many video games does Emily have remaining now?"}
+{"question": "Mark has 890 comic books. Jessica bought 290 of Mark's comic books. How many comic books does Mark possess now?"}
+{"question": "Rachel has 450 stamps. Mike sold 200 of Rachel's stamps. How many stamps does Rachel have now?"}
+{"question": "David has 780 Lego pieces. Claire took 215 of David's Lego pieces. How many Lego pieces does David have remaining now?"}
+{"question": "Sophia has 640 trading cards. Brian took 150 of Sophia's trading cards. How many trading cards does Sophia have now?"}
+{"question": "Oliver possesses 900 action figures. Emma received 300 of Oliver's action figures. How many action figures does Oliver still have now?"}
+{"question": "Lisa has 550 red apples, she gave Mark 175 of the apples. How many red apples does she now have?"}
+{"question": "John has 320 blue marbles, he gave Emily 85 of the marbles. How many blue marbles does he now have?"}
+{"question": "Sarah has 430 yellow stickers, she gave Tom 120 of the stickers. How many yellow stickers does she now have?"}
+{"question": "Mike has 150 purple flowers, he gave Jessica 45 of the flowers. How many purple flowers does he now have?"}
+{"question": "Emma has 600 orange books, she donated 200 of the books. How many orange books does she now have?"}
+{"question": "Daniel has 800 toy cars, he lost 250 of the cars. How many toy cars does he now have?"}
+{"question": "Nina has 920 white candles, she sold 300 of the candles. How many white candles does she now have?"}
+{"question": "There are 250 marbles in the jar. Mike added 50 marbles to the jar. How many marbles are now there in total?"}
+{"question": "There are 300 books on the shelf. Jenny donated 25 books to the shelf. How many books are now there in all?"}
+{"question": "Sarah has 5 toy cars. Mike purchased 3 of Sarah's toy cars. How many toy cars does Sarah have now?"}
+{"question": "Liam owns 10 baseball cards. Emily bought 4 of Liam's baseball cards. How many baseball cards does Liam have now?"}
+{"question": "Natalie has 8 tickets for a concert. Tom acquired 2 of Natalie's concert tickets. How many concert tickets does Natalie have now?"}
+{"question": "Oliver possesses 6 comic books. Ava took 1 of Oliver's comic books. How many comic books does Oliver have now?"}
+{"question": "Sophia has 12 stickers. Jacob collected 5 of Sophia's stickers. How many stickers does Sophia have now?"}
+{"question": "There are 3 rose bushes currently in the garden. Gardeners will plant 5 rose bushes today. How many rose bushes will the garden have when the gardeners are finished?"}
+{"question": "There are 6 apple trees currently in the orchard. Farmers will plant 2 apple trees today. How many apple trees will the orchard have when the farmers are finished?"}
+{"question": "Alex planted 7 apple trees, but the squirrels damaged 5 trees. How many apple trees does Alex have left?"}
+{"question": "Jamie baked 10 cookies, but the kids ate 4 cookies. How many cookies does Jamie have remaining?"}
+{"question": "Maria had marbles. She gave 6 to her brother. She now has 10 marbles left. How many marbles did she have to start with?"}
+{"question": "David had stickers. He gave 12 to his friends. He now has 8 stickers remaining. How many stickers did he have originally?"}
+{"question": "Lily had books. She donated 5 to the library. She now possesses 15 books. How many books did she have at the beginning?"}
+{"question": "Tom had toy cars. He sold 3 to his neighbor. He currently has 7 toy cars. How many toy cars did he have at first?"}
+{"question": "Lucy baked 5 pies. John baked 7 pies. How many pies did they bake in total?"}
+{"question": "Mark planted 4 apple trees. Sarah planted 6 apple trees. How many apple trees did they plant altogether?"}
+{"question": "Tom read 10 books. Emily read 12 books. How many books did they read in total?"}
+{"question": "James collected 8 stamps. Maria collected 5 stamps. How many stamps did they collect combined?"}
+{"question": "Alex drew 3 pictures. Bella drew 4 pictures. How many pictures did they draw altogether?"}
+{"question": "Sam made 15 cupcakes. Jessica made 10 cupcakes. How many cupcakes did they make together?"}
+{"question": "Brian caught 2 fish. Kevin caught 3 fish. How many fish did they catch in total?"}
+{"question": "Nina wrote 4 poems. Leo wrote 6 poems. How many poems did they write together?"}
+{"question": "Emily baked 8 pies. John baked 5 pies. How many pies did they bake in total?"}
+{"question": "Michael read 7 books. Sarah read 3 books. How many books did they read together?"}
+{"question": "Alice planted 10 flowers. Bob planted 2 flowers. How many flowers did they plant altogether?"}
+{"question": "Tom collected 4 stamps. Lisa collected 6 stamps. How many stamps did they collect in all?"}
+{"question": "Karen made 5 sandwiches. Steve made 3 sandwiches. How many sandwiches did they make combined?"}
+{"question": "Lucy collected 8 stones from the river. She gave Mark 3 of the stones. How many stones does she now have?"}
+{"question": "James picked 10 apples from the orchard. He handed 4 of the apples to Sarah. How many apples does he still possess?"}
+{"question": "Emma gathered 6 flowers from the garden. She shared 2 of the flowers with her friend. How many flowers does she have left?"}
+{"question": "Michael found 7 marbles in the park. He donated 5 of the marbles to a charity. How many marbles does he have now?"}
+{"question": "Sophie discovered 9 coins in the fountain. She spent 3 of the coins on a toy. How many coins does she retain?"}
+{"question": "John had 8 toy cars. Sarah took 4 of John's toy cars. How many toy cars does John have now?"}
+{"question": "Lisa owned 10 stickers. Mark selected 6 of Lisa's stickers. How many stickers does Lisa have left?"}
+{"question": "John had 10 apples in the basket. The children took away 4 of the apples. How many apples does John now have?"}
+{"question": "Sarah owned 15 oranges in the kitchen. The dog snatched 5 of the oranges. How many oranges does Sarah now have?"}
+{"question": "Tom had 12 cookies on the plate. The guests ate 6 of the cookies. How many cookies does Tom now have?"}
+{"question": "Lisa planted 20 flowers in her garden. The wind blew away 7 of the flowers. How many flowers does Lisa now have?"}
+{"question": "A bakery prepared 15 muffins for breakfast. Only 7 were sold. How many muffins were left from breakfast?"}
+{"question": "A school made 20 sandwiches for a picnic. Only 10 were eaten. How many sandwiches were remaining after the picnic?"}
+{"question": "There are 10 apples in the basket. John ate 2 apples from the basket. How many apples are there now?"}
+{"question": "Lisa baked 12 cookies and gave Tom 5 of the cookies. How many cookies does Lisa have now?"}
+{"question": "Mark collected 15 seashells and gave Emma 6 of the seashells. How many seashells does Mark have now?"}
+{"question": "Mark had 15 red apples and gave away 5. How many red apples does Mark have left?"}
+{"question": "Lisa owns 12 green marbles but lost 4. How many green marbles does Lisa possess now?"}
+{"question": "Tom collected 20 stamps but traded 8 of them. How many stamps does Tom have currently?"}
+{"question": "Sarah started with 7 cupcakes but ate 3 of them. How many cupcakes does Sarah have now?"}
+{"question": "Jake had 10 toy cars but broke 2. How many toy cars does Jake own now?"}
+{"question": "Emily received 25 balloons but 10 flew away. How many balloons does Emily have remaining?"}
+{"question": "Alice has 50 red apples, she gave John 20 of the apples. How many red apples does she now have?"}
+{"question": "Mike owns 40 green marbles, he sold 15 of the marbles. How many green marbles does he have left?"}
+{"question": "Sarah started with 25 blue books, she lent 10 of the books to Emily. How many blue books does she possess now?"}
+{"question": "David has 60 yellow stickers, he traded 22 of the stickers with Liam. How many yellow stickers does he retain?"}
+{"question": "Jessica bought 45 purple flowers, she gave away 18 of the flowers. How many purple flowers does she still have?"}
+{"question": "Anna has 50 stickers. Mark purchased 15 of Anna's stickers. How many stickers does Anna have left?"}
+{"question": "There are 30 apples in the basket. Sarah took 12 apples from the basket. How many apples are now in the basket?"}
+{"question": "There are 50 books on the shelf. Mark borrowed 20 books from the shelf. How many books are now left on the shelf?"}
+{"question": "There are 80 candies in the jar. Emily ate 35 candies from the jar. How many candies are now in the jar?"}
+{"question": "There are 100 stickers in the album. John gave away 45 stickers from the album. How many stickers are now in the album?"}
+{"question": "There are 60 marbles in the jar. Lucas took 15 marbles from the jar. How many marbles are now left in the jar?"}
+{"question": "There are 90 coins in the piggy bank. Mia spent 25 coins from the piggy bank. How many coins are now in the piggy bank?"}
+{"question": "There are 55 pencils in the container. Jake lost 10 pencils from the container. How many pencils are now in the container?"}
+{"question": "Maria bought a puzzle for $3.75 and a board game for $6.45. How much did Maria spend on games?"}
+{"question": "Alex acquired a soccer game for $7.99 and a golf game for $5.50. What was the total amount spent by Alex on games?"}
+{"question": "Timothy invested in a chess set for $10.00 and a trivia game for $8.30. How much money did Timothy spend on games?"}
+{"question": "Mark bought coffee for breakfast. He spent $3.75 on a latte and $2.50 on a muffin. What was the total of his breakfast bill?"}
+{"question": "Emily ordered pizza for dinner. She paid $12.99 for a large pizza and $4.50 for a side salad. What was the total of the dinner bill?"}
+{"question": "Sarah bought a racing game for $ 19.75 , a puzzle game for $ 8.99 , and a superhero game for $ 15.50 . What was Sarah's total expenditure on video games ?"}
+{"question": "A truck is loaded with 3450 kg of goods. It stops at a warehouse, where workers add 5600 kg of goods to the truck. How many kg of goods does the truck hold now?"}
+{"question": "A plane carries 12000 pounds of luggage. It lands at an airport, where passengers check in an additional 4800 pounds of luggage. What is the total weight of luggage on the plane now?"}
+{"question": "A cargo train transports 2150 meters of timber. It arrives at a station, where additional 3200 meters of timber are loaded onto the train. How many meters of timber does the train carry now?"}
+{"question": "A bus carries 25 passengers. It stops at a station where 15 more passengers board the bus. How many passengers are on the bus now?"}
+{"question": "A ferry has 150 cars on it. It arrives at a port and takes on another 200 cars. What is the total number of cars on the ferry now?"}
+{"question": "A barge is transporting 8400 gallons of fuel. It docks to refill 2200 gallons of fuel. How many gallons of fuel is the barge carrying now?"}
+{"question": "A delivery van is filled with 780 kg of merchandise. It stops at a retail store, where they load an additional 360 kg of merchandise. How much merchandise is in the van now?"}
+{"question": "A container ship is carrying 6000 crates of fruit. It visits a port and takes on 4000 more crates. How many crates of fruit does the ship have now?"}
+{"question": "Before summer, people purchased 2032 bicycles from the shop. During summer, they bought 4870, and there are none left. In total, how many bicycles did the customers buy?"}
+{"question": "Before November, patrons bought 7890 books from the bookstore. In November, they purchased 3320 more, and there are none remaining. How many books were bought in total?"}
+{"question": "Rachel is a farmer. Last season, she grew 1500 bushels of corn. This season, she expanded her fields and increased her corn yield by 3200 bushels. How many bushels of corn did Rachel grow this season?"}
+{"question": "Michael is a woodworker. Last year, he crafted 300 tables. This year, he upgraded his tools and increased his table production by 450 tables. How many tables did Michael craft this year?"}
+{"question": "Linda is a painter. Last year, she completed 25 artworks. This year, she took a workshop and improved her skills, creating 15 more artworks than last year. How many artworks did Linda complete this year?"}
+{"question": "David is a writer. Last year, he published 75 articles. This year, he increased his writing speed and published 50 more articles. How many articles did David publish this year?"}
+{"question": "Sophia runs a bakery. Last year, she sold 1200 pastries. This year, she hired more staff and increased her pastry sales by 700 pastries. How many pastries did Sophia sell this year?"}
+{"question": "James is a gardener. Last year, he grew 500 flowers. This year, he added more space and increased his flower production by 300 flowers. How many flowers did James grow this year?"}
+{"question": "Emma is a chef. Last year, she prepared 1000 meals. This year, she opened a new restaurant and increased her meal prep by 800 meals. How many meals did Emma prepare this year?"}
+{"question": "Liam is a musician. Last year, he produced 10 songs. This year, he collaborated with others and created 12 more songs. How many songs did Liam produce this year?"}
+{"question": "A water tank ruptured. Before the workers began repairs, 3450 liters of water spilled out. During the repair process, the tank leaked an additional 2560 liters. In total, how many liters of water were released?"}
+{"question": "A chemical spill occurred at a factory. Prior to cleanup efforts, 8790 liters of chemicals leaked. While the cleanup was in progress, another 4030 liters escaped. How many liters of chemicals leaked altogether?"}
+{"question": "A gas pipeline burst. Before emergency services arrived, 4670 liters of gas escaped. During the efforts to contain the leak, an additional 3245 liters leaked out. What is the total gas leak?"}
+{"question": "A sewer pipe malfunctioned. Before the city began repairs, 5120 liters of wastewater overflowed. While the repairs were happening, another 3910 liters leaked out. What is the total amount of wastewater that leaked?"}
+{"question": "An aquarium suffered a crack. Before the staff could address it, 2980 liters of water drained. As they worked to fix the crack, an extra 1340 liters trickled out. How many liters of water escaped in total?"}
+{"question": "An irrigation system failed. Prior to maintenance, 6420 liters of water was lost. During the maintenance work, an additional 2150 liters of water escaped. What is the total amount of water that leaked out?"}
+{"question": "A fuel tank leaked. Before safety measures were implemented, 7345 liters of fuel spilled. As containment was being set up, an extra 2890 liters leaked. How many liters of fuel leaked in total?"}
+{"question": "An underground pipeline cracked. Before the repairs could start, 4820 liters of liquid leaked out. While the repairs were ongoing, 3660 liters more leaked. How much liquid leaked in all?"}
+{"question": "A toy factory created 1500 dolls in the USA and 2300 dolls in Canada. How many dolls were made in total?"}
+{"question": "An electronics company sold 5200 smartphones in Asia and 3700 smartphones in Europe. What is the total number of smartphones sold?"}
+{"question": "A bakery baked 1200 loaves of bread in the morning and 1800 loaves in the afternoon. How many loaves of bread were baked altogether?"}
+{"question": "A school enrolled 600 students in the first semester and 450 students in the second semester. What is the total enrollment for the year?"}
+{"question": "A publishing house printed 5000 copies of a novel in New York and 3000 copies in California. How many copies were printed in all?"}
+{"question": "A construction company completed 250 homes in the city and 150 homes in the suburbs. How many homes did they complete in total?"}
+{"question": "Emily's parents relocated from Canada to Australia, so they needed to exchange their currency for Australian dollars. Their checking account now has 7520 AUD and their savings account now has 4200 AUD. How many AUD do they have?"}
+{"question": "Carlos' family shifted from Mexico to Germany, so they had to convert their pesos into euros. Their checking account now has 5000 EUR and their savings account now has 3000 EUR. How many euros do they have?"}
+{"question": "Jessica's relatives moved from India to the UK, so they had to convert their rupees into British pounds. Their checking account now has 8500 GBP and their savings account now has 1500 GBP. How many pounds do they have?"}
+{"question": "Li's family immigrated from China to Brazil, so they had to convert their yuan into Brazilian real. Their checking account now has 6400 BRL and their savings account now has 2900 BRL. How many BRL do they have?"}
+{"question": "Omar's family came from Egypt to France, so they needed to exchange their pounds for euros. Their checking account now has 3700 EUR and their savings account now has 2200 EUR. How many euros do they have?"}
+{"question": "Sofia's family transitioned from Argentina to South Korea, so they had to convert their pesos into won. Their checking account now has 9200 KRW and their savings account now has 4800 KRW. How many won do they have?"}
+{"question": "Nathan's family moved from Nigeria to the USA, so they had to exchange their naira into US dollars. Their checking account now has 5300 USD and their savings account now has 2100 USD. How many USD do they have?"}
+{"question": "Aisha's family transferred from Russia to Italy, so they needed to convert their rubles to euros. Their checking account now has 7600 EUR and their savings account now has 3400 EUR. How many euros do they have?"}
+{"question": "There are 3200 magazines in Maple Town's public library. Additionally, there are 1500 magazines in its school libraries. How many magazines do the libraries in Maple Town have overall?"}
+{"question": "The city of Greenfield has 2500 newspapers in its public library. Furthermore, there are 3200 newspapers in the school libraries. How many newspapers do the libraries in Greenfield have combined?"}
+{"question": "In the downtown library of Springfield, there are 5000 reference books. Also, there are 7000 reference books in the school libraries. What is the total number of reference books in Springfield's libraries?"}
+{"question": "The Elm City library contains 1800 audiobooks. In addition, the school libraries in Elm City hold 2200 audiobooks. How many audiobooks are there in total in Elm City's libraries?"}
+{"question": "There are 4500 novels in the public library of Pine Hill. Additionally, the school libraries hold 3000 novels. How many novels do the libraries in Pine Hill have together?"}
+{"question": "The public library in River Town has 3800 comics. Furthermore, 1500 comics are in the local school libraries. What is the total count of comics in River Town's libraries?"}
+{"question": "In Sunnydale's public library, there are 6250 fiction books. Moreover, the school libraries contain 2850 fiction books. How many fiction books are there in total in Sunnydale's libraries?"}
+{"question": "In Springfield, there used to be 12345 apartments. After a construction surge, builders added 45678 more. What is the current total number of apartments in Springfield?"}
+{"question": "Initially, there were 3000 cars registered in Green Valley. Following a rise in sales, dealerships sold 15000 additional cars. How many cars are registered in Green Valley now?"}
+{"question": "At the start of the year, there were 5000 farms in Ridge County. With a new agricultural policy, 2000 new farms were established. How many farms are there in Ridge County now?"}
+{"question": "The city of Maplewood had 25000 bikes available for rent. During a promotional campaign, they introduced 15000 more bikes. What is the total number of rental bikes in Maplewood?"}
+{"question": "There were 7000 students enrolled at Oak High School at the beginning of the year. After a new enrollment drive, 3000 more students registered. What is the total number of students at Oak High School now?"}
+{"question": "Originally, there were 1500 trees planted in Pine Park. After a community event, volunteers planted 500 trees. How many trees are currently in Pine Park?"}
+{"question": "There were 800 restaurants in Coastal Town before the tourism season. During the peak season, 300 new restaurants opened. How many restaurants are there now in Coastal Town?"}
+{"question": "In Central City, the library had 40000 books available. With a donation drive, they received 20000 additional books. What is the total number of books in the library now?"}
+{"question": "A gardener estimates that she will grow 3200 tomatoes. Due to optimal conditions, she ends up growing 450 tomatoes more than expected. How many tomatoes does the gardener grow?"}
+{"question": "A fisherman anticipates catching 1500 pounds of fish. With ideal weather, he catches 200 pounds more than predicted. How many pounds of fish does the fisherman catch?"}
+{"question": "A chicken farmer projects that he will have 2500 eggs this season. Thanks to favorable circumstances, he collects 300 eggs above his expectation. How many eggs does the farmer collect?"}
+{"question": "A vineyard owner estimates that the grape yield will be 6000 pounds. Due to great weather, he harvests 850 pounds more than he estimated. How many pounds of grapes does the owner harvest?"}
+{"question": "A corn farmer predicts a yield of 42000 ears of corn. Because of perfect growth conditions, he ends up with 600 ears more than he expected. How many ears of corn does the farmer harvest?"}
+{"question": "A beekeeper expects to produce 800 jars of honey. With excellent bloom conditions, he is able to make 120 jars more than planned. How many jars of honey does he produce?"}
+{"question": "A fruit grower anticipates yielding 10000 apples. With great weather throughout the season, she harvests 1500 apples more than she thought. How many apples does the grower harvest?"}
+{"question": "Michael withdrew $45 from his savings account. After this transaction, he has $1545 left. How much money was in the account before the withdrawal?"}
+{"question": "Emily just spent $120 on groceries. Consequently, her account now shows a balance of $380. What was the amount in her account before the purchase?"}
+{"question": "David just paid $50 for a concert ticket. Now, he has $220 in his account. How much money did he have in his account prior to the payment?"}
+{"question": "Sophia just removed $30 from her cash fund. As a result, her total now is $470. How much money was in the fund before the removal?"}
+{"question": "Jason just transferred $99 to a friend. His account now reflects a total of $901. What was the original amount in his account before the transfer?"}
+{"question": "Olivia just donated $25 to charity. Now, her account balance is $975. How much did she have in her account before the donation?"}
+{"question": "Liam just took out $200 from his investment account. As a result, he now has $4800 left. How much was in the account before the withdrawal?"}
+{"question": "At Springfield's train station, 24500 passengers arrived on schedule. Sadly, 320 passengers arrived late. How many passengers arrived at Springfield last year?"}
+{"question": "During the summer, 17800 tourists visited Lakeview Park on time. However, 185 tourists arrived late. What is the total number of tourists that visited Lakeview Park last summer?"}
+{"question": "Last winter in Greenfield, 9800 vehicles passed the checkpoint on time. Unfortunately, 120 vehicles were delayed. How many vehicles passed through Greenfield last winter?"}
+{"question": "At Oakwood's convention center, 5600 attendees arrived on time. Sadly, 50 attendees arrived late. How many attendees were present at Oakwood's convention last year?"}
+{"question": "In Rivertown, 13400 students completed their exams on time. Unfortunately, 200 students finished late. What is the total number of students who took exams in Rivertown?"}
+{"question": "Last month, 15600 customers received their orders on time at Hilltop Market. Unfortunately, 75 customers received theirs late. How many customers received orders at Hilltop Market last month?"}
+{"question": "In Clearwater, 12340 runners finished the marathon on time. Unfortunately, 150 runners finished late. What is the total number of runners in the Clearwater marathon last year?"}
+{"question": "At Woodlands Airport, 8700 flights arrived on schedule. Unfortunately, 97 flights were delayed. How many flights arrived at Woodlands Airport last year?"}
+{"question": "A wildfire spreads through the forest. It consumes 38500 acres of the forest, but leaves 1500 acres untouched. How many acres does the forest cover?"}
+{"question": "A flood washes over the valley. It inundates 72000 acres of the valley, but leaves 300 acres dry. How many acres does the valley cover?"}
+{"question": "A snowstorm blankets the mountain range. It covers 45000 acres in snow, but leaves 2000 acres clear. How many acres does the mountain range cover?"}
+{"question": "A hurricane strikes the coastline. It damages 55000 acres of the coastline, but spares 1000 acres. How many acres does the coastline cover?"}
+{"question": "A landslide cascades down the hillside. It affects 32000 acres of the hillside, but leaves 800 acres intact. How many acres does the hillside cover?"}
+{"question": "A drought impacts the farmland. It parches 29000 acres of the farmland, but leaves 1000 acres irrigated. How many acres does the farmland cover?"}
+{"question": "A plague affects the crop fields. It ravages 75000 acres of the fields, but leaves 500 acres unaffected. How many acres do the crop fields cover?"}
+{"question": "A fire breaks out in the grasslands. It engulfs 32000 acres of the grasslands, but leaves 150 acres untouched. How many acres do the grasslands cover?"}
+{"question": "A farmer discovers a swarm of locusts in his crops. To combat the infestation, he introduces 15000 grasshoppers into the fields and 62000 crickets. How many insects are there in total?"}
+{"question": "A gardener finds aphids on her roses. She purchases 23000 lacewings and 34000 hoverflies to manage the situation. What is the total number of beneficial insects?"}
+{"question": "A vineyard faces an invasion of spider mites. The owner releases 8000 predatory mites and 22000 ladybugs. How many pest controllers are there altogether?"}
+{"question": "An orchard is infested with caterpillars. The farmer brings in 5000 wasps and 12000 beetles as natural predators. What is the total count of these insects?"}
+{"question": "A botanical garden is overrun by aphids. The staff introduces 20000 syrphid flies and 15000 ladybugs. How many beneficial insects are there in total?"}
+{"question": "A farmer finds cutworms in his field. In response, he releases 4000 parasitic wasps and 35000 beetles. What is the total number of insects introduced?"}
+{"question": "A landscape is plagued by whiteflies. The landscaper deploys 18000 ladybugs and 10000 lacewings. How many insect helpers are present altogether?"}
+{"question": "A flower shop notices thrips attacking their plants. They introduce 9000 predatory mites and 7000 ladybugs. What is the overall number of protective insects?"}
+{"question": "In a city, 12045 residents were born, and 2789 people moved there from other places. How many new residents were added to the city last year?"}
+{"question": "Last year, 75200 new citizens were registered in the nation, and 15000 individuals relocated from abroad. What is the total number of new citizens in the nation last year?"}
+{"question": "In a state, 54321 children were born, while 9876 adults migrated to the state. How many new individuals became part of the state last year?"}
+{"question": "Last year, 23456 puppies were born in a shelter, and 3000 dogs were adopted from it. How many new dogs were taken in by the shelter last year?"}
+{"question": "In a company, 1000 employees were hired, and 150 were transferred from another branch. What is the total number of new employees in the company last year?"}
+{"question": "Last year, 45000 houses were built in a district, and 12000 families moved into the area. How many new households were established in the district last year?"}
+{"question": "In a university, 2100 students enrolled, and 500 international students came to study there. How many new students started at the university last year?"}
+{"question": "Last year, 32000 vehicles were manufactured in a factory, and 4200 parts were imported. How many new vehicles were produced in the factory last year?"}
+{"question": "A truck carrying apples encounters an accident on the highway. By the time the truck is repaired, 3560 pounds of apples have fallen off. Only 780 pounds of apples remain in the truck. How many pounds of apples did the truck originally carry?"}
+{"question": "A train transporting boxes of toys derails near a tunnel. By the time the train is back on track, 1200 boxes of toys are lost. Only 300 boxes of toys are still on the train. How many boxes of toys did the train initially have?"}
+{"question": "A cargo plane loaded with packages experiences a malfunction mid-air. By the time the plane is fixed, 875 kilograms of packages have dropped. Only 150 kilograms of packages are left inside the plane. How many kilograms of packages did the plane start with?"}
+{"question": "A bus full of passengers has a blowout on the highway. By the time the bus is repaired, 45 passengers have left the bus. Only 20 passengers remain on the bus. How many passengers were originally on the bus?"}
+{"question": "A van filled with furniture gets stuck in the mud. By the time the van is pulled out, 10 pieces of furniture have been left behind. Only 5 pieces of furniture are still in the van. How many pieces of furniture did the van originally contain?"}
+{"question": "A ferry loaded with cars hits a rocky shore. By the time the ferry is repaired, 200 cars have fallen overboard. Only 50 cars remain on the ferry. How many cars did the ferry initially carry?"}
+{"question": "A balloon filled with helium bursts during a party. By the time the party ends, 25 balloons have popped. Only 10 balloons are left inflated. How many balloons were there to begin with?"}
+{"question": "A storage truck carrying boxes gets stuck in traffic. By the time the truck is able to continue, 300 boxes have been taken out by the authorities. Only 50 boxes remain in the truck. How many boxes did the truck start with?"}
+{"question": "To complete a shipment, the factory produced 12050 units of blue widgets and 30400 units red widgets. What is the total number of units produced for that shipment?"}
+{"question": "For a recent project, the company manufactured 20000 liters of white paint and 15000 liters of black paint. How many liters of paint were produced for the project?"}
+{"question": "In order to fulfill a request, the factory assembled 15000 bicycles in red and 12500 bicycles in blue. How many bicycles did the factory assemble in total for the request?"}
+{"question": "To satisfy a customer demand, the warehouse packed 35000 boxes of apples and 45000 boxes of oranges. How many boxes did the warehouse pack for the customer?"}
+{"question": "To fulfill an order, the bakery baked 500 loaves of sourdough and 300 loaves of rye. How many loaves of bread did the bakery bake for the order?"}
+{"question": "In preparation for the exhibition, the artist created 100 paintings in oil and 50 paintings in watercolor. What is the total number of paintings created for the exhibition?"}
+{"question": "To meet production goals, the plant processed 6500 gallons of sunflower oil and 8000 gallons of olive oil. How many gallons of oil did the plant process in total?"}
+{"question": "For a special event, the caterer prepared 150 trays of appetizers and 100 trays of desserts. What is the total number of trays prepared for the event?"}
+{"question": "A large tech company employs 1500 part-time workers and 45000 full-time workers. What is the total number of employees at the company?"}
+{"question": "An international firm has 3000 part-time staff members and 82000 full-time staff members. How many staff members are employed by the firm in total?"}
+{"question": "A global organization consists of 2100 part-time associates and 51100 full-time associates. What is the total number of associates employed?"}
+{"question": "A multinational enterprise has 1800 part-time personnel and 75000 full-time personnel. How many personnel are working for the enterprise?"}
+{"question": "A worldwide corporation has 1200 part-time agents and 59000 full-time agents. What is the total count of agents in the corporation?"}
+{"question": "A very large company employs 2500 part-time employees alongside 68000 full-time employees. What is the sum of all employees at the company?"}
+{"question": "An international business has 1800 part-time workers and 90000 full-time workers. How many total workers are there in the business?"}
+{"question": "A diversified corporation features 2900 part-time staff and 62000 full-time staff. How many employees work for the corporation in total?"}
+{"question": "Each year, sea turtles migrate back to the beaches where they hatched. This year, 154320 male and 83045 female turtles returned to their beaches. How many turtles made the trip?"}
+{"question": "Every spring, monarch butterflies travel thousands of miles back to their breeding grounds. This year, 500000 male and 300000 female butterflies made the journey. How many butterflies completed the trip?"}
+{"question": "Annually, Antarctic penguins return to their nesting sites after foraging for food. This year, 123456 male and 65432 female penguins returned to their colonies. How many penguins made the trip?"}
+{"question": "Each autumn, Arctic geese fly south to their wintering grounds. This year, 67500 male and 32500 female geese migrated. How many geese made the trip?"}
+{"question": "Yearly, loggerhead turtles swim back to the beaches where they were born to nest. This year, 48765 male and 18234 female turtles returned to nest. How many turtles made the trip?"}
+{"question": "Every fall, haddock return to spawn in the waters where they were born. This year, 48210 male and 21780 female haddock made the journey. How many haddock made the trip?"}
+{"question": "Each year, dragonflies migrate to the ponds where they emerged. This year, 90312 male and 47658 female dragonflies returned to their ponds. How many dragonflies made the trip?"}
+{"question": "Every summer, Arctic char travel back to freshwater lakes to spawn. This year, 30210 male and 12345 female char returned for spawning. How many char made the trip?"}
+{"question": "A shoe manufacturer has a stock of 23500 shoes for men. Additionally, it has 12750 shoes for women. How many shoes are available in total?"}
+{"question": "A toy company produces 12345 action figures for boys. Moreover, it has 6789 dolls for girls. What is the total number of toys available?"}
+{"question": "A bookstore has 5678 novels for adults. Furthermore, it has 2345 children's books. How many books are available altogether?"}
+{"question": "A car dealership has 150 vehicles for sale. In addition, it has 75 motorcycles in stock. What is the total number of vehicles available?"}
+{"question": "A bakery has 2000 loaves of bread for sale. Additionally, it has 1500 pastries available. How many baked goods are there in total?"}
+{"question": "An electronics store has 320 laptops in inventory. Furthermore, it has 210 tablets. What is the overall count of electronic devices available?"}
+{"question": "A furniture store has 540 sofas available. In addition, it has 340 chairs in stock. How many pieces of furniture can customers choose from?"}
+{"question": "A clothing retailer has 8000 t-shirts for men. Additionally, it has 3000 t-shirts for women. How many t-shirts are in total?"}
+{"question": "Before the last urban expansion, there were 1500 apartments in Greenfield. Now, there are 2200 apartments. How many apartments did builders construct during the expansion?"}
+{"question": "Prior to the recent commercial development, there were 800 shops in Riverdale. Now, there are 1200 shops. How many shops did entrepreneurs launch during the development?"}
+{"question": "Before the recent population surge, there were 300 clinics in Sunnyvale. Now, there are 450 clinics. How many clinics were established during the surge?"}
+{"question": "Before the latest school construction initiative, there were 450 schools in Maplewood. Now, there are 600 schools. How many schools were built during the initiative?"}
+{"question": "Before the recent park renovations, there were 25 parks in Hilltown. Now, there are 40 parks. How many parks were added during the renovations?"}
+{"question": "Before the new transportation project, there were 75 bus routes in Westfield. Now, there are 100 bus routes. How many bus routes were added during the project?"}
+{"question": "In the years leading up to the recent retail explosion, there were 500 stores in Lakeview. Now, there are 700 stores. How many stores did retailers open during the explosion?"}
+{"question": "Before the latest library expansion, there were 30 libraries in Crestwood. Now, there are 50 libraries. How many libraries were developed during the expansion?"}
+{"question": "A scientist at a research facility is examining tissue samples. 2 samples contained a total of 5000 cells. The first sample contained 3000 cells. How many cells were in the second sample?"}
+{"question": "An analyst in a laboratory is reviewing chemical samples. 2 samples had a combined total of 850 grams. The first sample weighed 480 grams. What is the weight of the second sample?"}
+{"question": "A student in a biology lab is counting bacteria cultures. 2 cultures had a total of 12000 bacteria. The first culture had 7000 bacteria. How many bacteria were in the second culture?"}
+{"question": "A researcher is analyzing DNA samples. 2 samples collectively contained 9000 DNA fragments. The first sample had 5600 fragments. How many fragments were in the second sample?"}
+{"question": "An engineer at a testing facility is measuring sound levels. 2 measurements showed a total decibel level of 95 dB. The first measurement recorded 55 dB. What was the level of the second measurement?"}
+{"question": "A technician at a pharmaceutical company is testing pill samples. 2 samples had a total of 175 tablets. The first sample included 98 tablets. How many tablets were in the second sample?"}
+{"question": "An inspector is analyzing fruit batches. 2 batches contained a total of 1200 apples. The first batch had 700 apples. How many apples were in the second batch?"}
+{"question": "A chef in a kitchen is preparing portion sizes. 2 plates held a total of 300 grams of pasta. The first plate had 175 grams of pasta. How much pasta was on the second plate?"}
+{"question": "A bakery has produced a total of 4500 loaves of bread this week. If they have baked 1500 whole grain loaves, how many loaves of white bread have been made so far?"}
+{"question": "This bookstore has sold a total of 6200 books this month. If they have sold 2300 fiction books, how many non-fiction books have been sold so far?"}
+{"question": "A farm has harvested a total of 8000 pounds of vegetables this season. If they have gathered 2500 pounds of carrots, how many pounds of other vegetables have been harvested so far?"}
+{"question": "An art gallery has displayed a combined total of 150 pieces of artwork this quarter. If they have showcased 70 paintings, how many sculptures have been exhibited so far?"}
+{"question": "A restaurant has served a total of 2500 meals this week. If they have prepared 800 vegetarian meals, how many non-vegetarian meals have been served so far?"}
+{"question": "This cinema has sold a total of 12000 tickets this summer. If they have sold 4200 tickets for action movies, how many tickets for other genres have been sold so far?"}
+{"question": "Last month, the value of John's investment dropped by $20. If his investment was valued at $2500 before, what is its current value?"}
+{"question": "Recently, the stock price of Sarah's shares fell by $15. If her shares were worth $320 before, how much are they worth now?"}
+{"question": "Last week, the price of Mark's property decreased by $5,000. If his property was appraised at $200,000 earlier, what is its value now?"}
+{"question": "Just yesterday, the value of Anna's savings account declined by $25. If her account had $1,000 previously, how much is left now?"}
+{"question": "Recently, the price of Jason's laptop went down by $100. If the laptop was priced at $1,200 before, what is the new price?"}
+{"question": "A few days ago, the value of Emily's car depreciated by $2,500. If her car was worth $15,000 before, what is it worth now?"}
+{"question": "The Springfield Sharks scored a total of 742 goals last season. If they scored 312 goals in the first half of the season, how many goals did they score in the second half?"}
+{"question": "The Maple Leaf Racers finished with a total of 1260 laps completed this year. If they completed 489 laps in the first quarter of the year, how many laps did they complete in the remaining quarters?"}
+{"question": "The Downtown Flyers registered a total of 2354 subscribers last month. If they registered 987 subscribers in the first two weeks, how many subscribers did they gain in the last two weeks?"}
+{"question": "The Coastal Waves cleaned a total of 1500 beaches last year. If they cleaned 620 beaches in the first half of the year, how many beaches did they clean in the second half?"}
+{"question": "The Urban Jaguars delivered a total of 804 parcels this month. If they delivered 356 parcels in the first week, how many parcels did they deliver in the remaining weeks?"}
+{"question": "A tree started with 200 leaves. After a season, it grew to 1250 leaves. How many more leaves are there now?"}
+{"question": "A library had 1,500 books. After receiving a donation, it now holds 4,750 books. How many more books are there now?"}
+{"question": "A candle had a height of 15 cm. After burning for several hours, it is now 120 cm tall. How much taller is it now?"}
+{"question": "A pet shop had 300 fish. After a new shipment arrived, there are now 1,600 fish. How many more fish are there now?"}
+{"question": "A farmer had 45 cows. After some calves were born, he now has 120 cows. How many more cows does he have now?"}
+{"question": "An artist started with 50 paintings. After an exhibition, she now has 210 paintings. How many more paintings are there now?"}
+{"question": "A school had 100 students. After enrollment, the total number of students is now 450. How many more students are there now?"}
+{"question": "Alex is a park ranger. Last month, he collected a total of 2500 pieces of litter. If he collected 680 pieces of litter in the picnic area, how many pieces of litter did Alex collect outside the picnic area?"}
+{"question": "Jessica is a beach cleaner. Last week, she gathered a total of 2000 pieces of trash. If she gathered 540 pieces of trash on the shore, how many pieces of trash did Jessica gather away from the shore?"}
+{"question": "Michael is a city cleaner. This month, he removed a total of 1800 pieces of waste. If he removed 420 pieces of waste from public parks, how many pieces of waste did Michael remove from other areas?"}
+{"question": "Samantha is a recycling coordinator. Last quarter, she processed a total of 3000 bottles. If she processed 850 bottles from schools, how many bottles did Samantha process from places other than schools?"}
+{"question": "Ben is a museum custodian. This week, he cleared a total of 1300 items. If he cleared 300 items from exhibition halls, how many items did Ben clear from other areas of the museum?"}
+{"question": "Pat is a campus supervisor. Last semester, they collected a total of 2200 containers for recycling. If they collected 500 containers from the cafeteria, how many containers did Pat collect from outside the cafeteria?"}
+{"question": "Linda is a street cleaner. Last night, she picked up a total of 1200 pieces of rubbish. If she picked up 350 pieces of rubbish on the main road, how many pieces of rubbish did Linda pick up from side streets?"}
+{"question": "Carter is an event cleaner. After the festival, he gathered a total of 750 bags of trash. If he gathered 200 bags from food stalls, how many bags of trash did Carter gather from other locations?"}
+{"question": "A baker has 512 cookies, and 128 of them are chocolate. How many cookies are vanilla?"}
+{"question": "In a farm, there are 350 animals, with 120 being cows. How many animals are goats?"}
+{"question": "A library contains 2,500 books, 800 of which are fiction. How many books are non-fiction?"}
+{"question": "There are 1,000 students in a school, with 300 being girls. How many students are boys?"}
+{"question": "A garden has 1,200 flowers, with 450 being roses. How many flowers are tulips?"}
+{"question": "In a toy store, there are 750 toys, and 200 of them are stuffed animals. How many toys are action figures?"}
+{"question": "A zoo has 1,000 animals, with 400 being reptiles. How many animals are mammals?"}
+{"question": "A company has 5,000 employees, and 1,500 are part-time workers. How many employees are full-time?"}
+{"question": "Students at Lincoln Academy are hosting a book drive. 5123 books have been collected so far. 3784 books were collected from the middle school, and the rest from the elementary schools. How many books were collected at the elementary schools?"}
+{"question": "Children at Springfield schools are running a toy drive. 12456 toys have been gathered so far. 8950 toys were collected from the high schools, and the rest from the primary schools. How many toys were collected at the primary schools?"}
+{"question": "Pupils at Greenfield centers are organizing a food drive. 7028 food items have been gathered so far. 4235 items were collected from the high schools, and the rest from the junior schools. How many food items were collected at the junior schools?"}
+{"question": "Students at Riverside institutions are conducting a fundraiser. 2347 dollars have been raised so far. 1675 dollars were raised from the high schools, and the rest from the elementary grades. How many dollars were raised at the elementary grades?"}
+{"question": "Kids at Maplewood schools are coordinating a supply drive. 8362 supplies have been collected so far. 4900 supplies were collected from the high schools, and the rest from secondary schools. How many supplies were collected at the secondary schools?"}
+{"question": "Learners at Oceanview schools are participating in a backpack drive. 1500 backpacks have been collected so far. 950 backpacks were collected from high school students, and the rest from middle school students. How many backpacks were collected at the middle schools?"}
+{"question": "Scholars at Valley View schools are initiating a clothing drive. 10000 clothing items have been gathered so far. 4500 items were collected from high schools, and the remaining from elementary schools. How many clothing items were collected at the elementary schools?"}
+{"question": "Students at Horizon schools are taking part in a shoe drive. 4502 pairs of shoes have been collected so far. 2700 pairs were collected from the high schools, and the rest from junior high schools. How many pairs of shoes were collected at the junior high schools?"}
+{"question": "A firm coated some buildings in Lincoln City red and green utilizing a total of 5223 liters of paint. If they applied 400 liters of red paint, how many liters of green paint did the firm use?"}
+{"question": "A contractor decorated several apartments in Maple Grove yellow and purple with a total of 3780 liters of paint. If they poured 200 liters of yellow paint, how many liters of purple paint were used?"}
+{"question": "An organization painted multiple offices in Pine Valley orange and gray using a total of 9125 gallons of paint. If they spent 850 gallons on orange paint, how many gallons of gray paint did the organization use?"}
+{"question": "A painter finished some walls in Oak Park brown and cream employing a total of 4230 liters of paint. If they utilized 320 liters of brown paint, how many liters of cream paint were used?"}
+{"question": "A team colored various fences in Cherry Hill cyan and magenta with a total of 6550 gallons of paint. If they used 730 gallons of cyan paint, how many gallons of magenta paint did the team use?"}
+{"question": "A decorator dressed several rooms in Summerfield beige and teal with a total of 2999 liters of paint. If they applied 150 liters of beige paint, how many liters of teal paint were used?"}
+{"question": "A coffee shop has a total of 2500 customers in the city. If 150 of its customers visit from out of town, how many of its customers are locals?"}
+{"question": "A bookstore has a total of 1200 books in its inventory. If 200 of its books are science fiction, how many of its books belong to other genres?"}
+{"question": "An airline has a total of 5000 flights scheduled this month. If 300 of its flights are international, how many of its flights are domestic?"}
+{"question": "A restaurant serves a total of 800 meals in a day. If 100 of its meals are vegetarian, how many of its meals are non-vegetarian?"}
+{"question": "A gym has a total of 1500 members. If 400 of its members are enrolled in yoga classes, how many of its members are not in yoga classes?"}
+{"question": "A university has a total of 6000 students enrolled. If 750 of its students are studying abroad, how many of its students are studying locally?"}
+{"question": "A mall has a total of 100 shops. If 20 of its shops are clothing stores, how many of its shops are in other categories?"}
+{"question": "Last season, apple orchards in Greene County harvested 2540 apples. This season, those same orchards harvested 7890 apples. How many more apples did the orchards harvest this season?"}
+{"question": "In 2022, wheat farms in Baker County produced 3200 bushels of wheat. In 2023, those same farms produced 8500 bushels. How many more bushels of wheat did the farms produce this year?"}
+{"question": "Last year, dairy farms in Lincoln County processed 1800 liters of milk. This year, those same farms processed 6250 liters. How many more liters of milk did the farms process this year?"}
+{"question": "In the previous year, peanut growers in Jasper County yielded 600 pounds of peanuts. This year, those same growers yielded 2150 pounds. How many more pounds of peanuts did the growers yield this year?"}
+{"question": "Last year, corn producers in Monroe County cultivated 5000 ears of corn. This year, those same producers cultivated 13000 ears. How many more ears of corn did the producers cultivate this year?"}
+{"question": "A collector stumbled upon a hidden artifact with a total of 3267 coins. 87 of the coins were silver, and the rest were gold. How many of the coins were gold?"}
+{"question": "An archaeologist found an ancient vase containing exactly 7420 beads. 120 of the beads were blue, and the remainder were red. How many of the beads were red?"}
+{"question": "A fisherman caught a net full of 1800 fish. 23 of the fish were trout, and the rest were bass. How many of the fish were bass?"}
+{"question": "A librarian discovered a hidden shelf containing 1050 books. 75 of the books were fiction, and the other books were non-fiction. How many of the books were non-fiction?"}
+{"question": "A gardener unearthed a bin filled with a total of 420 plants. 30 of the plants were roses, and the remaining plants were tulips. How many of the plants were tulips?"}
+{"question": "A stargazer cataloged a total of 895 stars in the sky. 50 of the stars were red giants, and the rest were main-sequence stars. How many of the stars were main-sequence?"}
+{"question": "A chef discovered a large basket containing a total of 2150 fruits. 150 of the fruits were apples, and the remaining were oranges. How many of the fruits were oranges?"}
+{"question": "Jack and his siblings consume a lot of apple and grape juice, as they enjoy it with their breakfast. Currently, they have a total of 4800 milliliters of juice. If they possess 3200 milliliters of grape juice, how many milliliters of apple juice do they have?"}
+{"question": "Maria and her friends use a lot of chocolate and vanilla ice cream, because they love making sundaes every weekend. Right now, they have a combined total of 2450 grams of ice cream. If they have 1500 grams of chocolate ice cream, how many grams of vanilla ice cream do they have?"}
+{"question": "Tom and his family drink a lot of orange and apple juice, since they like having it with their lunch. At the moment, they own a total of 3570 milliliters of juice. If they have 2300 milliliters of apple juice, how many milliliters of orange juice do they possess?"}
+{"question": "Rachel and her parents eat a lot of peanut butter and almond butter, since they enjoy sandwiches every day. Currently, they have a total of 2100 grams of nut butter. If they have 1300 grams of peanut butter, how many grams of almond butter do they have?"}
+{"question": "Liam and his brothers use a lot of red and green salsa, as they love tacos every Saturday. Right now, they have a combined total of 1200 grams of salsa. If they have 750 grams of green salsa, how many grams of red salsa do they have?"}
+{"question": "Sophie and her roommates drink a lot of white and red wine, because they enjoy hosting dinner parties. At the moment, they have a total of 5000 milliliters of wine. If they have 3000 milliliters of red wine, how many milliliters of white wine do they possess?"}
+{"question": "Ben and his family use a lot of mustard and ketchup, since they love having barbecues. Currently, they have a combined total of 1800 grams of condiments. If they have 1100 grams of ketchup, how many grams of mustard do they have?"}
+{"question": "Clara and her team consume a lot of pasta and tomato sauce, as they like to cook together every week. Right now, they have a total of 3200 grams of food. If they have 2000 grams of tomato sauce, how many grams of pasta do they have?"}
+{"question": "During a card game, Sarah accumulated 2250 points. She and her friend have a combined total of 4005 points. How many points does Sarah's friend have?"}
+{"question": "In a board game, Mike earned 1450 points. He and his sister together scored 3220 points. How many points does Mike's sister have?"}
+{"question": "While competing in a racing game, Lily scored 1980 points. She and her teammate have a total score of 3500 points. How many points does Lily's teammate have?"}
+{"question": "In a trivia contest, John achieved 780 points. He and his partner together have 1200 points. How many points does John's partner have?"}
+{"question": "Playing a sports game, Emma racked up 3000 points. She and her coach together have a combined score of 5000 points. How many points does Emma's coach have?"}
+{"question": "While battling in an adventure game, Tom scored 1500 points. He and his ally have a total of 2700 points. How many points does Tom's ally have?"}
+{"question": "In a puzzle game, Alice collected 900 points. She and her classmate scored a total of 1600 points together. How many points does Alice's classmate have?"}
+{"question": "While playing a shooting game, Kevin scored 4100 points. He and his rival have a combined score of 7000 points. How many points does Kevin's rival have?"}
+{"question": "A landscaping team has planted a total of 2500 flowers in a garden. Today, they planted 300 flowers. How many flowers had they planted before today?"}
+{"question": "A bakery has sold a total of 1500 loaves of bread this month. Today, they sold 200 loaves. How many loaves had they sold before today?"}
+{"question": "A library has added a total of 10,000 books to its collection. Today, they added 250 books. How many books had they added before today?"}
+{"question": "A school has raised a total of $5,000 for charity. Today, they raised $500. How much money had they raised before today?"}
+{"question": "A company has shipped a total of 8,500 packages this year. Today, they shipped 1,000 packages. How many packages had they shipped before today?"}
+{"question": "An artist has painted a total of 120 canvases this year. Today, they painted 15 canvases. How many canvases had they painted before today?"}
+{"question": "A restaurant has served a total of 20,000 customers this quarter. Today, they served 300 customers. How many customers had they served before today?"}
+{"question": "A charity has collected a total of 15,000 cans of food. Today, they collected 1,200 cans. How many cans had they collected before today?"}
+{"question": "Sunny Pond was initially crystal clear with just 452 water lilies. Now it has 1876 water lilies, and the water has become murky. How many more water lilies are in Sunny Pond now?"}
+{"question": "Clear Creek was once pristine because it had only 601 fish. Now there are 2490 fish, and the creek has turned muddy. How many more fish are in Clear Creek now?"}
+{"question": "Emerald River was originally bright green due to having 1205 duckweeds. Currently, it contains 4502 duckweeds, and the river looks darker. How many more duckweeds are in Emerald River now?"}
+{"question": "Crystal Lake was initially clear with merely 310 reeds. Now the lake has 1275 reeds, and it has transformed into a swampy area. How many more reeds are in Crystal Lake now?"}
+{"question": "Serene Bay was once tranquil with just 425 corals. Now it contains 1530 corals, and the bay has taken on a cloudy appearance. How many more corals are in Serene Bay now?"}
+{"question": "Rainbow Lagoon was originally bright blue because it had only 712 seagrass plants. Now it has 2899 seagrass plants, and the lagoon has turned a murky green. How many more seagrass plants are in Rainbow Lagoon now?"}
+{"question": "Calm Oasis was initially clear due to having only 900 cacti. Now there are 3650 cacti, and the oasis appears overgrown. How many more cacti are in Calm Oasis now?"}
+{"question": "Tranquil Waterfall was originally a peaceful blue with only 805 water plants. Now it holds 3510 water plants, and the waterfall has turned cloudy. How many more water plants are in Tranquil Waterfall now?"}
+{"question": "Sarah's walk to the library is 1.2 miles and Tom's walk is 0.5 miles. How much longer is Sarah's walk than Tom's?"}
+{"question": "Emily's run in the park is 2.3 miles, while David's run is 1.1 miles. How much longer is Emily's run than David's?"}
+{"question": "Michael's bike ride to his friend's house is 3.5 miles and Alex's ride is 2.0 miles. How much longer is Michael's ride than Alex's?"}
+{"question": "Jessica's drive to work is 4.1 miles and Mark's drive is 2.6 miles. How much longer is Jessica's drive than Mark's?"}
+{"question": "Sophia's jog on the beach is 1.8 miles while Jake's jog is 0.9 miles. How much longer is Sophia's jog than Jake's?"}
+{"question": "Liam's commute to the gym is 2.5 miles and Noah's commute is 1.5 miles. How much longer is Liam's commute than Noah's?"}
+{"question": "Olivia's trip to the park is 0.6 miles and Mia's trip is 0.3 miles. How much longer is Olivia's trip than Mia's?"}
+{"question": "Ethan's trek to the mountain is 5.0 miles and Ryan's trek is 3.0 miles. How much longer is Ethan's trek than Ryan's?"}
+{"question": "James poured 0.5 cup of cashews into a bowl. Then, he added 0.5 cup of pecans. How many cups of nuts did James use in total?"}
+{"question": "Lisa mixed 0.75 cup of peanuts into a salad. Afterwards, she included 0.75 cup of sunflower seeds. What is the total amount of nuts Lisa added to the salad?"}
+{"question": "Emily is learning to cycle, so this weekend she rode 0.25 mile with her brother and another 0.75 mile with her sister. How far did Emily ride in all?"}
+{"question": "James is practicing his running, so this weekend he ran 0.3333333333333333 mile with his coach and another 0.6666666666666666 mile with his friend. How far did James run in total?"}
+{"question": "Sophia is learning to swim, so this weekend she swam 0.4 mile with her instructor and another 0.2 mile with her friend. How far did Sophia swim altogether?"}
+{"question": "Liam is training for a marathon, so this weekend he jogged 0.1 mile with his partner and another 0.9 mile alone. What is the total distance Liam jogged?"}
+{"question": "Ava is preparing for her bike race, so this weekend she cycled 0.6 mile with her dad and another 0.3 mile with her mom. What was Ava's total biking distance?"}
+{"question": "Noah is learning to skate, so this weekend he practiced skating 0.15 mile with his teacher and another 0.85 mile with his friends. How far did Noah skate in total?"}
+{"question": "Olivia is learning to hike, so this weekend she hiked 0.2 mile with her guide and another 0.4 mile with her friends. How far did Olivia hike in all?"}
+{"question": "In a cookie-eating contest, Alice consumed 0.75 cookies before the time ran out; Bob managed to eat just 0.25 cookies. How much more did Alice eat than Bob?"}
+{"question": "During a sandwich-eating competition, Charlie finished 1.2 sandwiches before the buzzer sounded; Dave completed only 0.8 sandwiches. What is the difference in the amount of food consumed by Charlie and Dave?"}
+{"question": "At a cake-eating event, Zoe managed to eat 2.5 slices of cake while Jake only finished 1.5 slices before the limit was reached. How much more cake did Zoe eat than Jake?"}
+{"question": "In a burrito-eating challenge, Mia got through 3.3 burritos before time was called; Liam ate just 1.8 burritos. How much more did Mia eat than Liam?"}
+{"question": "A chef chopped 1.25 inches off a carrot and 0.75 inches off a celery stalk. How much more did the chef chop off the carrot than the celery?"}
+{"question": "A gardener pruned 2 inches from a rose bush and 1.5 inches from a hibiscus. How much more did the gardener prune from the rose bush than the hibiscus?"}
+{"question": "An artist painted 0.6 meters of canvas red and 0.4 meters of canvas blue. How much more red canvas did the artist paint than blue?"}
+{"question": "A builder trimmed 1.5 feet from a doorway and 1 foot from a window frame. How much more did the builder trim from the doorway than the window frame?"}
+{"question": "A hairdresser cut 3 inches off a woman's hair and 2 inches off a man's hair. How much more hair did the hairdresser cut from the woman than the man?"}
+{"question": "A seamstress hemmed 1.2 feet off a dress and 0.9 feet off a pair of trousers. How much more did the seamstress hem off the dress than the trousers?"}
+{"question": "A shoemaker shaved 0.5 inches off a boot and 0.3 inches off a shoe. How much more did the shoemaker shave off the boot than the shoe?"}
+{"question": "An electrician removed 1.4 meters of wire from a circuit and 0.9 meters from another circuit. How much more wire did the electrician remove from the first circuit than the second?"}
+{"question": "At Mark's Sports Store, 0.5 of the items are soccer balls and 0.3 are basketballs. What fraction of the items are either soccer balls or basketballs?"}
+{"question": "In Jenna's Clothing Boutique, 0.4 of the clothes are dresses and 0.35 are skirts. What fraction of the clothes are either dresses or skirts?"}
+{"question": "At Tom's Shoe Stop, 0.6 of the footwear are sneakers and 0.15 are loafers. What fraction of the footwear are either sneakers or loafers?"}
+{"question": "In Sarah's Bag Emporium, 0.25 of the bags are totes and 0.45 are clutches. What fraction of the bags are either totes or clutches?"}
+{"question": "At Daniel's Outdoor Gear, 0.2 of the equipment are tents and 0.55 are sleeping bags. What fraction of the equipment are either tents or sleeping bags?"}
+{"question": "In Lucy's Toy Store, 0.3 of the toys are dolls and 0.4 are action figures. What fraction of the toys are either dolls or action figures?"}
+{"question": "At Kevin's Craft Shop, 0.15 of the supplies are paints and 0.5 are brushes. What fraction of the supplies are either paints or brushes?"}
+{"question": "In Emily's Jewelry Store, 0.25 of the items are necklaces and 0.3 are bracelets. What fraction of the items are either necklaces or bracelets?"}
+{"question": "Marisa swam 1.2 kilometers and then floated for 0.9 kilometers. How much farther did Marisa swim than float?"}
+{"question": "Jordan cycled 2.5 miles and then walked 1.7 miles. How much farther did Jordan cycle than walk?"}
+{"question": "Claire ran 3.4 laps and then walked 2.2 laps. How much farther did Claire run than walk?"}
+{"question": "Ethan hiked 5.6 miles and then rested for 4.3 miles. How much farther did Ethan hike than rest?"}
+{"question": "A gardener measured one plant that was 2.5 inches tall and a second plant that was 1.5 inches tall. How much taller was the first plant?"}
+{"question": "An architect measured one building that was 150 feet high and another building that was 120 feet high. How much taller was the first building?"}
+{"question": "A teacher measured one stack of books that was 0.8 meters high and another stack that was 0.6 meters high. How much taller was the first stack?"}
+{"question": "A hiker measured one tree that was 12 feet tall and a second tree that was 9 feet tall. How much taller was the first tree?"}
+{"question": "A chef measured one cake that was 3.0 inches thick and another cake that was 2.5 inches thick. How much thicker was the first cake?"}
+{"question": "A painter measured one canvas that was 4 feet wide and another canvas that was 3 feet wide. How much wider was the first canvas?"}
+{"question": "A swimmer measured one wave that was 5.5 feet high and another wave that was 4.0 feet high. How much higher was the first wave?"}
+{"question": "A photographer measured one lens that was 2.2 inches long and another lens that was 1.8 inches long. How much longer was the first lens?"}
+{"question": "Anna's Vegan Cafe purchased 0.25 pound of carrots and 0.25 pound of zucchini. How many pounds of vegetables did Anna's Vegan Cafe acquire in total?"}
+{"question": "Tom's Organic Market bought 0.5 pound of spinach and 0.5 pound of kale. What is the total weight of greens Tom's Organic Market purchased?"}
+{"question": "Lily's Healthy Kitchen acquired 0.4 pound of broccoli and 0.4 pound of cauliflower. How many pounds of vegetables did Lily's Healthy Kitchen obtain altogether?"}
+{"question": "John's Raw Food Shop received 0.2 pound of celery and 0.2 pound of asparagus. What is the total amount of vegetables John\u2019s Raw Food Shop bought?"}
+{"question": "Sarah's Plant-Based Bistro gathered 0.75 pound of mung beans and 0.75 pound of chickpeas. How many pounds of legumes are in total at Sarah's Plant-Based Bistro?"}
+{"question": "Mark's Eco-Friendly Eatery got 0.1 pound of lettuce and 0.1 pound of arugula. How many pounds of salad greens did Mark's Eco-Friendly Eatery collect?"}
+{"question": "Rachel's Nutritious Foods purchased 0.6 pound of eggplant and 0.6 pound of bell peppers. What is the overall weight of produce Rachel's Nutritious Foods has?"}
+{"question": "Sam's Local Greens bought 0.8 pound of beets and 0.8 pound of radishes. How many total pounds of root vegetables did Sam's Local Greens acquire?"}
+{"question": "Liam has 3 cats. Each day, 1 cat eats 0.2 scoop of cat food and another cat eats 0.15 scoop. How much food do the 3 cats eat together each day?"}
+{"question": "Maya feeds her 4 birds. Each day, 1 bird eats 0.05 scoop of seed and another bird eats 0.03 scoop. What is the total amount of seed consumed by all 4 birds each day?"}
+{"question": "James looks after 2 rabbits. Each day, 1 rabbit eats 0.1 cup of pellets and the other rabbit eats 0.15 cup. Together, how much do the 2 rabbits eat per day?"}
+{"question": "Sophia has 5 fish. Each day, 1 fish eats 0.02 cup of flakes and another fish eats 0.03 cup. How much fish food do all 5 fish eat daily?"}
+{"question": "Noah has 1 hamster. Each day, the hamster eats 0.05 cup of food. How much food does the hamster consume each day?"}
+{"question": "Olivia owns 2 guinea pigs. Each day, 1 guinea pig eats 0.04 scoop of food and the other eats 0.06 scoop. What is the total amount of food consumed by both guinea pigs daily?"}
+{"question": "Ethan has 3 turtles. Each day, 1 turtle eats 0.08 cup of pellets and another turtle eats 0.07 cup. How much food do all 3 turtles eat together in a day?"}
+{"question": "Ava cares for 2 parakeets. Each day, 1 parakeet eats 0.1 scoop of seeds, and the other eats 0.1 scoop. Together, how much seed do they consume each day?"}
+{"question": "Emma filled a jar with 1.5 liters of juice. Later, she drank 0.3 liters of the juice. How much juice is left in the jar?"}
+{"question": "Michael poured 2.0 liters of milk into a container. Later, he spilled 0.5 liters of the milk. How much milk is in the container?"}
+{"question": "Sarah filled a glass with 0.6 liters of soda. Later, she poured out 0.1 liters of the soda. How much soda remains in the glass?"}
+{"question": "David added 3.0 gallons of paint to a bucket. Later, he used 1.2 gallons of the paint. How much paint is left in the bucket?"}
+{"question": "Jessica poured 1.0 gallon of water into her plant pot. Later, she used 0.4 gallons for another pot. How much water is left in her pot?"}
+{"question": "Tom filled a thermos with 2.5 liters of coffee. Later, he shared 0.7 liters with a friend. How much coffee is still in the thermos?"}
+{"question": "Lily filled a pitcher with 1.8 quarts of lemonade. Later, she poured out 0.6 quarts of the lemonade. How much lemonade is in the pitcher now?"}
+{"question": "Josh poured 4.0 liters of water into a pool. Later, he drained 1.5 liters of the water. How much water is left in the pool?"}
+{"question": "Michael baked a chocolate cake. He added 0.75 tablespoon of vanilla extract and 0.3 tablespoon of almond extract. How much more vanilla extract than almond extract did Michael use?"}
+{"question": "Sarah cooked a pumpkin soup. She incorporated 0.4 tablespoon of garlic and 0.2 tablespoon of onion. How much more garlic than onion did Sarah use?"}
+{"question": "James prepared a berry smoothie. He blended 0.5 tablespoon of honey and 0.3 tablespoon of yogurt. How much more honey than yogurt did James use?"}
+{"question": "Emma made a banana bread. She included 0.8 tablespoon of sugar and 0.4 tablespoon of butter. How much more sugar than butter did Emma use?"}
+{"question": "David crafted a vegetable stir-fry. He tossed in 0.6 tablespoon of soy sauce and 0.2 tablespoon of sesame oil. How much more soy sauce than sesame oil did David use?"}
+{"question": "The Smith family allocates 0.5 of their funds for transportation and an additional 0.3 for entertainment. In total, what fraction of their funds does the Smith family use for travel and leisure?"}
+{"question": "The Johnson family spends 0.4 of their income on housing and 0.25 on utilities. Overall, what fraction of their income does the Johnson family dedicate to living expenses?"}
+{"question": "The Garcia family uses 0.7 of their earnings for education and 0.1 for books. Altogether, what fraction of their earnings does the Garcia family spend on learning?"}
+{"question": "The Thompson family designates 0.3 of their budget for health insurance and another 0.4 for medical expenses. What fraction of their budget does the Thompson family spend on health?"}
+{"question": "The Patel family devotes 0.5 of their finances to home maintenance and 0.2 to improvements. What fraction of their finances is set aside by the Patel family for their home?"}
+{"question": "The Williams family spends 0.6 of their budget on clothing and an extra 0.15 on accessories. In total, what fraction of their budget do the Williams family allocate to fashion?"}
+{"question": "The Martinez family uses 0.3 of their allowance for savings and 0.2 for hobbies. Altogether, what fraction of their allowance does the Martinez family invest in personal interests?"}
+{"question": "The Lee family spends 0.4 of their total expenses on car payments and another 0.35 on fuel. What overall fraction of their expenses does the Lee family give for transportation?"}
+{"question": "In Ms. Smith's biology lab, 0.6 of the students earned A's and 0.3 earned B's. What fraction of the students earned either A's or B's?"}
+{"question": "In Mr. Johnson's physics class, 0.8 of the students received A's and 0.1 received B's. What fraction of the students received either A's or B's?"}
+{"question": "In Mrs. Lee's history class, 0.75 of the students got A's and 0.15 got B's. What fraction of the students got either A's or B's?"}
+{"question": "In Dr. Kim's chemistry course, 0.65 of the students scored A's and 0.25 scored B's. What fraction of the students scored either A's or B's?"}
+{"question": "In Mr. Brown's English class, 0.9 of the students achieved A's and 0.05 achieved B's. What fraction of the students achieved either A's or B's?"}
+{"question": "In Ms. Clark's art class, 0.55 of the students obtained A's and 0.20 obtained B's. What fraction of the students obtained either A's or B's?"}
+{"question": "In Mr. Lee's computer science class, 0.72 of the students received A's and 0.18 received B's. What fraction of the students received either A's or B's?"}
+{"question": "There is 0.25 cup of flour in Emily's bowl. If Emily adds 0.75 cup more, how much flour will be in the bowl?"}
+{"question": "There is 0.5 cup of sugar in Mark's measuring cup. If Mark adds 0.5 cup more, how much sugar will be in the measuring cup?"}
+{"question": "There is 0.1 liter of juice in David's jug. If David adds 0.9 liter more, how much juice will be in the jug?"}
+{"question": "There is 0.2 gallon of milk in Sarah's container. If Sarah adds 0.8 gallon more, how much milk will be in the container?"}
+{"question": "There is 0.3 quart of broth in Julia's pot. If Julia adds 0.7 quart more, how much broth will be in the pot?"}
+{"question": "There is 0.4 liter of water in Tom's bottle. If Tom adds 0.6 liter more, how much water will be in the bottle?"}
+{"question": "There is 0.125 cup of honey in Alex's jar. If Alex adds 0.875 cup more, how much honey will be in the jar?"}
+{"question": "There is 0.3 cup of rice in Chloe's bowl. If Chloe adds 0.7 cup more, how much rice will be in the bowl?"}
+{"question": "Each day, the lion at the safari park consumes 0.3 bucket of meat and 0.5 bucket of vegetables. How many buckets of food does the lion eat daily?"}
+{"question": "Each day, the elephant at the wildlife refuge drinks 1.5 buckets of water and 0.5 bucket of juice. How many buckets of liquids does the elephant consume daily?"}
+{"question": "0.6 of the students in the orchestra are in the violin section. 0.2 of the students in the orchestra are in the cello section. What fraction of the students in the orchestra are in either the violin section or the cello section?"}
+{"question": "0.3 of the students in the choir are in the soprano section. 0.15 of the students in the choir are in the alto section. What fraction of the students in the choir are in either the soprano section or the alto section?"}
+{"question": "0.4 of the students in the theater group are in the acting division. 0.1 of the students in the theater group are in the directing division. What fraction of the students in the theater group are in either the acting division or the directing division?"}
+{"question": "0.25 of the students in the art club are in the painting group. 0.1 of the students in the art club are in the sculpting group. What fraction of the students in the art club are in either the painting group or the sculpting group?"}
+{"question": "0.7 of the players in the football team are in the defensive line. 0.2 of the players in the football team are in the offensive line. What fraction of the players in the football team are in either the defensive line or the offensive line?"}
+{"question": "0.15 of the participants in the science fair are in the physics project. 0.05 of the participants in the science fair are in the chemistry project. What fraction of the participants in the science fair are in either the physics project or the chemistry project?"}
+{"question": "0.9 of the members in the reading club are focusing on fiction. 0.05 of the members in the reading club are focusing on non-fiction. What fraction of the members in the reading club are focusing on either fiction or non-fiction?"}
+{"question": "Tommy discovered 3 sticks in the park and compared their lengths with a tape measure. One stick was 1.5 feet long. The other stick was 1.0 feet long. How much longer was the longer stick?"}
+{"question": "Mia found 4 leaves on the ground and examined them closely. One leaf was 2.2 inches wide. The other leaf was 1.7 inches wide. How much wider was the wider leaf?"}
+{"question": "James located 5 pebbles by the river and took measurements of each. One pebble was 3.4 centimeters long. The other pebble was 2.0 centimeters long. How much longer was the longer pebble?"}
+{"question": "Lisa came across 2 ribbons in a craft box and measured their lengths using a yardstick. One ribbon was 4.0 yards long. The other ribbon was 2.5 yards long. How much longer was the longer ribbon?"}
+{"question": "Ryan found 3 books on a shelf and measured their heights. One book was 6.5 inches tall. The other book was 5.0 inches tall. How much taller was the taller book?"}
+{"question": "Anna collected 2 feathers from the ground and used a ruler to measure them. One feather was 12 centimeters long. The other feather was 8 centimeters long. How much longer was the longer feather?"}
+{"question": "Jordan prepared a smoothie with 0.5 pound of banana and 0.2 pound of yogurt. How many pounds of ingredients did Jordan use altogether?"}
+{"question": "In 2 weeks, Sarah's family consumed 0.3 carton of almond milk and 0.2 carton of oat milk. How much milk did they drink in total?"}
+{"question": "Over a period of 3 days, John's family used 0.4 carton of coconut milk and 0.15 carton of cashew milk. What is the total amount of milk they consumed?"}
+{"question": "Throughout 1 month, Emily's family purchased 0.6 carton of whole milk and 0.25 carton of lactose-free milk. What is the overall quantity of milk they drank?"}
+{"question": "For 5 days, Alex's family had 0.2 carton of goat milk and 0.1 carton of rice milk. How much milk did they consume altogether?"}
+{"question": "In 10 days, Tom's family drank 0.4 carton of skim milk and 0.3 carton of hemp milk. What was their total milk intake?"}
+{"question": "Michael visited the barber and had 0.25 inch of his hair trimmed. The next day, he returned and requested another 0.75 inch to be cut off. How much hair did he have removed in total?"}
+{"question": "Samantha went to the beauty salon and had 1.2 inches of her hair snipped. The following day, she returned for an additional 0.8 inch cut. What is the total amount of hair she had cut?"}
+{"question": "Jessica stopped by the hairdresser and had 0.5 inch of hair cut. Later on, she came back and asked for another 0.3 inch to be trimmed. How much hair did she lose altogether?"}
+{"question": "Tommy showed up at the salon where he had 0.6 inches of his hair shortened. The next day, he went back and opted for another 0.4 inch cut. What is the total length of hair that was cut off?"}
+{"question": "Laura went to the salon where she had 1.0 inch of hair cut off. The next day, she asked for another 0.5 inch cut. How much hair has she had cut in total?"}
+{"question": "Chris went to the barber and had 0.9 inch of his hair cut. The next day, he returned for another 0.2 inch trim. How much total hair has been cut from Chris?"}
+{"question": "In a housing complex, 0.25 of the units are studios and 0.5 are one-bedroom units. What fraction of the units are either studios or one-bedroom units?"}
+{"question": "In a condominium, 0.4 of the apartments are two-bedroom and 0.2 are three-bedroom apartments. What fraction of the apartments are either two- or three-bedroom apartments?"}
+{"question": "In a rental building, 0.3 of the apartments are one-bedroom and 0.1 are three-bedroom apartments. What fraction of the apartments are either one- or three-bedroom apartments?"}
+{"question": "In a community housing project, 0.6 of the homes are detached houses and 0.2 are townhouses. What fraction of the homes are either detached houses or townhouses?"}
+{"question": "In a residential area, 0.2 of the properties are duplexes and 0.5 are single-family homes. What fraction of the properties are either duplexes or single-family homes?"}
+{"question": "In an apartment building, 0.35 of the apartments are lofts and 0.15 are studios. What fraction of the apartments are either lofts or studios?"}
+{"question": "In a neighborhood, 0.4 of the houses are bungalows and 0.3 are split-level homes. What fraction of the houses are either bungalows or split-level homes?"}
+{"question": "In a housing development, 0.5 of the units are townhomes and 0.4 are condominiums. What fraction of the units are either townhomes or condominiums?"}
+{"question": "At the park, Alex and his friend both flew kites and then compared their heights. Alex's kite was 2.5 feet tall and his friend's was 1.75 feet tall. How much taller was Alex's kite than his friend's?"}
+{"question": "In the garden, Lily and her brother both planted sunflowers and then measured their heights. Lily's sunflower was 3.2 feet tall and her brother's was 2.4 feet tall. How much taller was Lily's sunflower than her brother's?"}
+{"question": "In the classroom, Tom and his classmate built models and then assessed their heights. Tom's model was 1.9 feet tall and his classmate's was 1.1 feet tall. How much taller was Tom's model than his classmate's?"}
+{"question": "At the zoo, Emma and her dad took pictures of the tallest giraffes they saw and then checked their heights. Emma's giraffe was 15.2 feet tall and her dad's was 13.5 feet tall. How much taller was Emma's giraffe than her dad's?"}
+{"question": "On the playground, Sarah and her cousin measured the heights of their slides. Sarah's slide was 5.4 feet tall and her cousin's was 4.2 feet tall. How much taller was Sarah's slide than her cousin's?"}
+{"question": "In the mountains, Jack and his friend both climbed and then compared the heights of the peaks they reached. Jack's peak was 8.1 feet tall and his friend's was 6.3 feet tall. How much taller was Jack's peak than his friend's?"}
+{"question": "At the concert, Mia and her friend checked the heights of their favorite band members. Mia's favorite member was 6.2 feet tall and her friend's was 5.8 feet tall. How much taller was Mia's favorite member than her friend's?"}
+{"question": "John started his road trip with 0.7 tank of gas in his vehicle. By the time he reached his destination, 0.2 tank of gas remained. How much gas did John consume?"}
+{"question": "Emily set off for her errands with 0.6 tank of gas in her car. When she returned home, 0.1 tank of gas was left. How much gas did Emily use during her errands?"}
+{"question": "David left for a hiking trip with 0.8 tank of gas in his SUV. When he returned, he had 0.3 tank of gas remaining. What amount of gas did David spend on his trip?"}
+{"question": "Sophia began her commute with 0.4 tank of gas in her sedan. After getting back, there was 0.1 tank of gas in the tank. How much gas did Sophia utilize?"}
+{"question": "Michael started his weekend trip with 0.9 tank of gas in his truck. Upon his return, there remained 0.4 tank of gas. How much gas did Michael use on his trip?"}
+{"question": "Ava initiated her travel with 0.5 tank of gas in her vehicle. By the end of the day, there was 0.2 tank of gas left. How much gas did Ava consume on her travels?"}
+{"question": "While counting my supplies in the garden, I discovered that I had 1.2 bags of soil last week, but now I only have 1.0 bag left. How much more soil did I have last week?"}
+{"question": "During an inventory check at the bookstore, I found that I had 2.5 copies of a bestseller last month, but the stock has decreased to 2.0 copies now. How many more copies did I have last month?"}
+{"question": "While taking stock in the coffee shop, I noticed that I had 0.6 liters of syrup a few days ago, but it's now reduced to 0.5 liters. How much more syrup did I have a few days ago?"}
+{"question": "While managing my art supplies, I realized I had 3.4 tubes of paint last semester, but currently, I'm down to 3.1 tubes. How much more paint did I have last semester?"}
+{"question": "While checking my pantry, I recognized that I stored 4.0 cans of tomatoes last weekend, but now there are only 3.5 cans remaining. How much more tomatoes did I have last weekend?"}
+{"question": "While reviewing the inventory at my store, I found out that I had 5.0 rolls of wrapping paper last year, but the amount is now down to 4.5 rolls. How much more wrapping paper did I have last year?"}
+{"question": "During a stock check in the brewery, I recalled that I had 2.8 kegs of beer last month, but it has now dwindled to 2.5 kegs. How much more beer did I have last month?"}
+{"question": "Tom and Jerry cultivated their respective gardens. Tom planted 0.5 acre of tomatoes on Tuesday and Jerry planted 0.2 acre. How many more acres did Tom plant than Jerry?"}
+{"question": "Alice and Bob tilled their fields side by side. Alice sowed 0.3 acre of wheat on Wednesday and Bob sowed 0.15 acre. How many more acres did Alice sow than Bob?"}
+{"question": "Michael and Sarah own adjacent orchards. Michael harvested 0.6 acre of apples on Thursday and Sarah harvested 0.25 acre. How many more acres did Michael harvest than Sarah?"}
+{"question": "Kevin and Lisa run neighboring vineyards. Kevin picked 0.8 acre of grapes on Friday and Lisa picked 0.35 acre. How many more acres did Kevin pick than Lisa?"}
+{"question": "Daniel and Emma farm nearby plots. Daniel reaped 0.7 acre of beans on Saturday and Emma reaped 0.4 acre. How many more acres did Daniel reap than Emma?"}
+{"question": "At the bakery, 0.3 of the pastries are croissants and 0.4 of the pastries are danishes. What fraction of the pastries are either croissants or danishes?"}
+{"question": "In the library, 0.6 of the books are fiction and 0.25 of the books are non-fiction. What fraction of the books are either fiction or non-fiction?"}
+{"question": "At the pet store, 0.2 of the animals are dogs and 0.35 of the animals are cats. What fraction of the animals are either dogs or cats?"}
+{"question": "In the clothing store, 0.15 of the items are shirts and 0.35 of the items are pants. What fraction of the items are either shirts or pants?"}
+{"question": "At the toy store, 0.5 of the toys are action figures and 0.2 of the toys are dolls. What fraction of the toys are either action figures or dolls?"}
+{"question": "In the garden center, 0.4 of the flowers are roses and 0.3 of the flowers are tulips. What fraction of the flowers are either roses or tulips?"}
+{"question": "At the coffee shop, 0.45 of the drinks are lattes and 0.35 of the drinks are cappuccinos. What fraction of the drinks are either lattes or cappuccinos?"}
+{"question": "In the grocery store, 0.25 of the fruits are apples and 0.5 of the fruits are bananas. What fraction of the fruits are either apples or bananas?"}
+{"question": "While preparing cookies for a charity event, Sarah used 0.5 cup of honey as well as 0.3 cup of maple syrup. How much more honey did Sarah use?"}
+{"question": "Sarah mixed 0.5 cup of almonds and 0.6 cup of walnuts into her salad. How many cups of nuts did Sarah mix in total?"}
+{"question": "David combined 0.2 cup of chia seeds and 0.3 cup of flaxseeds into his smoothie. How many cups of seeds did David combine altogether?"}
+{"question": "Emily poured 0.4 cup of shredded coconut and 0.3 cup of chocolate chips into her baking mix. How many cups of ingredients did Emily pour in total?"}
+{"question": "In Springfield it rained 0.3 inch in the morning and 0.7 inch in the afternoon. What was the total amount of rainfall?"}
+{"question": "In Maplewood it snowed 0.2 inch in the morning and 0.4 inch in the afternoon. What was the total amount of snowfall?"}
+{"question": "In Riverdale it rained 0.1 inch in the morning and 0.9 inch in the evening. What was the total amount of precipitation?"}
+{"question": "In Greenfield it snowed 0.3 inch in the morning and 0.6 inch in the evening. What was the total amount of snowfall?"}
+{"question": "In Pleasantville it drizzled 0.2 inch in the morning and 0.3 inch in the afternoon. What was the total amount of drizzle?"}
+{"question": "In Westfield it snowed 0.15 inch in the morning and 0.25 inch in the afternoon. What was the total amount of snowfall?"}
+{"question": "In Brookside it rained 0.4 inch in the morning and 0.5 inch in the evening. What was the total amount of rainfall?"}
+{"question": "In Fairview it snowed 0.3 inch in the morning and 0.3 inch in the evening. What was the total amount of snowfall?"}
+{"question": "Emily's family went on a hiking trip in the woods. On the first day, they walked from their car to a viewpoint. First, they walked 0.3 mile from the car to a stream, and 0.5 mile from the stream to a hilltop. Then they walked 0.2 mile from the hilltop to the viewpoint. How many miles did Emily's family walk in all?"}
+{"question": "John's family went on a road trip to the beach. On the first day, they drove from their hotel to a park. First, they drove 1.0 mile from the hotel to a rest stop, and 1.5 miles from the rest stop to a beach entrance. Then they drove 0.5 mile from the entrance to a beach area. How many miles did John's family drive in all?"}
+{"question": "Before preparing for dinner service, a chef checks to ensure there is enough olive oil for his recipes. He finds 0.5 liters in the first container, 0.3 liters in the second container, and 0.4 liters in the third container. Altogether, how many liters of olive oil does the chef find?"}
+{"question": "Before starting her day, a barista checks to make sure there is enough coffee for her customers. She finds 0.2 bags at the first shelf, 0.3 bags at the second shelf, and 0.5 bags at the third shelf. Altogether, how many bags of coffee does the barista find?"}
+{"question": "Before her shift starts, a bartender checks to ensure there is enough tonic water for the drinks. She finds 0.15 liters in the first bottle, 0.25 liters in the second bottle, and 0.1 liters in the third bottle. Altogether, how many liters of tonic water does the bartender find?"}
+{"question": "Before opening the shop, a store manager checks to make sure there are enough shopping bags for customers. She finds 0.6 bags in the first box, 0.2 bags in the second box, and 0.4 bags in the third box. Altogether, how many bags does the manager find?"}
+{"question": "Before starting a project, a teacher checks to make sure there are enough colored pencils for her students. She finds 0.3 packs in the first drawer, 0.5 packs in the second drawer, and 0.2 packs in the third drawer. Altogether, how many packs of colored pencils does the teacher find?"}
+{"question": "Before the meeting starts, an office manager checks to make sure there are enough notepads for the attendees. She finds 0.4 notepads in the first stack, 0.3 notepads in the second stack, and 0.5 notepads in the third stack. Altogether, how many notepads does the manager find?"}
+{"question": "Before attending a picnic, a parent checks to ensure there are enough juice boxes for the kids. She finds 0.2 boxes in the first cooler, 0.4 boxes in the second cooler, and 0.1 boxes in the third cooler. Altogether, how many juice boxes does the parent find?"}
+{"question": "A baker had some pastries left after the event on Sunday morning. She observed that there were 0.1 pastry filled with cream, 0.5 pastry filled with chocolate, and 0.2 pastry filled with raspberry. What is the total number of leftover pastries?"}
+{"question": "A chef stored unused soup in the fridge on Wednesday afternoon. He found that there was 0.2 liters of tomato soup, 0.5 liters of mushroom soup, and 0.1 liters of chicken soup. How much soup did he have left in total?"}
+{"question": "A restaurant staff member placed uneaten pizzas in the cooler after dinner on Friday night. They noted that there was 0.2 pizza with pepperoni, 0.4 pizza with vegetables, and 0.1 pizza with cheese. What is the total amount of leftover pizza?"}
+{"question": "A caterer saved the remaining cupcakes in the fridge on Saturday evening. She recorded that there were 0.1 cupcake with vanilla frosting, 0.4 cupcake with chocolate frosting, and 0.2 cupcake with lemon frosting. How many cupcakes were left over?"}
+{"question": "A deli stored extra sandwiches in the refrigerator on Tuesday night. The employee reported having 0.3 sandwich with turkey, 0.4 sandwich with ham, and 0.2 sandwich with cheese. How many sandwiches did they have left?"}
+{"question": "During her trip to Paris last spring, Emily strolled throughout the city to explore local cafes. First, she walked 0.2222222222222222 mile from her apartment to a cafe. Then she walked 0.3333333333333333 mile from the cafe to a bakery and 0.4444444444444444 mile from the bakery back to her apartment. How many miles did Emily walk in total?"}
+{"question": "On his business trip to San Francisco this year, Michael traveled all around the city to meet clients. Initially, he walked 0.2500000000000000 mile from his hotel to a coffee shop. Next, he walked 0.5000000000000000 mile from the coffee shop to a meeting location and 0.7500000000000000 mile from the meeting location back to the hotel. How many miles did Michael walk in total?"}
+{"question": "During her adventures in Tokyo last winter, Sarah wandered the streets to buy unique gifts. First, she walked 0.3333333333333333 mile from her hostel to a gift shop. Then, she walked 0.4444444444444444 mile from the gift shop to a local market and 0.5555555555555556 mile from the market back to the hostel. How many miles did Sarah walk in total?"}
+{"question": "While visiting London during the fall, James roamed across the town to acquire some memorabilia. Initially, he walked 0.1234567890123456 mile from his flat to a souvenir shop. After that, he walked 0.2345678901234567 mile from the souvenir shop to a gallery and 0.3456789012345678 mile from the gallery back to the flat. How many miles did James walk in total?"}
+{"question": "On her road trip through Chicago last autumn, Laura traveled around the city to find decorations. First, she walked 0.5555555555555556 mile from her accommodation to a decoration store. Then she walked 0.4444444444444444 mile from the decoration store to a boutique and 0.3333333333333333 mile from the boutique back to her accommodation. How many miles did Laura walk in total?"}
+{"question": "Emily prepared a fruit salad for a picnic. She used 0.2 pound of strawberries, 0.3 pound of blueberries, and 0.1 pound of bananas. How many pounds of fruit salad did Emily make?"}
+{"question": "Jacob baked cookies for a bake sale. He used 0.25 pound of flour, 0.15 pound of sugar, and 0.1 pound of butter. How many pounds of cookies did Jacob bake?"}
+{"question": "Samantha crafted a smoothie for breakfast. She added 0.3 pound of spinach, 0.2 pound of mango, and 0.1 pound of yogurt. How many pounds of smoothie did Samantha prepare?"}
+{"question": "Oliver mixed a salad for dinner. He included 0.2 pound of lettuce, 0.15 pound of tomatoes, and 0.1 pound of cucumber. How many pounds of salad did Oliver create?"}
+{"question": "Chloe stirred a soup for lunch. She added 0.25 pound of carrots, 0.2 pound of potatoes, and 0.1 pound of onions. How many pounds of soup did Chloe make?"}
+{"question": "Daniel whipped up a dip for the party. He used 0.2 pound of cream cheese, 0.1 pound of salsa, and 0.05 pound of herbs. How many pounds of dip did Daniel prepare?"}
+{"question": "During a toy drive, items were sorted into boxes. The drive resulted in 0.2 box of dolls, 0.3 box of cars, and 0.5 box of action figures. Altogether, how many boxes would the toys take up?"}
+{"question": "During a clothing collection, items were categorized into bags. The collection yielded 0.15 bag of shirts, 0.25 bag of pants, and 0.6 bag of jackets. How many bags would the clothing require in total?"}
+{"question": "During a book fair, items were arranged into crates. The fair collected 0.1 crate of fiction, 0.4 crate of non-fiction, and 0.5 crate of children's books. How many crates would the books occupy in total?"}
+{"question": "During a recycling event, materials were divided into bins. The event collected 0.3 bin of plastics, 0.2 bin of paper, and 0.5 bin of metals. Altogether, how many bins would the recycled materials take up?"}
+{"question": "During a pet adoption event, animals were sorted into cages. The event resulted in 0.2 cage of cats, 0.3 cage of dogs, and 0.5 cage of rabbits. Overall, how many cages would the pets occupy?"}
+{"question": "During a food festival, items were grouped into trays. The festival had 0.1 tray of appetizers, 0.4 tray of main dishes, and 0.5 tray of desserts. In total, how many trays would the food use?"}
+{"question": "During a school supply drive, items were separated into bins. The drive collected 0.25 bin of notebooks, 0.35 bin of pens, and 0.4 bin of pencils. How many bins would the supplies take up altogether?"}
+{"question": "A woodworking shop acquired lumber pieces of various weights. The weights of the pieces they purchased were 0.5 ton, 0.75 ton, and 0.25 ton. What is the total weight of the lumber bought by the woodworking shop?"}
+{"question": "A bakery ordered bags of flour in different quantities. The weights of the bags they received were 0.4 ton, 0.2 ton, and 0.1 ton. How much flour did the bakery receive in total?"}
+{"question": "A furniture manufacturer bought several metal sheets from a supplier. The weights of the sheets they purchased were 0.2 ton, 0.4 ton, and 0.1 ton. What is the total weight of the metal sheets acquired by the manufacturer?"}
+{"question": "A bakery sourced various quantities of sugar from distributors. The weights of the sugar they purchased were 0.25 ton, 0.5 ton, and 0.05 ton. How many tons of sugar did the bakery purchase altogether?"}
+{"question": "An art studio collected canvases of different weights. The weights of the canvases they purchased were 0.1 ton, 0.3 ton, and 0.6 ton. What is the total weight of the canvases brought by the art studio?"}
+{"question": "A construction company ordered bricks with varying weights. The weights of the bricks they received were 0.2 ton, 0.35 ton, and 0.15 ton. How many tons of bricks did the construction company obtain in total?"}
+{"question": "An electronics company bought components in different weights. The weights of the components they ordered were 0.5 ton, 0.3 ton, and 0.2 ton. What is the total weight of the components purchased by the electronics company?"}
+{"question": "Liam's math class tracked the snowfall each day. They recorded 0.25 inches of snow on Thursday, 0.5 inches of snow on Friday, and 0.1 inches of snow on Saturday. How many inches of snow did the class record in total?"}
+{"question": "Samantha's weather club noted the temperature each day. They recorded 15.5 degrees Celsius on Sunday, 18.3 degrees Celsius on Monday, and 20.1 degrees Celsius on Tuesday. What was the total temperature recorded by the club?"}
+{"question": "Jacob's environmental group counted the litter collected each day. They collected 3.5 kilograms of waste on Monday, 2.0 kilograms on Tuesday, and 4.5 kilograms on Wednesday. How many kilograms of waste did they collect altogether?"}
+{"question": "Olivia's art class mixed paint colors each session. They used 0.75 liters of blue paint on Monday, 1.25 liters of red paint on Tuesday, and 0.5 liters of yellow paint on Wednesday. How many liters of paint did the class use in total?"}
+{"question": "Ethan's football team recorded the scores from their games. They scored 14 points on Saturday, 21 points on Sunday, and 10 points on Monday. How many points did they score in all?"}
+{"question": "Sophia's cooking class measured ingredients each day. They used 200 grams of flour on Monday, 150 grams of sugar on Tuesday, and 100 grams of butter on Wednesday. What is the total weight of ingredients used by the class?"}
+{"question": "Noah's history group tracked the pages read each week. They read 30 pages in the first week, 45 pages in the second week, and 25 pages in the third week. How many pages did the group read in total?"}
+{"question": "A landscaping company procured 0.2 ton of soil, 0.3 ton of gravel, and 0.1 ton of mulch. What is the total weight of materials ordered by the company?"}
+{"question": "Liam prepared a smoothie for his breakfast. He used 0.5 gallon of orange juice, 0.25 gallon of banana puree, and 0.1 gallon of yogurt. How many gallons of smoothie did Liam make?"}
+{"question": "Samantha made a salad for the picnic. She used 0.3 gallon of spinach, 0.4 gallon of cherry tomatoes, and 0.2 gallon of dressing. How many gallons of salad did Samantha make?"}
+{"question": "Jake brewed coffee for a family gathering. He used 0.4 gallon of coffee, 0.2 gallon of cream, and 0.1 gallon of syrup. How many gallons of coffee did Jake brew?"}
+{"question": "Olivia mixed a drink for her book club. She used 0.3 gallon of lemonade, 0.2 gallon of water, and 0.1 gallon of mint syrup. How many gallons of drink did Olivia mix?"}
+{"question": "Michael created a sauce for dinner. He used 0.2 gallon of tomato sauce, 0.15 gallon of olive oil, and 0.05 gallon of vinegar. How many gallons of sauce did Michael create?"}
+{"question": "Emma baked a cake for the wedding. She used 0.4 gallon of batter, 0.1 gallon of icing, and 0.05 gallon of filling. How many gallons of cake did Emma bake?"}
+{"question": "David concocted a cocktail for the party. He used 0.3 gallon of rum, 0.2 gallon of cola, and 0.1 gallon of lime juice. How many gallons of cocktail did David concoct?"}
+{"question": "A spacecraft journeyed 1.2 light-years from Earth to Planet A and 0.3 light-year from Planet A to Planet B. Then it made a trip of 0.2 light-year from Planet B back to Earth. How many light-years did the spacecraft travel in all?"}
+{"question": "A starship moved 2.0 light-years from Earth to Moon Alpha and 0.4 light-year from Moon Alpha to Moon Beta. Then it traveled 0.5 light-year from Moon Beta back to Earth. What is the total distance in light-years that the starship covered?"}
+{"question": "A shuttle flew 0.8 light-years from Earth to Station Z and 0.2 light-year from Station Z to Station Y. It then returned to Earth covering 0.4 light-year. How many light-years did the shuttle travel altogether?"}
+{"question": "A rover went 1.5 light-years from Earth to Star X and 0.5 light-year from Star X to Star Y. It then returned 0.6 light-year back to Earth. How many light-years did the rover traverse in total?"}
+{"question": "A vessel departed 0.7 light-years from Earth to Region A and 0.4 light-year from Region A to Region B. After that, it traveled back 0.3 light-year to Earth. How many light-years did the vessel travel cumulatively?"}
+{"question": "A craft traveled 1.0 light-years from Earth to Galaxy P and 0.5 light-year from Galaxy P to Galaxy Q. Then it made a return journey of 0.3 light-year to Earth. What is the total distance covered by the craft in light-years?"}
+{"question": "An explorer ship journeyed 0.6 light-years from Earth to Planet M and 0.3 light-years from Planet M to Planet N. It then returned to Earth covering 0.7 light-years. How many light-years did the explorer ship travel in total?"}
+{"question": "A probe moved 1.1 light-years from Earth to Sector A and 0.2 light-year from Sector A to Sector B. It then took a 0.4 light-year return trip to Earth. What is the total distance in light-years that the probe traveled?"}
+{"question": "Sam measured the rainfall every hour during a storm. He recorded 0.4444444444444444 millimeter at 2 PM, 0.5555555555555556 millimeter at 3 PM, and 0.6666666666666666 millimeter at 4 PM. What is the total millimeters of rain Sam recorded?"}
+{"question": "Emily noted the temperature changes throughout the day. She recorded 15.333333333333334 degrees Celsius at 8 AM, 17.444444444444443 degrees Celsius at 12 PM, and 19.22222222222222 degrees Celsius at 6 PM. How many total degrees did Emily record during the day?"}
+{"question": "Jake tracked the wind speed every hour during a hurricane. He recorded 12.333333333333334 km/h at 10 AM, 15.444444444444445 km/h at 1 PM, and 18.22222222222222 km/h at 4 PM. How many total kilometers per hour of wind speed did Jake record?"}
+{"question": "Sophia logged the number of steps she took each day for a week. She recorded 5000.333333333333 steps on Monday, 6000.444444444444 steps on Tuesday, and 5500.222222222222 steps on Wednesday. What is the total number of steps Sophia logged for those days?"}
+{"question": "Michael documented the number of visitors at a museum daily. He recorded 120.33333333333334 visitors on Saturday, 130.44444444444446 visitors on Sunday, and 110.22222222222223 visitors on Monday. How many total visitors did Michael document over the weekend?"}
+{"question": "Lily kept track of the number of pages she read each day in a book. She recorded 30.333333333333332 pages on Tuesday, 25.444444444444443 pages on Wednesday, and 27.22222222222222 pages on Thursday. How many total pages did Lily read during those days?"}
+{"question": "David recorded his weight every morning. He weighed 70.33333333333333 kilograms on Monday, 70.44444444444444 kilograms on Tuesday, and 70.22222222222223 kilograms on Wednesday. What is the total weight David recorded over those three days?"}
+{"question": "During a community event, Sarah managed the refreshment table. She served 0.5 gallon of iced tea during the morning session, 0.3333333333333333 gallon during the afternoon, and 0.25 gallon during the evening. How many gallons of iced tea did Sarah serve in total?"}
+{"question": "At a family gathering, Mike handled the dessert stand. He dished out 0.2 cake during the first round, 0.35 cake during the second, and 0.15 cake during the third. How much cake did Mike serve altogether?"}
+{"question": "For a charity bake sale, Emily organized the cupcake booth. She sold 0.4 dozen cupcakes in the first hour, 0.5 dozen in the second, and 0.3 dozen in the last hour. How many dozens of cupcakes did Emily sell overall?"}
+{"question": "A construction task required 0.25 truck-load of gravel, 0.5 truck-load of asphalt, and 0.25 truck-load of concrete. How many truck-loads of material were needed in all?"}
+{"question": "An outdoor project needed 0.1 truck-load of mulch, 0.2 truck-load of soil, and 0.1 truck-load of compost. How many truck-loads of material were needed in all?"}
+{"question": "A landscaping job required 0.2 truck-load of rocks, 0.4 truck-load of sand, and 0.2 truck-load of bark. How many truck-loads of material were needed in all?"}
+{"question": "For a road repair, 0.3 truck-load of gravel, 0.4 truck-load of concrete, and 0.3 truck-load of soil were used. How many truck-loads of material were needed in all?"}
+{"question": "A gardening activity involved 0.15 truck-load of pebbles, 0.35 truck-load of potting soil, and 0.15 truck-load of fertilizer. How many truck-loads of material were needed in all?"}
+{"question": "An art installation required 0.2 truck-load of plaster, 0.3 truck-load of paint, and 0.2 truck-load of resin. How many truck-loads of material were needed in all?"}
+{"question": "A group of students measured the weights of different colored marbles for a project. They found that the blue marble weighed 0.1 ounce, the green marble weighed 0.2 ounce, and the red marble weighed 0.3 ounce. What was the total weight of the marbles?"}
+{"question": "During art class, the children counted the weights of various paintbrushes for a study. They discovered that the round brush weighed 0.05 ounce, the flat brush weighed 0.15 ounce, and the detail brush weighed 0.25 ounce. What was the total weight of the paintbrushes?"}
+{"question": "In a cooking class, the students measured the weights of different spices for a recipe. They found that the salt weighed 0.02 ounce, the pepper weighed 0.08 ounce, and the cumin weighed 0.12 ounce. What was the total weight of the spices?"}
+{"question": "A physics class recorded the weights of various objects for a lab experiment. They noted that the ball weighed 0.6 ounce, the cube weighed 0.4 ounce, and the cylinder weighed 0.5 ounce. What was the total weight of the objects?"}
+{"question": "For a gardening project, the students weighed different types of seeds. They found that the sunflower seeds weighed 0.03 ounce, the pumpkin seeds weighed 0.07 ounce, and the watermelon seeds weighed 0.09 ounce. What was the total weight of the seeds?"}
+{"question": "In a music class, students evaluated the weights of different instruments. They noted that the flute weighed 0.2 ounce, the clarinet weighed 0.4 ounce, and the trumpet weighed 0.6 ounce. What was the total weight of the instruments?"}
+{"question": "In a gym class, the students recorded the weights of various weights used for exercises. They discovered that the small weight was 0.5 ounce, the medium weight was 1.0 ounce, and the large weight was 1.5 ounces. What was the total weight of the weights?"}
+{"question": "For a science fair project, students measured the weights of different containers filled with sand. They found that the small bucket weighed 0.25 ounce, the medium bucket weighed 0.75 ounce, and the large bucket weighed 1.0 ounce. What was the total weight of the buckets?"}
+{"question": "Following a precise formula, Sarah added 0.25 cup of vinegar and 2.5 cups of broth. What is the total volume of liquid Sarah combined?"}
+{"question": "Adhering to the instructions, John mixed 0.5 cup of honey with 3.0 cups of tea. How much liquid did John utilize in total?"}
+{"question": "Alex's biology book weighs 5.4 pounds and his physics book weighs 3.2 pounds. How much more does the biology book weigh than the physics book?"}
+{"question": "Maria's history textbook weighs 4.75 pounds and her literature textbook weighs 2.5 pounds. How much more does the history textbook weigh than the literature textbook?"}
+{"question": "James's computer science book weighs 6.3 pounds and his statistics book weighs 1.8 pounds. How much more does the computer science book weigh than the statistics book?"}
+{"question": "Sophia's economics book weighs 8.2 pounds and her geography book weighs 2.9 pounds. How much more does the economics book weigh than the geography book?"}
+{"question": "Daniel's art textbook weighs 3.7 pounds and his philosophy textbook weighs 1.2 pounds. How much more does the art textbook weigh than the philosophy textbook?"}
+{"question": "Emma's physics textbook weighs 9.6 pounds and her chemistry textbook weighs 7.1 pounds. How much more does the physics textbook weigh than the chemistry textbook?"}
+{"question": "Liam's music theory book weighs 4.5 pounds and his psychology book weighs 3.0 pounds. How much more does the music theory book weigh than the psychology book?"}
+{"question": "Olivia's environmental science textbook weighs 10.2 pounds and her anthropology textbook weighs 5.6 pounds. How much more does the environmental science textbook weigh than the anthropology textbook?"}
+{"question": "Mason's Construction Company utilized 8 tons of asphalt to resurface John's parking lot and 4.3 tons of asphalt to resurface Sarah's parking lot. How much asphalt did Mason's Construction Company use in total?"}
+{"question": "Builder's Contracting Firm used 12 tons of gravel to construct Mike's driveway and 6.5 tons of gravel to construct Rachel's driveway. What is the total amount of gravel used by Builder's Contracting Firm?"}
+{"question": "Paver's Renovation Company required 15 tons of concrete to rebuild Lisa's sidewalk and 7.2 tons of concrete to rebuild James's sidewalk. How much concrete did Paver's Renovation Company use altogether?"}
+{"question": "Digger's Earthworks used 20 tons of soil to level Anna's garden and 9.4 tons of soil to level Bob's garden. How much soil was used by Digger's Earthworks in all?"}
+{"question": "Crafters' Stonework utilized 5 tons of marble to enhance Peter's patio and 2.8 tons of marble to enhance Emma's patio. What is the total amount of marble used by Crafters' Stonework?"}
+{"question": "Smith's Landscaping Company applied 6 tons of mulch to cover Tim's yard and 3.5 tons of mulch to cover Kate's yard. How much mulch did Smith's Landscaping Company apply in total?"}
+{"question": "Green Thumb Gardening Service spread 9 tons of soil to plant Laura's flower bed and 4.7 tons of soil to plant Mark's flower bed. What is the total amount of soil spread by Green Thumb Gardening Service?"}
+{"question": "Liam swam 0.75 miles in the morning and 1.5 miles in the evening. How many miles did Liam swim in total?"}
+{"question": "Emma read 3.5 books in February and 2.3 books in March. How many books did Emma read altogether?"}
+{"question": "Noah baked 2.5 dozen cookies for the party and 3.75 dozen cookies for the bake sale. How many dozen cookies did Noah bake in all?"}
+{"question": "Sophia painted 1.2 canvases on Saturday and 2.8 canvases on Sunday. How many canvases did Sophia paint in total?"}
+{"question": "A tank holds 5 gallons of fuel. If Sarah pours in 4.5 gallons more, how many gallons will there be in total?"}
+{"question": "At a birthday party, Sarah and her friends consumed 3.5 liters of orange juice and 3.5 liters of apple juice. How much juice did they drink in total?"}
+{"question": "During a movie night, Tom and his buddies had 1.25 gallons of popcorn and 1.25 gallons of candy. What was the total amount of snacks they enjoyed?"}
+{"question": "At a barbecue, Emily and her guests devoured 4.1 pounds of chicken wings and 4.1 pounds of sausages. What is the total weight of the food they consumed?"}
+{"question": "At a picnic, Jake and his family had 5.75 cups of lemonade and 5.75 cups of iced tea. How many cups of drinks did they have altogether?"}
+{"question": "During a family gathering, Lisa and her relatives drank 2.0 liters of grape soda and 2.0 liters of ginger ale. How much soda was consumed in total?"}
+{"question": "At a sleepover, Kevin and his friends shared 3.2 gallons of milkshake and 3.2 gallons of chocolate milk. What is the overall quantity of beverages they drank?"}
+{"question": "Dr. Smith measured 2 objects for a study. The block of steel weighed 15.444444444444445 pounds and the block of plastic weighed 1.5555555555555556 pounds. How much heavier was the block of steel than the block of plastic?"}
+{"question": "Ms. Johnson assessed 2 samples for research. The piece of copper weighed 5.666666666666667 pounds and the piece of nickel weighed 0.3333333333333333 pounds. What is the weight difference between the piece of copper and the piece of nickel?"}
+{"question": "Mr. Thompson checked 2 materials for an analysis. The sheet of lead weighed 9.88888888888889 pounds and the sheet of rubber weighed 0.1111111111111111 pounds. How much more did the sheet of lead weigh compared to the sheet of rubber?"}
+{"question": "Professor Martin evaluated 2 substances for an experiment. The chunk of titanium weighed 20.22222222222222 pounds and the chunk of glass weighed 0.7777777777777778 pounds. By how much did the chunk of titanium exceed the chunk of glass in weight?"}
+{"question": "Dr. Robinson analyzed 2 elements for a project. The slab of zinc weighed 8.444444444444445 pounds and the slab of wood weighed 1.5555555555555556 pounds. What is the weight difference between the slab of zinc and the slab of wood?"}
+{"question": "Ms. Lee surveyed 2 items for a comparison. The ingot of manganese weighed 12.333333333333334 pounds and the ingot of mercury weighed 0.6666666666666666 pounds. How much more did the ingot of manganese weigh than the ingot of mercury?"}
+{"question": "Mr. White checked 2 elements for a study. The piece of molybdenum weighed 6.444444444444445 pounds and the piece of graphite weighed 0.5555555555555556 pounds. What is the difference in weight between the piece of molybdenum and the piece of graphite?"}
+{"question": "During a project on landslides, a geography class studied the shift of a nearby slope. The slope moved 2.0 feet this past season and 3.5 feet the previous season. How far did the slope move in total?"}
+{"question": "In a unit about river erosion, a biology class is examining the changes in a local riverbank. The riverbank eroded 4.0 inches in the last month and 2.75 inches the month before. What is the total erosion of the riverbank?"}
+{"question": "As part of a lesson on glacier movement, an environmental science class is tracking a glacier's retreat. The glacier retreated 10 meters this year and 15 meters last year. How much has the glacier retreated altogether?"}
+{"question": "In a study of volcanic activity, a geology class is measuring the movement of a nearby volcano's magma chamber. The chamber expanded by 5 cm this quarter and by 8 cm last quarter. How much did the magma chamber expand in total?"}
+{"question": "While studying tsunamis, an oceanography class is investigating the rise of sea levels in a coastal area. The sea level rose 3.0 inches last year and 1.5 inches the year before. What is the total increase in sea level?"}
+{"question": "For a lesson on plate tectonics, a geology class is researching the displacement of a tectonic plate. The plate shifted 0.75 meters this year and 1.25 meters last year. What is the total displacement of the plate?"}
+{"question": "In a project on soil erosion, an agriculture class analyzed the loss of soil in a field. The soil eroded by 0.5 feet last month and by 1.0 feet the month before. How much soil was lost in total?"}
+{"question": "As part of their studies on weather patterns, a meteorology class is recording the change in temperature over two years. The temperature dropped by 2.5 degrees this year and 3.5 degrees last year. What is the overall temperature change?"}
+{"question": "Hoping to earn Employee of the Month, Jake reviewed the records from 12.3 files last week. This week, he checked the entries in another 9.5 files. How many files worth of records did Jake review in total?"}
+{"question": "Aiming to win the Best Server title, Maria took orders from 15.4 tables last weekend. This weekend, she served customers at another 7.8 tables. How many tables worth of customers did Maria serve altogether?"}
+{"question": "Aspiring to achieve Top Performer status, John contacted clients from 11.7 emails last week. This week, he reached out to clients from another 6.4 emails. How many emails worth of clients did John contact in total?"}
+{"question": "Wishing to be recognized as Employee of the Year, Laura processed applications from 14.2 forms last month. This month, she handled applications from another 10.1 forms. How many forms worth of applications did Laura process overall?"}
+{"question": "Determined to be named Rising Star, Kevin logged reviews from 13.8 products last week. This week, he evaluated reviews from another 8.3 products. How many products worth of reviews did Kevin log in total?"}
+{"question": "Desiring to be Pitch of the Month, Sophie created presentations for 9.9 projects last week. This week, she developed presentations for another 5.4 projects. How many projects worth of presentations did Sophie create altogether?"}
+{"question": "At the park, Tom and his friend both made kites and then measured their widths. Tom's kite was 4.5 feet wide and his friend's was 3.0 feet wide. How much wider was Tom's kite than his friend's?"}
+{"question": "In the garden, Lucy and her brother both grew tomato plants and then measured their heights. Lucy's plant was 5.2 feet tall and her brother's was 4.1 feet tall. How much taller was Lucy's plant than her brother's?"}
+{"question": "Emily discovered a blue snail and a purple snail in her garden. The purple snail was 4 inches long and the blue snail was 1.5 inches long. How much longer was the purple snail than the blue snail?"}
+{"question": "Mark observed a yellow worm and a red worm in his park. The red worm measured 5.2 inches and the yellow worm measured 2.75 inches. How much longer was the red worm than the yellow worm?"}
+{"question": "Samantha spotted a black ant and a brown ant on her picnic table. The black ant was 2.4 inches long and the brown ant was 1.3 inches long. How much longer was the black ant than the brown ant?"}
+{"question": "John found a striped snake and a solid color snake in his backyard. The solid color snake was 6.5 inches long and the striped snake was 3.25 inches long. How much longer was the solid color snake than the striped snake?"}
+{"question": "Lisa encountered a tiny frog and a large frog in her garden. The large frog was 7 inches long and the tiny frog was 2.1 inches long. How much longer was the large frog than the tiny frog?"}
+{"question": "Steve noticed a brown lizard and a green lizard in his yard. The green lizard was 4.8 inches long while the brown lizard was 2 inches long. How much longer was the green lizard than the brown lizard?"}
+{"question": "Rachel saw a small fish and a big fish in the pond. The big fish measured 9 inches while the small fish was 3.5 inches long. How much longer was the big fish than the small fish?"}
+{"question": "Tom discovered a long beetle and a short beetle in his workshop. The long beetle was 3.8 inches long and the short beetle was 1.9 inches long. How much longer was the long beetle than the short beetle?"}
+{"question": "Alec and his friends consumed 2.5 liters of soda on Friday and 0.75 liters on Saturday. How much soda did they drink altogether?"}
+{"question": "Alec and his classmates finished 4.1 kilograms of pasta on Thursday and 1.3 kilograms on Friday. What is the total amount of pasta they ate?"}
+{"question": "Alec and his family had 1.5 gallons of juice on Sunday and 0.5 gallon on Monday. What is the combined quantity of juice they enjoyed?"}
+{"question": "A gardener began the week with 15.5 bags of soil. After spending the afternoon planting flowers, she now has 10 bags. How many bags of soil did the gardener use for planting?"}
+{"question": "A baker started the day with 20.25 pounds of flour. After preparing pastries, she now has 14 pounds left. How many pounds of flour did the baker use for the pastries?"}
+{"question": "A cook entered the kitchen with 12 liters of oil. After frying food, she now has 8 liters remaining. How many liters of oil did the cook use for frying?"}
+{"question": "A painter started with 10.5 liters of paint. After finishing several walls, she now has 7 liters left. How many liters of paint did the painter use?"}
+{"question": "A teacher had 30 notebooks at the beginning of the semester. After distributing some to her students, she now has 22 notebooks. How many notebooks did the teacher give out?"}
+{"question": "A traveler began their journey with 50.75 liters of water. After hiking all day, they discovered they now have 30 liters left. How many liters of water did the traveler drink?"}
+{"question": "Alice just bought a new chair for her dining room. The old chair was 2 feet tall and the new chair is 3.5 feet tall. How much taller is the new chair than the old chair?"}
+{"question": "Mark recently purchased a new bookshelf for his living room. The old bookshelf was 4 feet tall and the new bookshelf is 6.25 feet tall. How much taller is the new bookshelf than the old bookshelf?"}
+{"question": "Sara got a new plant stand for her patio. The old plant stand was 1.5 feet tall and the new plant stand is 3 feet tall. How much taller is the new plant stand than the old plant stand?"}
+{"question": "John just installed a new flagpole in his yard. The old flagpole was 10 feet tall and the new flagpole is 12.75 feet tall. How much taller is the new flagpole than the old flagpole?"}
+{"question": "Emily upgraded to a new office desk. The old desk was 2.5 feet tall and the new desk is 3.8 feet tall. How much taller is the new desk than the old desk?"}
+{"question": "Tom recently bought a new stool for his kitchen. The old stool was 1.75 feet tall and the new stool is 2.5 feet tall. How much taller is the new stool than the old stool?"}
+{"question": "Rachel just acquired a new display case for her collectibles. The old display case was 3 feet tall and the new display case is 5.5 feet tall. How much taller is the new display case than the old display case?"}
+{"question": "Lucas chose a new pedestal for his sculpture. The old pedestal was 2 feet tall and the new pedestal is 4.1 feet tall. How much taller is the new pedestal than the old pedestal?"}
+{"question": "Liam painted a red fence that was 12.5 feet long. Then he painted a green fence that was 6.75 feet long. How much longer was the red fence than the green fence?"}
+{"question": "Sophie knitted a scarf that was 15.0 meters long. Then she knitted a hat that was 8.25 meters long. How much longer was the scarf than the hat?"}
+{"question": "Jack crafted a wooden table that was 9.8 feet wide. Then he crafted a wooden chair that was 4.4 feet wide. How much wider was the table than the chair?"}
+{"question": "Mia drew a yellow line that was 10.5 inches long. Then she drew a purple line that was 5.9 inches long. How much longer was the yellow line than the purple line?"}
+{"question": "Noah built a brick wall that was 20.2 meters tall. Then he built a smaller wall that was 15.1 meters tall. How much taller was the brick wall than the smaller wall?"}
+{"question": "Olivia grew a sunflower that was 18.3 inches tall. Then she grew a daisy that was 10.7 inches tall. How much taller was the sunflower than the daisy?"}
+{"question": "Ava baked a cake that was 30.0 centimeters wide. Then she baked cookies that were 18.5 centimeters wide. How much wider was the cake than the cookies?"}
+{"question": "Ethan ran a track that was 25.0 kilometers long. Then he ran a shorter track of 18.3 kilometers. How much longer was the first track than the shorter track?"}
+{"question": "A plumber purchased a pipe that was 2.5 meters long. Afterward, he cut off 1.2 meters from the length. What is the current length of the pipe?"}
+{"question": "A chef bought a piece of cheese measuring 1.2 kilograms. Then, he sliced off 0.5 kilograms for a recipe. How much cheese is left now?"}
+{"question": "Emma measured 2 fruit during a cooking class. The apple weighed 4 pounds and the banana weighed 1.5 pounds. If Emma places both fruits on the scale at the same time, what will the scale read?"}
+{"question": "Liam weighed 2 different books during a library session. The novel weighed 2.5 pounds and the textbook weighed 5.3 pounds. If Liam places both books on the scale at the same time, what will the scale read?"}
+{"question": "Sophia weighed 2 pieces of jewelry in her art class. The necklace weighed 0.8 pounds and the bracelet weighed 0.3 pounds. If Sophia places both pieces on the scale at the same time, what will the scale read?"}
+{"question": "James measured 2 containers of liquids in a chemistry lab. The bottle of water weighed 2 liters and the bottle of oil weighed 1.2 liters. If James places both bottles on the scale at the same time, what will the scale read?"}
+{"question": "Olivia weighed 2 plants during a gardening workshop. The potted fern weighed 3 pounds and the small cactus weighed 0.5 pounds. If Olivia places both plants on the scale at the same time, what will the scale read?"}
+{"question": "Ava measured 2 types of fabric during a sewing class. The cotton fabric weighed 4.5 pounds and the silk fabric weighed 1.2 pounds. If Ava places both fabrics on the scale at the same time, what will the scale read?"}
+{"question": "Noah weighed 2 toys during playtime. The stuffed animal weighed 2.2 pounds and the toy car weighed 1.5 pounds. If Noah places both toys on the scale at the same time, what will the scale read?"}
+{"question": "A squirrel gathered 1.2 pounds of nuts, but a bird took 0.3 pounds of them. How many nuts are left?"}
+{"question": "A farmer harvested 2.5 gallons of milk, but the cat drank 0.2 gallons. How much milk is still available?"}
+{"question": "It rained 1.25 inches on Wednesday and 0.75 inches on Thursday. How much did it rain on Wednesday and Thursday combined?"}
+{"question": "There was 2.1 feet of snowfall on Saturday and 1.5 feet on Sunday. What is the total snowfall for Saturday and Sunday?"}
+{"question": "Alex had 12.5 pounds of flour, and he used 3.7 pounds of it to bake cookies. How much is left?"}
+{"question": "Jordan purchased 15.0 liters of milk, and he spilled 6.4 liters of it on the counter. How much is remaining?"}
+{"question": "Samantha collected 20.3 kilograms of apples, and she dropped 8.6 kilograms of them while carrying. How much is there now?"}
+{"question": "Michael bought 7.5 meters of fabric, and he cut off 2.8 meters to make a dress. How much fabric does he have left?"}
+{"question": "Olivia obtained 10.2 gallons of paint, and she accidentally spilled 4.9 gallons while pouring. How much paint is still available?"}
+{"question": "A baker purchased 0.25 liters of milk and 0.50 liters of cream. How many liters of dairy did the baker buy in total?"}
+{"question": "A delivery van carrying 10.5 gallons of water drives to a destination and spills 3.2 gallons during the trip. How much water does the van have when it reaches the destination?"}
+{"question": "A cargo ship loaded with 15.7 tons of gravel sails to a port and loses 5.5 tons of gravel at sea. How much gravel does the ship have upon arrival at the port?"}
+{"question": "A bus transporting 30 passengers departs for a station and drops off 12 passengers along the route. How many passengers are left on the bus when it arrives at the station?"}
+{"question": "A farmer harvesting 25 bushels of apples heads to a market and gives away 8 bushels to a neighbor. How many bushels of apples does the farmer have left when he arrives at the market?"}
+{"question": "Jamie was 5.2 feet tall. Then she grew 1.75 feet taller. How tall is Jamie now?"}
+{"question": "Alex was 6.0 feet tall. Then he grew 3.1 feet taller. How tall is Alex now?"}
+{"question": "Sam was 4.9 feet tall. Then he grew 2.5 feet taller. How tall is Sam now?"}
+{"question": "Lila was 3.8 feet tall. Then she grew 2.2 feet taller. How tall is Lila now?"}
+{"question": "Chris was 5.5 feet tall. Then he grew 2.95 feet taller. How tall is Chris now?"}
+{"question": "A baker had a loaf of bread that was 15.6 centimeters wide. Then he sliced off 4.1 centimeters. How wide is the loaf of bread now?"}
+{"question": "An artist purchased a canvas measuring 12.5 centimeters tall. After painting, she trimmed 3.7 centimeters from the bottom. What is the height of the canvas now?"}
+{"question": "A tailor bought a piece of fabric that was 10.2 centimeters long. He cut off 2.5 centimeters for a project. How long is the fabric now?"}
+{"question": "A gardener had a flower stem measuring 20.4 centimeters. He pruned 5.6 centimeters off the top. What is the length of the stem now?"}
+{"question": "A chef had a stick of butter that was 250 grams. He used 75 grams for a recipe. How much butter remains now?"}
+{"question": "Sara collected 72 marbles and 38 coins during her trip. She decided to give away 45 of the marbles to her friend. How many marbles does Sara have left?"}
+{"question": "Liam gathered 50 toy cars and 33 action figures at a fair. He sold 20 of the toy cars to a collector. How many toy cars does Liam now possess?"}
+{"question": "Ella picked 80 apples and 25 oranges from her family's orchard. She donated 30 apples to a local charity. How many apples are left with Ella?"}
+{"question": "Noah found 90 stickers and 60 stamps in his collection. He traded 55 of the stickers with his classmate. How many stickers does Noah have remaining?"}
+{"question": "Lisa had 120 marbles, and 10 were damaged. John picked up 25 of Lisa's marbles. How many marbles does Lisa have now?"}
+{"question": "There are 250 pencils and 300 markers in the box. Sarah added 150 pencils to the box. How many pencils are now there in total?"}
+{"question": "In the library, there are 400 books and 220 magazines. Tom donated 75 books to the library. What is the total number of books now?"}
+{"question": "There are 80 notebooks and 150 folders on the shelf. Lisa brought in 40 notebooks. How many notebooks are there now?"}
+{"question": "In the classroom, there are 90 chairs and 60 tables. Mark set up 30 more chairs. What is the total number of chairs in the classroom now?"}
+{"question": "There are 600 candies and 200 chocolates in the jar. Emily added 100 candies to the jar. How many candies are there now?"}
+{"question": "At the park, there are 150 trees and 90 benches. Kevin planted 50 new trees. How many trees are there in total now?"}
+{"question": "There are 350 stamps and 200 coins in the album. Anna placed 75 stamps into the album. How many stamps are now in the album?"}
+{"question": "Alex had 520 baseball cards, and 15 were damaged. Tom bought 200 of Alex's baseball cards. How many baseball cards does Alex have now?"}
+{"question": "Emily owned 800 marbles, and 10 were broken. Mark purchased 100 of Emily's marbles. How many marbles does Emily have left?"}
+{"question": "David collected 450 comic books, and 5 were ripped. Lisa got 50 of David's comic books. How many comic books does David have remaining?"}
+{"question": "John harvested 75 carrots and 82 beets. Lisa harvested 90 carrots. How many carrots did they grow in total?"}
+{"question": "Tom collected 45 apples and 60 oranges. Anna collected 55 apples. How many apples did they grow in total?"}
+{"question": "Michael picked 100 grapes and 150 strawberries. Emily picked 120 grapes. How many grapes did they grow in total?"}
+{"question": "Danny grew 80 cucumbers and 90 zucchinis. Katie grew 100 cucumbers. How many cucumbers did they grow in total?"}
+{"question": "Oliver produced 150 watermelons and 200 tomatoes. Ava produced 175 watermelons. How many watermelons did they grow in total?"}
+{"question": "Liam cultivated 60 peppers and 70 eggplants. Sophia cultivated 85 peppers. How many peppers did they grow in total?"}
+{"question": "Sarah's basketball team played 720 games this season, 150 of the games were held on weekends. She attended 400 games. How many basketball games did Sarah miss?"}
+{"question": "Michael's soccer club competed in 500 matches this year, 75 of the matches were played under floodlights. He managed to attend 280 matches. How many soccer matches did Michael miss?"}
+{"question": "Emily's swim team participated in 300 events this year, 60 of which took place in the evening. She was present at 200 events. How many swim events did Emily miss?"}
+{"question": "David's football league had 400 games this year, 90 were played in the afternoon. He watched 250 games. How many football games did David miss?"}
+{"question": "Lisa's volleyball team played 600 matches this season, with 100 matches occurring at night. She attended 325 matches. How many volleyball matches did Lisa miss?"}
+{"question": "Tom's track and field team had 150 meets this year, with 20 of those meets being held at night. He attended 80 meets. How many track meets did Tom miss?"}
+{"question": "This year there were 10 basketball matches, 6 were played on weekends. Sarah attended 6 of the matches. How many basketball matches did Sarah miss in total?"}
+{"question": "In a season, there were 12 soccer tournaments, with 5 held in the afternoon. Mark participated in 7 of the tournaments. How many soccer tournaments did Mark skip in total?"}
+{"question": "There are 7 apples and 3 oranges in the basket. Tom took 2 apples out of the basket. How many apples are there now?"}
+{"question": "There are 10 books and 5 notebooks on the shelf. Lisa borrowed 3 books from the shelf. How many books are there now?"}
+{"question": "Emily has 10 green apples and 5 yellow apples. She gave away 2 of the green apples. How many green apples does Emily have now?"}
+{"question": "Mark owns 12 toy cars and 3 toy trucks. He lost 5 of the toy cars. How many toy cars does Mark have now?"}
+{"question": "Sarah received 8 blue marbles and 6 orange marbles. She accidentally dropped 4 of the blue marbles. How many blue marbles does Sarah have left?"}
+{"question": "David possesses 15 comic books and 7 magazines. He sold 3 of the comic books. How many comic books does David have remaining?"}
+{"question": "Laura collected 9 seashells and 2 starfish. She gave away 1 of the seashells. How many seashells does Laura have now?"}
+{"question": "Michael has 14 game pieces and 5 scorecards. He lost 6 of the game pieces. How many game pieces does Michael have now?"}
+{"question": "Sarah had 10 apples and 5 oranges in her kitchen. The birds ate 3 of the apples. How many apples does Sarah now have?"}
+{"question": "John had 15 cookies and 6 brownies on the table. The kids ate 5 of the cookies. How many cookies does John now have?"}
+{"question": "Emily had 20 pencils and 10 erasers in her bag. The wind blew away 8 of the pencils. How many pencils does Emily now have?"}
+{"question": "Michael had 12 bananas and 3 pineapples in the fruit basket. The monkeys took 2 of the bananas. How many bananas does Michael now have?"}
+{"question": "Jessica had 18 books and 4 magazines on her shelf. She donated 6 of the books. How many books does Jessica now have?"}
+{"question": "David had 25 marbles and 10 cards in his collection. He lost 5 of the marbles. How many marbles does David now have?"}
+{"question": "Linda had 14 flowers and 7 plants in her garden. The squirrels dug up 3 of the flowers. How many flowers does Linda now have?"}
+{"question": "Samantha collected 10 rocks and 5 pebbles, but 3 of the rocks were chipped. How many intact rocks did Samantha collect?"}
+{"question": "Tom picked 8 apples and 3 oranges, but 2 of the apples were bruised. How many good apples did Tom pick?"}
+{"question": "For his bike, Jake spent $85.67 on a new seat and $42.99 on a helmet. Jake wanted lights for $15.25 but chose not to. In total, how much did Jake spend on bike accessories?"}
+{"question": "For her computer, Sarah spent $200.50 on a graphics card and $150.75 on additional RAM. Sarah wanted a new keyboard for $29.99 but decided against it. In total, how much did Sarah spend on computer upgrades?"}
+{"question": "There were 25 apples in the basket and 18 apples in the fridge. Sarah added apples to the basket today. There are now 40 apples in the basket. How many apples did she add to the basket?"}
+{"question": "There were 15 chairs in the dining room and 20 chairs in the storage. Mark brought chairs into the dining room today. There are now 30 chairs in the dining room. How many chairs did he bring into the dining room?"}
+{"question": "There were 50 books on the shelf and 10 books in the box. Lisa put books on the shelf today. There are now 70 books on the shelf. How many books did she put on the shelf?"}
+{"question": "There were 60 cookies in the jar and 30 cookies in the box. David put cookies in the jar today. There are now 100 cookies in the jar. How many cookies did he put in the jar?"}
+{"question": "There were 40 toys in the closet and 25 toys in the playroom. Emily moved toys to the closet today. There are now 70 toys in the closet. How many toys did she move to the closet?"}
+{"question": "Last month Sarah had 15 euros and Mark had 30 euros. Sarah sold cookies over the week and now has 70 euros. How much money did Sarah make selling cookies?"}
+{"question": "There were 8 blue roses and 5 yellow roses in the bouquet. Mark picked some blue roses from his backyard. There are now 18 blue roses in the bouquet. How many blue roses did he pick?"}
+{"question": "There were 12 green ferns and 4 purple ferns in the pot. Lisa trimmed some green ferns from her garden. There are now 22 green ferns in the pot. How many green ferns did she trim?"}
+{"question": "Alice picked 3 flowers and Bob picked 4 flowers in the garden. When they sorted them, they discovered that 5 were wilted. How many flowers did they pick together?"}
+{"question": "Emma collected 6 rocks and Liam collected 2 rocks during their hike. When they examined them, they found that 4 were chipped. How many rocks did they collect together?"}
+{"question": "A bakery sold 10 loaves of bread in the morning and 4 in the evening today. It sold 6 of them yesterday. How many loaves of bread were sold today?"}
+{"question": "Alice attended 5 basketball matches this season, but skipped 6. She participated in 10 matches last season. How many basketball matches did Alice attend in total?"}
+{"question": "Lisa's dog had puppies and 3 were brown. She gave 6 to Sarah and 2 to Mark. She now has 4 puppies. How many puppies did she have to start with?"}
+{"question": "Tom's bird had chicks and 4 were yellow. He gave 5 to Emily and 3 to John. He now has 2 chicks. How many chicks did he have to start with?"}
+{"question": "Rachel's rabbit had bunnies and 6 were white. She gave 8 to Alex and 1 to Fiona. She now has 3 bunnies. How many bunnies did she have to start with?"}
+{"question": "Michael's turtle had hatchlings and 2 were green. He gave 4 to Sam and 5 to Chris. He now has 1 hatchling. How many hatchlings did he have to start with?"}
+{"question": "Anna's hamster had pups and 5 were spotted. She gave 3 to Kevin and 2 to Mia. She now has 6 pups. How many pups did she have to start with?"}
+{"question": "There are 10 apples in the basket and 5 apples on the table. Alex added 3 apples and 2 oranges on the table. How many apples are there in total?"}
+{"question": "There are 9 books on the shelf and 2 books on the desk. Maria put 4 books and 3 notebooks on the desk. How many books are now there in total?"}
+{"question": "Mark attended 10 basketball matches this week. He went to 6 matches last week, and intends to go to 5 matches next week. He spent 4 dollars on the tickets. How many matches will he attend in total?"}
+{"question": "Emily collected 5 pebbles, Nathan collected 9 pebbles, and Sarah collected 6 pebbles at the river. After sorting them, they found that 2 were broken. How many pebbles did they collect together?"}
+{"question": "Liam gathered 10 leaves, Mia gathered 4 leaves, and Noah gathered 3 leaves in the park. When they counted them, they noticed that 1 was dried out. How many leaves did they gather together?"}
+{"question": "Sophie picked 12 flowers, Jack picked 5 flowers, and Ava picked 8 flowers from the garden. When they arranged them, they realized that 4 were wilted. How many flowers did they pick together?"}
+{"question": "Lucas found 15 rocks, Emma found 7 rocks, and Oliver found 4 rocks at the lake. When they examined their finds, they discovered that 3 were chipped. How many rocks did they find together?"}
+{"question": "Sarah baked 3 cakes, John baked 5 cakes, and Emily baked 7 cakes. They worked for 4 hours in the kitchen. How many cakes did they bake in total?"}
+{"question": "Tom has 3 red apples, Lucy has 4 red apples, and Jake has 5 red apples. The apples cost 2 dollars. How many red apples do they have in total?"}
+{"question": "Anna has 8 green marbles, Paul has 9 green marbles, and Lisa has 10 green marbles. The marbles cost 3 dollars. How many green marbles do they have in total?"}
+{"question": "Mike has 2 blue cars, Sarah has 4 blue cars, and John has 5 blue cars. The cars cost 20 dollars. How many blue cars do they have in total?"}
+{"question": "Emily has 10 pink flowers, Noah has 12 pink flowers, and Sophie has 13 pink flowers. The flowers cost 1 dollar. How many pink flowers do they have in total?"}
+{"question": "Kyle has 1 orange cat, Rachel has 2 orange cats, and Liam has 3 orange cats. The cats cost 15 dollars. How many orange cats do they have in total?"}
+{"question": "Grace has 5 black shoes, Ethan has 7 black shoes, and Mia has 6 black shoes. The shoes cost 25 dollars. How many black shoes do they have in total?"}
+{"question": "There are 15 apples and 10 oranges in the basket. Lisa added 5 apples to the basket. How many apples are now there in total?"}
+{"question": "There are 30 books and 25 notebooks on the shelf. Mark donated 10 books to the shelf. How many books are now there in total?"}
+{"question": "There are 50 chairs and 40 tables in the room. Sarah brought in 15 more chairs. How many chairs are now there in total?"}
+{"question": "There are 18 cats and 9 dogs in the kennel. John adopted 4 cats from the kennel. How many cats are now there in total?"}
+{"question": "Tom has 30 red and 15 yellow balloons. Jerry has 18 red balloons. How many red balloons do they have in total?"}
+{"question": "Laura has 12 purple and 19 pink balloons. Mark owns 27 purple balloons. What is the total number of purple balloons they possess?"}
+{"question": "Ella has 10 orange and 22 black balloons. Mark has 14 orange balloons. How many orange balloons do they collectively have?"}
+{"question": "John collected 45 baseball cards, and 8 were damaged. Alex gave John 15 new baseball cards. How many baseball cards does John have now?"}
+{"question": "Sarah owned 50 trading cards, and 10 of them were bent. Mark gifted Sarah 30 more trading cards. How many trading cards does Sarah have now?"}
+{"question": "Tom started with 40 comic books, and 5 were ripped. Lucy sent Tom 20 additional comic books. How many comic books does Tom have now?"}
+{"question": "Anna had 60 stickers, and 12 were ruined. Ben presented Anna with 25 new stickers. How many stickers does Anna have now?"}
+{"question": "Lisa attended 20 soccer matches this season, but missed 25. She went to 30 matches last season. How many soccer matches did Lisa attend in total?"}
+{"question": "Sam collected 30 apples, Mia collected 50 apples, and Liam collected 20 apples. They spent 40 days harvesting in the orchard. How many apples did they collect in total?"}
+{"question": "Jamie attended 8 concerts this year, but missed 10. She attended 9 concerts last year and plans to attend 12 concerts next year. How many concerts will Jamie attend in total?"}
+{"question": "Michael participated in 5 workshops this year, but missed 7. He participated in 6 workshops last year and plans to participate in 8 workshops next year. How many workshops will Michael participate in altogether?"}
+{"question": "There are 25 notebooks in the bag and 15 notebooks on the table. Jordan added 20 notebooks and 10 pencils to the table. How many notebooks are now there in total?"}
+{"question": "Alice has 12 blue marbles, Bob has 34 blue marbles, and Charlie has 22 blue marbles. The marbles cost 5 dollars. How many blue marbles do they have in total?"}
+{"question": "Sarah has 5 green apples, Tom has 18 green apples, and Jerry has 9 green apples. The apples cost 2 dollars. How many green apples do they have altogether?"}
+{"question": "There were 3 blue tulips and 5 yellow tulips in the pot. Mark picked some blue tulips from his garden. There are now 15 blue tulips in the pot. How many blue tulips did he pick?"}
+{"question": "There were 4 purple lilies and 6 pink lilies in the basket. Sarah gathered some purple lilies from her yard. There are now 20 purple lilies in the basket. How many purple lilies did she gather?"}
+{"question": "There were 15 boxes of oranges in the warehouse and 40 boxes in the storage room. Emily delivered more boxes to the warehouse today. There are now 75 boxes of oranges in the warehouse. How many boxes did she deliver to the warehouse?"}
+{"question": "There were 20 crates of apples in the market and 50 crates in the stockroom. Mark added crates to the market today. There are now 90 crates of apples in the market. How many crates did he add to the market?"}
+{"question": "There are 6 notebooks and 2 erasers on the shelf. Sarah added 5 notebooks to the shelf. How many notebooks are now there in total?"}
+{"question": "There are 8 chairs and 4 tables in the room. Mark brought in 3 chairs. How many chairs are now there in total?"}
+{"question": "There are 10 apples and 5 oranges in the basket. Lisa added 7 apples to the basket. How many apples are now there in total?"}
+{"question": "Jordan's dog had 6 puppies and 4 were brown. He sold 2 to his neighbors. How many puppies does he now have?"}

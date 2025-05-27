@@ -17,7 +17,7 @@ def api_get_tokens(api_name,input_text,res_dict,output_fout,logger,model,tokeniz
 
     # client = OpenAI(
     #         base_url="https://api.pumpkinaigc.online/v1",
-    #         api_key="sk-CLbpLAbwDluA50IjD9D5D39a439c428c9e7eD3D9355b7414"  # args.api_key_1106
+    #         api_key="********"  # args.api_key_1106
     #     )
 
     # while True:

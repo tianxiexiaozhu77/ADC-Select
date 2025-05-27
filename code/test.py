@@ -21,7 +21,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 client = OpenAI(
         base_url="https://www.gptapi.us/v1",
-        api_key="sk-BzRCbeyJsTdHXlK19c692e0619744aBfBcB8C58fD653Dc7d"
+        api_key="********"
     )
 
 def get_Cot_generation_prompt(dataset_name,question,option,answer):

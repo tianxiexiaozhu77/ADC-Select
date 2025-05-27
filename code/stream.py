@@ -23,7 +23,7 @@ random.seed(42)
 
 client = OpenAI(
         base_url="https://www.gptapi.us/v1",
-        api_key="sk-BzRCbeyJsTdHXlK19c692e0619744aBfBcB8C58fD653Dc7d"
+        api_key="********"
         # api_key="sk-FOEU2G0AJjUv8ROtA883A69f70A947A8Bf340511D8B0053e"
     )
 

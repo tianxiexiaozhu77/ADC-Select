@@ -18,7 +18,7 @@ random.seed(42)
 
 client = OpenAI(
         base_url="https://api.pumpkinaigc.online/v1",
-        api_key="sk-CLbpLAbwDluA50IjD9D5D39a439c428c9e7eD3D9355b7414"
+        api_key="********"
     )
 
 # embedding model

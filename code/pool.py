@@ -31,7 +31,7 @@ class Pool(object):
         self.option_list = []
         self.IE_dict = {}
         self.client = OpenAI(base_url="https://www.gptapi.us/v1", 
-        api_key="sk-BzRCbeyJsTdHXlK19c692e0619744aBfBcB8C58fD653Dc7d")#"sk-BzRCbeyJsTdHXlK19c692e0619744aBfBcB8C58fD653Dc7d")
+        api_key="********")#"********")
         
         # embedding
         self.model_path = '/opt/data/private/zyc/Models/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2'

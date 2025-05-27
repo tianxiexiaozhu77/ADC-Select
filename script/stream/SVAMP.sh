@@ -22,7 +22,7 @@ echo $save_file
 nohup python code/stream.py \
     --dataset $DATASET \
     --api_name $api_name \
-    --api_key_1106 sk-CLbpLAbwDluA50IjD9D5D39a439c428c9e7eD3D9355b7414 \
+    --api_key_1106 ******** \
     --train_path  $TRAIN_PATH \
     --test_path  $TEST_PATH \
     --threshold $THRESHOLD \

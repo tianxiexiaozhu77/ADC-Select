@@ -25,7 +25,7 @@ random.seed(42)
 
 client = OpenAI(
         base_url="https://www.gptapi.us/v1",
-        api_key="sk-BzRCbeyJsTdHXlK19c692e0619744aBfBcB8C58fD653Dc7d"
+        api_key="********"
     )
 
 # embedding model
@@ -239,12 +239,20 @@ def cot_sc(args, questions, options, model,tokenizer, times=5):
                             response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0].replace("\n", " ")
                             if response.rstrip()[-1] != "}":
                                 response = response + '}'
-                            res = eval(response)                       
-        
-                        # break
-                            new_dict["cot"] = str(res["Reasoning"])
-                            new_dict["answer"]=res["Answer"]
-                            break
+                            res = eval(response)
+
+                            reasoning = str(res["Reasoning"]) 
+                            if args.dataset == "AQuA":
+                                
+                                pattern = re.search(r"answer is\s*([A-E])\b", reasoning, re.IGNORECASE) # 匹配：the answer is A 或 B 或 C 或 D 或 E，可带前后空格和标点
+                            else:
+                                pattern = re.search(r"answer is\s*(\d+(?:\.\d+)?)", reasoning, re.IGNORECASE) # 匹配：the answer is 11.8 或 42 等数字（整数或小数）
+
+                            if pattern:
+                                answer_end = pattern.end()   # 截断到答案位置为止（含 "the answer is ..."）
+                                return reasoning[:answer_end].strip()
+                            else:
+                                continue
                         except Exception as e:
                             print('Llama','COT')
                             print(response)

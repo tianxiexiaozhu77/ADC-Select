@@ -5,17 +5,18 @@ import jsonlines
 import argparse
 import numpy as np
 import os
+import openai
 import time
 from difflib import SequenceMatcher
-
+from api_service import api_get_tokens
 
 # 获取命令行参数
 def get_args():  
     parser = argparse.ArgumentParser()
     parser.add_argument('--model', type=str, default='chatgpt')
-    parser.add_argument("--dataset", type=str, default="GSM8K",
+    parser.add_argument("--dataset", type=str, default="CSQA",
                         choices=["AQuA","GSM8K", "MultiA", "Addsub", "MathQA", "CSQA", "Strategyqa", "date_understanding","MAWPS","ASDIV","SVAMP"])
-    parser.add_argument('--data_path', type=str, default='/opt/data/private/zjx/ICL/inform/new_data/GSM8K/zjx/inference_con_4omini/GSM8K_gpt-4o-mini_IE_instance.jsonl')
+    parser.add_argument('--data_path', type=str, default='data/output/CSQA_chatgpt_None.jsonl')
     parser.add_argument('--type', type=str, default='all')
     parser.add_argument('--api_key', type=str, default='')
     parser.add_argument('--iesc', default=False) # 是否开启Self-Consistency
@@ -177,12 +178,12 @@ def pred_answer_cleansing(args, pred):
         return ""
     elif args.dataset in ["GSM8K", "Addsub", "MultiA",]:  # "SVAMP"
         res=''
-        match1 = re.search(r"answer is (.*)", pred)
-        if match1 :
-            answer = match1.group(1)
-            match2 = re.search(r'\((.*?)\)', answer)
-            if match2:
-                res = match2.group(1)
+        # match1 = re.search(r"answer is (.*)", pred)
+        # if match1 :
+        #     answer = match1.group(1)
+        #     match2 = re.search(r'\((.*?)\)', answer)
+        #     if match2:
+        #         res = match2.group(1)
         if len(res)==0 :
             pred = pred.replace(",", "")
             res = re.findall(r'-?\d+\.?\d*', pred)
@@ -353,7 +354,6 @@ def calcu_accuracy(args):
                         fin.close()
             else:
                 fin=open(file_path,"a",encoding="utf-8")
-                from api_service import api_get_tokens
                 api_get_tokens(args.model,inputs,{"question":item["question"],"pred_answer":None,"prompt":inputs,"idx":done_num},fin,None)
                 done_num+=1
                 process_num_count-=1
@@ -395,8 +395,8 @@ def calcu_accuracy(args):
 
         # 错误日志记录：若exact_match_score=0（即预测错误），则记录错误信息（索引，真实/预测答案，对应prompt）
         global eval_path
-        eval_path = "new_data/error_data/ablation1/" + args.dataset + "_" + args.type + "_" + args.model + "_error_20250513.log"
-        error_data_path = "new_data/error_data/ablation1/" + args.dataset + "_" + args.model + "_20250513.jsonl"
+        eval_path = "new_data/error_data/ablation/" + args.dataset + "_" + args.type + "_" + args.model + "_error.log"
+        error_data_path = "new_data/error_data/ablation/" + args.dataset + "_" + args.model + ".jsonl"
         file_dir = os.path.dirname(eval_path)
         if not os.path.exists(file_dir):
             os.makedirs(file_dir)
@@ -407,7 +407,7 @@ def calcu_accuracy(args):
                     'pred_answer'] + "\nTruth:" + truth + "\nPred:" + pred + "\n\n")
             with jsonlines.open(error_data_path, 'a') as f:
                 res_dict = {}
-                res_dict['prompt'] = item['prompt']
+                # res_dict['prompt'] = item['prompt']
                 res_dict['true_answer'] = item['true_answer']
                 f.write(res_dict)
 
@@ -551,7 +551,6 @@ def calcu_accuracy_test(args):
                 })
             while True:
                 try:
-                    import openai
                     response = openai.ChatCompletion.create(
                         model=args.model,
                         messages=[{'role': 'user', 'content': inputs}],
@@ -588,7 +587,7 @@ def calcu_accuracy_test(args):
                     'pred_answer'] + "\nTruth:" + truth + "\nPred:" + pred + "\n\n")
             with jsonlines.open(error_data_path, 'a') as f:
                 res_dict = {}
-                res_dict['prompt'] = item['prompt']
+                # res_dict['prompt'] = item['prompt']
                 res_dict['true_answer'] = item['true_answer']
                 f.write(res_dict)
 
@@ -632,37 +631,37 @@ def calcu_self_cons_accuracy(args):
     query_list = []         # 存储问题文本
     score_list = []         # 存储问题的信息熵分数
     
-    import pdb;pdb.set_trace()
-    for dataset_len in range(0, len(data)):
-        query = data[dataset_len]['prompt'].split("Question:")[-1].replace("A: Let's think step by step. \n", "")
-        # 遍历数据集每个样本，计算每个问题的信息熵，并将其添加到 score_list 中
-        query_ie = calc_ent(query)
-        query_list.append(query)
-        score_list.append(query_ie)
+    # import pdb;pdb.set_trace()
+    # for dataset_len in range(0, len(data)):
+    #     query = data[dataset_len]['prompt'].split("Question:")[-1].replace("A: Let's think step by step. \n", "")
+    #     # 遍历数据集每个样本，计算每个问题的信息熵，并将其添加到 score_list 中
+    #     query_ie = calc_ent(query)
+    #     query_list.append(query)
+    #     score_list.append(query_ie)
 
-    sc_max = 20
-    sc_min = 5
-    max_score = max(score_list)
-    min_score = min(score_list)
+    # sc_max = 20
+    # sc_min = 5
+    # max_score = max(score_list)
+    # min_score = min(score_list)
 
     avg_size = 0
-    # 对于每个问题，收集不同预测答案，并根据出现的频率来确定最终的预测答案
+    # # 对于每个问题，收集不同预测答案，并根据出现的频率来确定最终的预测答案
     for datalen in range(0, len(data)):
         pred_candi = {}
-        truth = ""
-        pred_list = []
-        # for can_len in range(len(data_list)):
-        #     pred_list.append(data_list[can_len][datalen]['pred_answer'])
-        #     score_list.append(calc_ent(data_list[can_len][datalen]['pred_answer']))
-        #     # query_list.append(data_list[can_len][datalen]['prompt'])
+    #     truth = ""
+    #     pred_list = []
+    #     # for can_len in range(len(data_list)):
+    #     #     pred_list.append(data_list[can_len][datalen]['pred_answer'])
+    #     #     score_list.append(calc_ent(data_list[can_len][datalen]['pred_answer']))
+    #     #     # query_list.append(data_list[can_len][datalen]['prompt'])
 
-        # 如果启用args.iesc，则根据问题的信息熵动态调整考虑的预测答案数量 (sc_size)
-        if args.iesc:
-            query = query_list[datalen]
-            q_score = calc_ent(query)
-            sc_size = int((sc_max - sc_min) / (max_score - min_score) * (q_score - min_score) + sc_min) + 2
-            avg_size += sc_size
-            print(avg_size)
+    #     # 如果启用args.iesc，则根据问题的信息熵动态调整考虑的预测答案数量 (sc_size)
+    #     if args.iesc:
+    #         query = query_list[datalen]
+    #         q_score = calc_ent(query)
+    #         sc_size = int((sc_max - sc_min) / (max_score - min_score) * (q_score - min_score) + sc_min) + 2
+    #         avg_size += sc_size
+    #         print(avg_size)
             
         print('---', sc_size)
 
@@ -687,7 +686,7 @@ def calcu_self_cons_accuracy(args):
                     "idx:" + str(count) + "\n" + "truth:" + truth + "\npred:" + pred + "\n" + str(pred_candi) + "\n\n")
         score += em
         count += 1
-    print("avg_size:", avg_size / len(data))
+    # print("avg_size:", avg_size / len(data))
     print(score / len(data))
     # with open(eval_path, "a", encoding='utf-8') as f:
     #     f.write(

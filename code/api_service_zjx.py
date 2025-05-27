@@ -18,7 +18,7 @@ def api_get_tokens(api_name,input_text,res_dict,output_fout,logger,args,model,to
             base_url="https://www.gptapi.us/v1",
             # api_key="sk-FOEU2G0AJjUv8ROtA883A69f70A947A8Bf340511D8B0053e"
             # base_url="https://api.pumpkinaigc.online/v1",
-            api_key="sk-BzRCbeyJsTdHXlK19c692e0619744aBfBcB8C58fD653Dc7d"  # args.api_key_1106
+            api_key="********"  # args.api_key_1106
             # base_url="https://api.pumpkinaigc.online/v1",
             # api_key="sk-UQHnVDbBEbMG40Yd4a373054Ba0640Ba977f1b84B23173F5"
         )
@@ -137,7 +137,7 @@ def llama_get_tokens(api_name,input_text,res_dict,output_fout,logger,args,model,
     
     # client = OpenAI(
     #         # base_url="https://www.gptapi.us/v1",
-    #         # api_key="sk-BzRCbeyJsTdHXlK19c692e0619744aBfBcB8C58fD653Dc7d"
+    #         # api_key="********"
     #         base_url="https://api.pumpkinaigc.online/v1",
     #         api_key=args.api_key_1106
     #     )

@@ -50,8 +50,7 @@ def get_prompt(args,llama_model,tokenizer,option):
         data=cleaned_data[:args.example_number]
         data="\n\n".join(data)+"\n\n"
         
-        
-        # # # 生成文本
+        # # 生成文本
         # output_dir = os.path.dirname(os.path.dirname(args.save_file))
         # prompt_path = os.path.join(output_dir,f"prompt/{args.dataset}_{args.type}_selectedQ.txt")
         # with open(prompt_path, 'r', encoding='utf-8') as f:

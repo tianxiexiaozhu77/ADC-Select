@@ -16,7 +16,7 @@ TRAIN_PATH='new_data/GSM8K/train.jsonl'
 TEST_PATH='new_data/GSM8K/zjx/inference/GSM8K_gpt-4-turbo_IE_instance.jsonl'
 # TEST_PATH='new_data/GSM8K/zjx/inference/GSM8K_chatgpt_gpt-3.5-turbo-1106_IE_instance.jsonl'
 OUTPUT_DIR='new_data/GSM8K/zjx'
-API_KEY_1106='sk-CLbpLAbwDluA50IjD9D5D39a439c428c9e7eD3D9355b7414'
+API_KEY_1106='********'
 MODLE=$api_name
 PROMPT="gpt-4-turbo"
 

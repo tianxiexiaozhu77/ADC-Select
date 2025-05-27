@@ -30,7 +30,7 @@ class Pool(object):
         self.question_list = []
         self.option_list = []
         self.IE_dict = {}
-        self.client = OpenAI(base_url="https://www.gptapi.us/v1", api_key="sk-BzRCbeyJsTdHXlK19c692e0619744aBfBcB8C58fD653Dc7d")
+        self.client = OpenAI(base_url="https://www.gptapi.us/v1", api_key="********")
         
         # embedding
         self.model_path = '/opt/data/private/zyc/Models/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2'
@@ -241,7 +241,7 @@ class Pool(object):
                     print(response)
                     print(f"fails: {e}")
                     fails += 1
-                    if fails == 20:
+                    if fails == 200:
                         print({"重复出现错误，退出."})
                         break
                     continue
